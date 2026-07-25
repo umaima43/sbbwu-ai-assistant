@@ -1,0 +1,4238 @@
+[
+  {
+    "id": "adm_1",
+    "title": "Chancellor — Administration",
+    "content": "The Vice Chancellor (VC) of Shaheed Benazir Bhutto Women University (SBBWU), Peshawar is Prof. Dr. Safia Ahmad who is the chief executive and academic head of the university.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "chancellor",
+      "pro chancellor",
+      "governance",
+      "kpk"
+    ],
+    "source_file": "about.json",
+    "word_count": 28
+  },
+  {
+    "id": "adm_2",
+    "title": "Vice Chancellor — Administration",
+    "content": "The Vice Chancellor is the main executive and academic head. They ensure all university laws, rules, and regulations are properly followed.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "vice chancellor",
+      "leadership",
+      "academic head"
+    ],
+    "source_file": "about.json",
+    "word_count": 21
+  },
+  {
+    "id": "adm_3",
+    "title": "Pro Vice Chancellor — Administration",
+    "content": "The Pro-Vice Chancellor acts as Vice Chancellor when the regular VC is on leave, abroad, or the position is vacant.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "pro vice chancellor",
+      "acting vc",
+      "administration"
+    ],
+    "source_file": "about.json",
+    "word_count": 20
+  },
+  {
+    "id": "adm_4",
+    "title": "Registrar — Administration",
+    "content": "The Registrar is a full-time officer and custodian of the university seal. They handle general administration, academic matters, and staff establishment.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "registrar",
+      "administration",
+      "academic affairs"
+    ],
+    "source_file": "about.json",
+    "word_count": 21
+  },
+  {
+    "id": "adm_5",
+    "title": "Treasurer — Administration",
+    "content": "The Treasurer manages financial operations, prepares the annual budget, and releases funds according to approved allocations.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "treasurer",
+      "finance",
+      "budget"
+    ],
+    "source_file": "about.json",
+    "word_count": 16
+  },
+  {
+    "id": "adm_6",
+    "title": "Examinations — Administration",
+    "content": "The Controller of Examinations manages all university examinations from undergraduate to PhD level.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "examinations",
+      "controller",
+      "assessment"
+    ],
+    "source_file": "about.json",
+    "word_count": 13
+  },
+  {
+    "id": "adm_7",
+    "title": "Media — Administration",
+    "content": "The Media and Protocol Section handles university publicity through print and electronic media and highlights academic, co-curricular, and research activities.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "media",
+      "public relations",
+      "research promotion"
+    ],
+    "source_file": "about.json",
+    "word_count": 20
+  },
+  {
+    "id": "adm_8",
+    "title": "Qec — Administration",
+    "content": "The Quality Enhancement Cell (QEC) is headed by the Dean and focuses on continuous improvement, capacity building, and preparing students and staff for future challenges.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "qec",
+      "quality assurance",
+      "training"
+    ],
+    "source_file": "about.json",
+    "word_count": 25
+  },
+  {
+    "id": "adm_9",
+    "title": "Planning — Administration",
+    "content": "The Planning and Development Directorate supports university growth by introducing new disciplines and managing development projects.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "planning",
+      "development",
+      "growth"
+    ],
+    "source_file": "about.json",
+    "word_count": 16
+  },
+  {
+    "id": "adm_10",
+    "title": "Hostel — Administration",
+    "content": "The Provost Office is responsible for managing hostel administration for students.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "hostel",
+      "provost",
+      "student life"
+    ],
+    "source_file": "about.json",
+    "word_count": 11
+  },
+  {
+    "id": "his_1",
+    "title": "First Women University — History",
+    "content": "Shaheed Benazir Bhutto Women University Peshawar is the first public sector women university in Khyber Pakhtunkhwa.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "first women university",
+      "kpk",
+      "education"
+    ],
+    "source_file": "about.json",
+    "word_count": 16
+  },
+  {
+    "id": "his_2",
+    "title": "Benazir Bhutto — History",
+    "content": "The university was named to honor Benazir Bhutto and other women of Pakistan who contributed to women empowerment and national development.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "benazir bhutto",
+      "women empowerment",
+      "naming"
+    ],
+    "source_file": "about.json",
+    "word_count": 21
+  },
+  {
+    "id": "his_3",
+    "title": "Inauguration — History",
+    "content": "The campus was inaugurated on 1 September 2004 by the Chief Minister of KPK.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "inauguration",
+      "2004",
+      "foundation"
+    ],
+    "source_file": "about.json",
+    "word_count": 14
+  },
+  {
+    "id": "his_4",
+    "title": "Law — History",
+    "content": "The university was established under the Frontier Women University Act 2004, later published in 2005 as a provincial act.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "law",
+      "act",
+      "legal foundation"
+    ],
+    "source_file": "about.json",
+    "word_count": 19
+  },
+  {
+    "id": "his_5",
+    "title": "Vice Chancellor — History",
+    "content": "The first Vice Chancellor, Prof. Dr. Syeda Farhana Jahangir, was appointed on 10 June 2005.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "vice chancellor",
+      "founder",
+      "leadership"
+    ],
+    "source_file": "about.json",
+    "word_count": 15
+  },
+  {
+    "id": "his_6",
+    "title": "Camp Office — History",
+    "content": "The university initially operated from the Department of Psychology at the University of Peshawar and became functional in a college hostel building.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "camp office",
+      "early stage",
+      "operations"
+    ],
+    "source_file": "about.json",
+    "word_count": 22
+  },
+  {
+    "id": "his_7",
+    "title": "Departments — History",
+    "content": "In February 2006, academic activities started with 8 departments including Arabic, Psychology, Computer Science, Islamiat, Mathematics, Statistics, Economics, and English with 240 students.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "departments",
+      "students",
+      "launch"
+    ],
+    "source_file": "about.json",
+    "word_count": 23
+  },
+  {
+    "id": "his_8",
+    "title": "Infrastructure — History",
+    "content": "In 2007, land of 400 kanals was allotted but initially occupied, and a PC-I project worth 456 million rupees was approved.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "infrastructure",
+      "land",
+      "development"
+    ],
+    "source_file": "about.json",
+    "word_count": 21
+  },
+  {
+    "id": "his_9",
+    "title": "New Programs — History",
+    "content": "New disciplines like Bioinformatics and Microbiology were introduced in 2007 along with a Clinical Psychology diploma and psychotherapeutic clinic.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "new programs",
+      "health sciences",
+      "innovation"
+    ],
+    "source_file": "about.json",
+    "word_count": 19
+  },
+  {
+    "id": "his_10",
+    "title": "Women Development — History",
+    "content": "Women Development Center and Education Department were established in 2008, introducing B.Ed, diplomas, and certificate programs.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "women development",
+      "education",
+      "programs"
+    ],
+    "source_file": "about.json",
+    "word_count": 16
+  },
+  {
+    "id": "his_11",
+    "title": "Mphil Phd — History",
+    "content": "MPhil and PhD programs started in English, Islamiat, and Psychology. Several colleges were affiliated and international MoUs were signed with UK universities.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "mphil phd",
+      "affiliations",
+      "international links"
+    ],
+    "source_file": "about.json",
+    "word_count": 22
+  },
+  {
+    "id": "his_12",
+    "title": "Disciplines — History",
+    "content": "In 2010, new disciplines like Law, Political Science, Urdu, Management Sciences, and Art & Design were introduced.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "disciplines",
+      "expansion",
+      "2010"
+    ],
+    "source_file": "about.json",
+    "word_count": 17
+  },
+  {
+    "id": "his_13",
+    "title": "Renaming — History",
+    "content": "The university was renamed from Frontier Women University to Shaheed Benazir Bhutto Women University through a legal amendment in 2010.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "renaming",
+      "legal change",
+      "identity"
+    ],
+    "source_file": "about.json",
+    "word_count": 20
+  },
+  {
+    "id": "his_14",
+    "title": "Higher Studies — History",
+    "content": "In 2012, MS programs and MPhil leading to PhD in Economics, Computer Science, and Management Sciences were introduced under the KPK Universities Act 2012.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "higher studies",
+      "ms program",
+      "phd"
+    ],
+    "source_file": "about.json",
+    "word_count": 24
+  },
+  {
+    "id": "his_15",
+    "title": "Growth — History",
+    "content": "By 2012, the university had 4600 students in 18 departments and 16 affiliated colleges with over 5000 students.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "growth",
+      "students",
+      "affiliations"
+    ],
+    "source_file": "about.json",
+    "word_count": 18
+  },
+  {
+    "id": "his_16",
+    "title": "Infrastructure — History",
+    "content": "The university built academic blocks, hostels, administration block, and IT infrastructure including a high-speed network and wireless system.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "infrastructure",
+      "it system",
+      "campus"
+    ],
+    "source_file": "about.json",
+    "word_count": 18
+  },
+  {
+    "id": "his_17",
+    "title": "Ranking — History",
+    "content": "The university was ranked 9th by HEC among 27 new universities in Pakistan despite security and infrastructure challenges.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "ranking",
+      "hec",
+      "achievement"
+    ],
+    "source_file": "about.json",
+    "word_count": 18
+  },
+  {
+    "id": "ovw_1",
+    "title": "Education — Overview",
+    "content": "Education is essential for national development and economic growth. Increasing literacy rate is key for reducing poverty.",
+    "url": "",
+    "category": "overview",
+    "tags": [
+      "education",
+      "development",
+      "literacy"
+    ],
+    "source_file": "about.json",
+    "word_count": 17
+  },
+  {
+    "id": "ovw_2",
+    "title": "Pakistan — Overview",
+    "content": "Pakistan invests in education to improve human resources and economic productivity through skill development.",
+    "url": "",
+    "category": "overview",
+    "tags": [
+      "pakistan",
+      "education policy",
+      "economy"
+    ],
+    "source_file": "about.json",
+    "word_count": 14
+  },
+  {
+    "id": "ovw_3",
+    "title": "Mission — Overview",
+    "content": "The university aims to provide quality education to women across Khyber Pakhtunkhwa, including remote areas.",
+    "url": "",
+    "category": "overview",
+    "tags": [
+      "mission",
+      "women education",
+      "access"
+    ],
+    "source_file": "about.json",
+    "word_count": 15
+  },
+  {
+    "id": "ovw_4",
+    "title": "Student Development — Overview",
+    "content": "The institution focuses on academic, moral, physical, professional, and spiritual development of students.",
+    "url": "",
+    "category": "overview",
+    "tags": [
+      "student development",
+      "holistic education"
+    ],
+    "source_file": "about.json",
+    "word_count": 13
+  },
+  {
+    "id": "ovw_5",
+    "title": "Expansion — Overview",
+    "content": "The university has expanded disciplines continuously since 2005 and remains the largest provider of female education in KPK.",
+    "url": "",
+    "category": "overview",
+    "tags": [
+      "expansion",
+      "largest university",
+      "female education"
+    ],
+    "source_file": "about.json",
+    "word_count": 18
+  },
+  {
+    "id": "ovw_6",
+    "title": "Facilities — Overview",
+    "content": "Modern facilities include IT centers, research units, accommodation near campus, and industry-linked programs for employability.",
+    "url": "",
+    "category": "overview",
+    "tags": [
+      "facilities",
+      "research",
+      "employment"
+    ],
+    "source_file": "about.json",
+    "word_count": 15
+  },
+  {
+    "id": "bio_001",
+    "title": "Chairperson — Biochemistry",
+    "content": "Department of Biochemistry is led by Dr. Sidra Pervez (Incharge/Chairperson). Email: biochemistry@sbbwu.edu.pk, Tel: +92-91-9224813.",
+    "url": "",
+    "category": "biochemistry",
+    "tags": [
+      "chairperson",
+      "contact",
+      "leadership"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "bio_002",
+    "title": "Faculty — Biochemistry",
+    "content": "Biochemistry faculty includes Dr. Rehana Masood (Assistant Professor), Ms. Sarah Sarwar (Lecturer), Dr. Rifat Jahan (Lecturer), Ms. Kiran Zafar (Lecturer), Dr. Sidra Pervez (Assistant Professor), Ms. Haleema Hidayat (Lecturer), Dr. Bushra Ahmad (Assistant Professor), Kiran Saba (Lecturer).",
+    "url": "",
+    "category": "biochemistry",
+    "tags": [
+      "faculty",
+      "teachers",
+      "lecturers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 37
+  },
+  {
+    "id": "bio_003",
+    "title": "Program — Biochemistry",
+    "content": "Biochemistry program focuses on molecular processes in living systems and develops skills in critical thinking, research, problem solving, and prepares students for careers in medicine, pharmacy, and industry.",
+    "url": "",
+    "category": "biochemistry",
+    "tags": [
+      "program",
+      "research",
+      "medicine",
+      "pharmacy"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 28
+  },
+  {
+    "id": "bio_004",
+    "title": "Vision — Biochemistry",
+    "content": "Biochemistry Vision: To become a leading department in KPK by providing quality education, research, and practical skills in pharmaceutical and medical sciences.",
+    "url": "",
+    "category": "biochemistry",
+    "tags": [
+      "vision",
+      "research",
+      "pharmaceutical"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 22
+  },
+  {
+    "id": "bio_005",
+    "title": "Mission — Biochemistry",
+    "content": "Biochemistry Mission: To provide quality education through innovative teaching, research ethics, problem-solving skills, and community service while producing competent professionals.",
+    "url": "",
+    "category": "biochemistry",
+    "tags": [
+      "mission",
+      "education",
+      "skills",
+      "ethics"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 20
+  },
+  {
+    "id": "bio_006",
+    "title": "Programs — Biochemistry",
+    "content": "Biochemistry offers BS and MS/MPhil programs.",
+    "url": "",
+    "category": "biochemistry",
+    "tags": [
+      "programs",
+      "bs",
+      "mphil"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 6
+  },
+  {
+    "id": "bioinfo_001",
+    "title": "Chairperson — Bioinformatics",
+    "content": "Department of Bioinformatics is led by Dr. Farhat Amin (Chairperson). Email: bioinformatics@sbbwu.edu.pk, Tel: +92-91-9224790.",
+    "url": "",
+    "category": "bioinformatics",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "bioinfo_002",
+    "title": "Faculty — Bioinformatics",
+    "content": "Bioinformatics faculty includes Dr. Ambreen Shahnaz, Ms. Toheeda Begum, Ms. Sheema Shuja Khattak, Ms. Asma Bibi, Ms. Asima Jamil, Ms. Asia Noureen, Ms. Aisha Ghani, Dr. Nousheen Bibi, Dr. Aishma Khattak, Dr. Sidra Qureshi.",
+    "url": "",
+    "category": "bioinformatics",
+    "tags": [
+      "faculty",
+      "lecturers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 34
+  },
+  {
+    "id": "bioinfo_003",
+    "title": "Data Science — Bioinformatics",
+    "content": "Bioinformatics integrates biology, computing, and medicine for analyzing biomedical data and solving interdisciplinary problems.",
+    "url": "",
+    "category": "bioinformatics",
+    "tags": [
+      "data science",
+      "biology",
+      "computing"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "bioinfo_004",
+    "title": "History — Bioinformatics",
+    "content": "Bioinformatics program started in 2007 to meet the need for experts in biology, computing, and biomedical data analysis.",
+    "url": "",
+    "category": "bioinformatics",
+    "tags": [
+      "history",
+      "foundation",
+      "data"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 18
+  },
+  {
+    "id": "bioinfo_005",
+    "title": "Bs Program — Bioinformatics",
+    "content": "Bioinformatics offers BS 4-year program with focus on interdisciplinary research and biomedical applications.",
+    "url": "",
+    "category": "bioinformatics",
+    "tags": [
+      "bs program",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 13
+  },
+  {
+    "id": "biotech_001",
+    "title": "Biotech — Biotechnology",
+    "content": "Biotechnology department is focused on improving human life through pharmaceuticals, agriculture, bioenergy, and environmental applications.",
+    "url": "",
+    "category": "biotechnology",
+    "tags": [
+      "biotech",
+      "health",
+      "agriculture"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 15
+  },
+  {
+    "id": "biotech_002",
+    "title": "Mission — Biotechnology",
+    "content": "Biotechnology mission is to produce graduates with theoretical and practical expertise to become researchers, educators, and entrepreneurs.",
+    "url": "",
+    "category": "biotechnology",
+    "tags": [
+      "mission",
+      "education",
+      "entrepreneurship"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "biotech_003",
+    "title": "Vision — Biotechnology",
+    "content": "Biotechnology vision is to empower individuals to use biotechnology for improving quality of life and informed decision-making.",
+    "url": "",
+    "category": "biotechnology",
+    "tags": [
+      "vision",
+      "innovation",
+      "life science"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "bot_001",
+    "title": "Chairperson — Botany",
+    "content": "Department of Botany is led by Dr. Faiza Tawab (Chairperson). Email: botany@sbbwu.edu.pk, Tel: 9224811.",
+    "url": "",
+    "category": "botany",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "bot_002",
+    "title": "Faculty — Botany",
+    "content": "Botany faculty includes Dr. Faiza Tawab, Dr. Naila Inayat, Dr. Ambrin, Dr. Rimsha Zainab as Assistant Professors.",
+    "url": "",
+    "category": "botany",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "bot_003",
+    "title": "Plants — Botany",
+    "content": "Botany studies plant science including genetics, ecology, physiology, microbiology, and plant pathology for environmental and food security.",
+    "url": "",
+    "category": "botany",
+    "tags": [
+      "plants",
+      "environment",
+      "food security"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "bot_004",
+    "title": "Mission — Botany",
+    "content": "Botany mission is to train students in plant sciences, research diseases, improve food production, and preserve biodiversity.",
+    "url": "",
+    "category": "botany",
+    "tags": [
+      "mission",
+      "agriculture",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "chem_001",
+    "title": "Chairperson — Chemistry",
+    "content": "Department of Chemistry is led by Dr. Nargis Jamila (Chairperson). Email: chemistry@sbbwu.edu.pk, Tel: +92-91-9224706.",
+    "url": "",
+    "category": "chemistry",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "chem_002",
+    "title": "Faculty — Chemistry",
+    "content": "Chemistry faculty includes Dr. Rozina Khattak, Dr. Aaliya Minhaz, Dr. Fatima Javed, Ms. Mamoona Alam, Ms. Raina Aman Qazi, Dr. Zahida Wasil, Dr. Bushra Begum, Ms. Bibi Ruqia, Dr. Naheed Bibi, Dr. Shagufta Rasool, Dr. Asma Nasrullah, Dr. Tasmia, Dr. Hajera Gul, Sadia Habib.",
+    "url": "",
+    "category": "chemistry",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 44
+  },
+  {
+    "id": "chem_003",
+    "title": "Education — Chemistry",
+    "content": "Chemistry department provides education in chemical sciences, laboratory training, research, and modern instrumentation for industry and academia.",
+    "url": "",
+    "category": "chemistry",
+    "tags": [
+      "education",
+      "laboratory",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "chem_004",
+    "title": "Programs — Chemistry",
+    "content": "Chemistry offers BS, MSc, and MPhil programs focused on scientific research and chemical applications.",
+    "url": "",
+    "category": "chemistry",
+    "tags": [
+      "programs",
+      "bs",
+      "msc",
+      "mphil"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "cs_001",
+    "title": "Chairperson — Computer Science",
+    "content": "Department of Computer Science is led by Dr. Fouzia Jabeen (Chairperson). Email: cs@sbbwu.edu.pk, Tel: +92-91-9224769.",
+    "url": "",
+    "category": "computer science",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 15
+  },
+  {
+    "id": "cs_002",
+    "title": "Faculty — Computer Science",
+    "content": "Computer Science faculty includes Dr. Neelam Gohar, Dr. Fouzia Idrees, Dr. Fouzia Jabeen, Dr. Tabinda Salam, Ms. Misbah Daud, Dr. Brekhna.",
+    "url": "",
+    "category": "computer science",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 21
+  },
+  {
+    "id": "cs_003",
+    "title": "Ai — Computer Science",
+    "content": "Computer Science department focuses on AI, data science, software engineering, databases, networking, and modern computing systems.",
+    "url": "",
+    "category": "computer science",
+    "tags": [
+      "ai",
+      "software",
+      "data science"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 16
+  },
+  {
+    "id": "cs_004",
+    "title": "Programs — Computer Science",
+    "content": "Programs offered in Computer Science include BS CS, BS Software Engineering, MS CS, and PhD CS with research areas like AI, NLP, Data Mining, and Computer Vision.",
+    "url": "",
+    "category": "computer science",
+    "tags": [
+      "programs",
+      "ai",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 27
+  },
+  {
+    "id": "econ_001",
+    "title": "Chairperson — Economics",
+    "content": "Department of Economics is led by Dr. Khadija Shams (Incharge/Chairperson). Email: economics@sbbwu.edu.pk, Tel: +92-91-9224760.",
+    "url": "",
+    "category": "economics",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "econ_002",
+    "title": "Faculty — Economics",
+    "content": "Economics faculty includes Dr. Madiha Gohar, Dr. Khadija Shams, Dr. Ayesha Abrar, Ms. Shandana Syed, Ms. Shahida Anjum, Ms. Saira Khan Afridi, Dr. Hina Harram, Ms. Huma Johar, Dr. Fariha Sami, Hafsa Taqqadus, Maryam Khattak, Ms. Sumera Shabnum.",
+    "url": "",
+    "category": "economics",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 38
+  },
+  {
+    "id": "econ_003",
+    "title": "Education — Economics",
+    "content": "The Economics Department focuses on microeconomics, macroeconomics, behavioural economics, Islamic economics, research seminars, and preparing students for careers in academia, banking, government, business, and research.",
+    "url": "",
+    "category": "economics",
+    "tags": [
+      "education",
+      "research",
+      "seminars"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 25
+  },
+  {
+    "id": "econ_004",
+    "title": "Programs — Economics",
+    "content": "Economics offers BS Economics (4-Year), MSc Economics (2-Year), MPhil leading to PhD, and PhD Economics programs.",
+    "url": "",
+    "category": "economics",
+    "tags": [
+      "programs",
+      "bs",
+      "msc",
+      "mphil",
+      "phd"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 16
+  },
+  {
+    "id": "food_001",
+    "title": "Chairperson — Food Nutrition",
+    "content": "Department of Food and Nutrition is led by Dr. Sidra Pervez (Incharge/Chairperson). Email: food-nutrition@sbbwu.edu.pk, Tel: +92-91-9224813.",
+    "url": "",
+    "category": "food nutrition",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 16
+  },
+  {
+    "id": "food_002",
+    "title": "Faculty — Food Nutrition",
+    "content": "Food and Nutrition faculty includes Dr. Aiman Umar, Dr. Bushra Ahmad, Ms. Kainat Ahmad (Visiting Lecturer), Ms. Sabeena Siraj (Visiting Lecturer), Dr. Rehana Masood, Dr. Sidra Pervez.",
+    "url": "",
+    "category": "food nutrition",
+    "tags": [
+      "faculty",
+      "teachers",
+      "visiting"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 27
+  },
+  {
+    "id": "food_003",
+    "title": "Nutrition — Food Nutrition",
+    "content": "The department focuses on nutrition, food science, public health, clinical nutrition, dietary balance, research in epidemiology, and improving human health and wellbeing.",
+    "url": "",
+    "category": "food nutrition",
+    "tags": [
+      "nutrition",
+      "health",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 22
+  },
+  {
+    "id": "food_004",
+    "title": "Programs — Food Nutrition",
+    "content": "Food and Nutrition offers BS Human Nutrition and Dietetics and BS Food Science and Technology programs.",
+    "url": "",
+    "category": "food nutrition",
+    "tags": [
+      "programs",
+      "bs"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 16
+  },
+  {
+    "id": "law_001",
+    "title": "Chairperson — Law",
+    "content": "Department of Law is led by Ms. Aarzoo Farhad (Incharge/Chairperson). Email: law@sbbwu.edu.pk, Tel: +92-91-9224781.",
+    "url": "",
+    "category": "law",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "law_002",
+    "title": "Faculty — Law",
+    "content": "Law faculty includes Prof. Abdul Manan, Ms. Aarzoo Farhad, Ms. Johar Wajhat, Ms. Hira Shah Jehan, Ms. Samina Sahar, Ms. Shehla Zahoor, Ms. SARA SIAL (Assistant Professor and Lecturers team).",
+    "url": "",
+    "category": "law",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 30
+  },
+  {
+    "id": "law_003",
+    "title": "Education — Law",
+    "content": "The Law Department focuses on legal education, human rights, family law, legal clinics, internships, debates, study tours, and training female legal practitioners for judiciary, academia, and civil services.",
+    "url": "",
+    "category": "law",
+    "tags": [
+      "education",
+      "law",
+      "training"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 28
+  },
+  {
+    "id": "law_004",
+    "title": "Programs — Law",
+    "content": "Law offers LLB (5-Year program) with certificate courses in Human Rights and Family Laws, along with practical legal training and community services.",
+    "url": "",
+    "category": "law",
+    "tags": [
+      "programs",
+      "llb"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 22
+  },
+  {
+    "id": "math_001",
+    "title": "Chairperson — Mathematics",
+    "content": "Department of Mathematics is led by Dr. Nadia Gul (Incharge/Chairperson). Email: maths@sbbwu.edu.pk, Tel: +92-91-9224712.",
+    "url": "",
+    "category": "mathematics",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "math_002",
+    "title": "Faculty — Mathematics",
+    "content": "Mathematics faculty includes Ms. Amina Bibi, Dr. Hina Zahir, Dr. Mehnaz Begum, Maria Bukhari, Ms. Asia Noureen, Dr. Nadia Gul, Hira Waheed, Dr. Nasra Nadeem, Dr. Sehra, Ms. Mehwish Tahir.",
+    "url": "",
+    "category": "mathematics",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 30
+  },
+  {
+    "id": "math_003",
+    "title": "Education — Mathematics",
+    "content": "The department focuses on mathematical research, problem solving, analytical skills, computational methods, and interdisciplinary academic cooperation.",
+    "url": "",
+    "category": "mathematics",
+    "tags": [
+      "education",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 16
+  },
+  {
+    "id": "math_004",
+    "title": "Programs — Mathematics",
+    "content": "Mathematics offers BS Mathematics (4-Year), MSc Mathematics (2-Year), MPhil, and PhD programs.",
+    "url": "",
+    "category": "mathematics",
+    "tags": [
+      "programs",
+      "bs",
+      "msc",
+      "mphil",
+      "phd"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 12
+  },
+  {
+    "id": "micro_001",
+    "title": "Chairperson — Microbiology",
+    "content": "Department of Microbiology is led by Dr. Sadia Butt (Incharge/Chairperson). Email: microbiology@sbbwu.edu.pk, Tel: +92-91-9224814.",
+    "url": "",
+    "category": "microbiology",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "micro_002",
+    "title": "Faculty — Microbiology",
+    "content": "Microbiology faculty includes Dr. Sadia Butt, Ms. Sumaira, Ms. Shagufta Sanam, Ms. Mahwish Raiz, Ms. Mahrukh Khattak, Ms. Mahreen Ul Hassan, Ms. Habiba Begum, Dr. Nadia Bibi.",
+    "url": "",
+    "category": "microbiology",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 27
+  },
+  {
+    "id": "micro_003",
+    "title": "Laboratory — Microbiology",
+    "content": "The department focuses on medical microbiology, genetics, immunology, food microbiology, molecular microbiology, environmental microbiology, and laboratory-based research.",
+    "url": "",
+    "category": "microbiology",
+    "tags": [
+      "laboratory",
+      "research",
+      "biology"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "micro_004",
+    "title": "Programs — Microbiology",
+    "content": "Microbiology offers BS Microbiology (4-Year program) with advanced research training and plans for MPhil and PhD programs.",
+    "url": "",
+    "category": "microbiology",
+    "tags": [
+      "programs",
+      "bs"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "physics_001",
+    "title": "Chairperson — Physics",
+    "content": "Department of Physics is led by Dr. Shahida Parveen (Incharge/Chairperson). Email: physics@sbbwu.edu.pk, Tel: +92-91-9224703.",
+    "url": "",
+    "category": "physics",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "physics_002",
+    "title": "Faculty — Physics",
+    "content": "Physics faculty includes Dr. Zoobia Ameer, Nabia Gulistan, Ms. Saima Ahmad Shah, Maria Masood, Dr. Shahida Parveen, Ms. Yasmeen Begum.",
+    "url": "",
+    "category": "physics",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 20
+  },
+  {
+    "id": "physics_003",
+    "title": "Education — Physics",
+    "content": "The department focuses on theoretical and applied physics, scientific research, experiments, seminars, and developing analytical and problem-solving skills.",
+    "url": "",
+    "category": "physics",
+    "tags": [
+      "education",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 18
+  },
+  {
+    "id": "physics_004",
+    "title": "Programs — Physics",
+    "content": "Physics offers BS Physics and MSc Physics programs with strong focus on research and experimental learning.",
+    "url": "",
+    "category": "physics",
+    "tags": [
+      "programs",
+      "bs",
+      "msc"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 16
+  },
+  {
+    "id": "pol_001",
+    "title": "Chairperson — Political Science",
+    "content": "Department of Political Science is led by Dr. Sadaf Bashir (Incharge/Chairperson). Email: pscience@sbbwu.edu.pk, Tel: +92-91-9224771.",
+    "url": "",
+    "category": "political science",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 15
+  },
+  {
+    "id": "pol_002",
+    "title": "Faculty — Political Science",
+    "content": "Political Science faculty includes Dr. Sadaf Bashir, Dr. Sadia Fayaz, Ms. Sumara Gul, Ms. Wajeeha Khan, Ms. Sonia Ambreen, Zarmina Baloch, Ms. Uroosa Ishfaq, Ms. Nargis Zaman.",
+    "url": "",
+    "category": "political science",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 27
+  },
+  {
+    "id": "pol_003",
+    "title": "Education — Political Science",
+    "content": "The department focuses on political philosophy, governance, international relations, human rights, and developing critical thinking, research, and communication skills.",
+    "url": "",
+    "category": "political science",
+    "tags": [
+      "education",
+      "politics",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 19
+  },
+  {
+    "id": "pol_004",
+    "title": "Programs — Political Science",
+    "content": "Political Science offers BS Political Science (4-Year) and MA Political Science (2-Year) programs.",
+    "url": "",
+    "category": "political science",
+    "tags": [
+      "programs",
+      "bs",
+      "ma"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 13
+  },
+  {
+    "id": "psy_001",
+    "title": "Chairperson — Psychology",
+    "content": "Department of Psychology is led by Dr. Saima Pervez (Incharge/Chairperson). Email: psychology@sbbwu.edu.pk, Tel: +92-91-9224759.",
+    "url": "",
+    "category": "psychology",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "psy_002",
+    "title": "Faculty — Psychology",
+    "content": "Psychology faculty includes Dr. Um-e-Kulsoom, Dr. Saima Pervez, Dr. Sonia Shagufta, Ms. Soniya Shams, Ms. Sabeen Rahim, Ms. Neelam Ehsan, Ms. Nazia Nawaz, Ms. Nawal Haider, Ms. Hira Nauman, Ms. Gul-e-Nayab, Ms. Farrukh Habib, Ms. Faiza Khan Afridi, Ms. Bargees Khattak, Ms. Amna Sirat.",
+    "url": "",
+    "category": "psychology",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 44
+  },
+  {
+    "id": "psy_003",
+    "title": "Education — Psychology",
+    "content": "The department focuses on clinical psychology, counseling, research methods, statistics, psychometrics, behavioral studies, and applied psychological training.",
+    "url": "",
+    "category": "psychology",
+    "tags": [
+      "education",
+      "research",
+      "clinical"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "psy_004",
+    "title": "Programs — Psychology",
+    "content": "Psychology offers BS Psychology, MSc Psychology, MPhil/PhD programs, and Post Graduate Diploma in Clinical Psychology.",
+    "url": "",
+    "category": "psychology",
+    "tags": [
+      "programs",
+      "bs",
+      "msc",
+      "mphil",
+      "phd"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 15
+  },
+  {
+    "id": "stat_001",
+    "title": "Chairperson — Statistics",
+    "content": "Department of Statistics is led by Ms. Soofia Iftikhar (Incharge/Chairperson). Email: statistics@sbbwu.edu.pk, Tel: +92-91-9224720.",
+    "url": "",
+    "category": "statistics",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "stat_002",
+    "title": "Faculty — Statistics",
+    "content": "Statistics faculty includes Dr. Asma Gul (Assistant Professor), Ms. Soofia Iftikhar (Assistant Professor), Ms. Sundus Hussain (Lecturer), Ms. Najma Salahuddin (Lecturer), Ms. Musarrat Ijaz (Lecturer), Ms. Ghazala Sahib (Lecturer), Ms. Balqis Khalil (Lecturer), Ms. Wirda Nisar (Lecturer).",
+    "url": "",
+    "category": "statistics",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 37
+  },
+  {
+    "id": "stat_003",
+    "title": "Education — Statistics",
+    "content": "The Statistics department provides training in statistical methods, data analysis, software like SPSS, SAS, MINITAB, and research-based quantitative techniques.",
+    "url": "",
+    "category": "statistics",
+    "tags": [
+      "education",
+      "data analysis",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 19
+  },
+  {
+    "id": "stat_004",
+    "title": "Programs — Statistics",
+    "content": "Statistics offers M.Phil program focused on advanced statistical modeling, research methods, and applied data science.",
+    "url": "",
+    "category": "statistics",
+    "tags": [
+      "programs",
+      "mphil"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 15
+  },
+  {
+    "id": "wdc_001",
+    "title": "Incharge — Women Development Centre",
+    "content": "Women Development Centre (WDC) is led by Ms. Sobia Kiramat Khan (Incharge).",
+    "url": "",
+    "category": "women development centre",
+    "tags": [
+      "incharge",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 12
+  },
+  {
+    "id": "wdc_002",
+    "title": "Women Empowerment — Women Development Centre",
+    "content": "WDC focuses on women empowerment, awareness programs, capacity building, and supporting female students in academic and professional growth.",
+    "url": "",
+    "category": "women development centre",
+    "tags": [
+      "women empowerment",
+      "training",
+      "support"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 18
+  },
+  {
+    "id": "zoo_001",
+    "title": "Chairperson — Zoology",
+    "content": "Department of Zoology is led by Dr. Iram Maqsood (Incharge/Chairperson). Email: zoology@sbbwu.edu.pk, Tel: +92-91-9224787.",
+    "url": "",
+    "category": "zoology",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "zoo_002",
+    "title": "Faculty — Zoology",
+    "content": "Zoology faculty includes Dr. Iram Maqsood (Assistant Professor), Dr. Asima Azam (Assistant Professor), Ms. Saira Saleem (Lecturer), Ms. Ambar Shaheen (Lecturer), Dr. Sumbal Haleem (Lecturer), Dr. Fatima Jahan (Lecturer), Huma Shaheen (Lecturer).",
+    "url": "",
+    "category": "zoology",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 32
+  },
+  {
+    "id": "zoo_003",
+    "title": "Education — Zoology",
+    "content": "The Zoology department focuses on animal science, biodiversity, genetics, ecology, parasitology, and research-based biological studies.",
+    "url": "",
+    "category": "zoology",
+    "tags": [
+      "education",
+      "biology",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 15
+  },
+  {
+    "id": "zoo_004",
+    "title": "Programs — Zoology",
+    "content": "Zoology offers BS and MSc programs with strong laboratory training, research exposure, and animal science studies.",
+    "url": "",
+    "category": "zoology",
+    "tags": [
+      "programs",
+      "bs",
+      "msc"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 16
+  },
+  {
+    "id": "biochemistry_002",
+    "title": "Faculty — Biochemistry",
+    "content": "Faculty includes Dr. Rehana Masood, Ms. Sarah Sarwar, Dr. Rifat Jahan, Ms. Kiran Zafar, Dr. Sidra Pervez, Ms. Haleema Hidayat, Dr. Bushra Ahmad, Kiran Saba.",
+    "url": "",
+    "category": "biochemistry",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 25
+  },
+  {
+    "id": "biochemistry_003",
+    "title": "Overview — Biochemistry",
+    "content": "Biochemistry focuses on chemical processes in living systems, critical thinking, research skills, and applications in medical and pharmaceutical industries.",
+    "url": "",
+    "category": "biochemistry",
+    "tags": [
+      "overview",
+      "research",
+      "education"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 19
+  },
+  {
+    "id": "biochemistry_004",
+    "title": "Programs — Biochemistry",
+    "content": "Programs offered include BS Biochemistry and MS/M.Phil Biochemistry with emphasis on research and practical skills.",
+    "url": "",
+    "category": "biochemistry",
+    "tags": [
+      "programs",
+      "bs",
+      "ms"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 15
+  },
+  {
+    "id": "art_design_001",
+    "title": "Chairperson — Art And Design",
+    "content": "Department of Art & Design is led by Ms. Saima Naseer (Incharge/Chairperson). Email: finearts@sbbwu.edu.pk, Tel: +92-91-9224772.",
+    "url": "",
+    "category": "art and design",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 16
+  },
+  {
+    "id": "art_design_002",
+    "title": "Faculty — Art And Design",
+    "content": "Faculty includes Ms. Syeda Aneela Mudassar, Ms. Sania Siraj, Ms. Saima Naseer, Ms. Sadia Riaz, Ms. Nida Tajik, Ms. Fatima Amin, Ms. Afsheen Zaman.",
+    "url": "",
+    "category": "art and design",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 24
+  },
+  {
+    "id": "art_design_003",
+    "title": "Overview — Art And Design",
+    "content": "The department covers Painting, Drawing, Fashion Design, Textile Design, Graphic Art and promotes Pakistani cultural heritage and visual arts.",
+    "url": "",
+    "category": "art and design",
+    "tags": [
+      "overview",
+      "arts",
+      "culture"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 19
+  },
+  {
+    "id": "art_design_004",
+    "title": "Programs — Art And Design",
+    "content": "Program offered: BFA (Bachelor of Fine Arts) with focus on creativity, design skills, and professional art development.",
+    "url": "",
+    "category": "art and design",
+    "tags": [
+      "programs",
+      "bfa"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "education_001",
+    "title": "Chairperson — Education",
+    "content": "Department of Education is led by Dr. Wilayat Bibi (Incharge/Chairperson). Email: education@sbbwu.edu.pk, Tel: +92-91-9224815.",
+    "url": "",
+    "category": "education",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "education_002",
+    "title": "Faculty — Education",
+    "content": "Faculty includes Dr. Shehzadi Seema, Ms. Uzma Rehman Khattak, Ms. Abida Sultana, Ms. Sana Tabassum.",
+    "url": "",
+    "category": "education",
+    "tags": [
+      "faculty",
+      "teachers"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 15
+  },
+  {
+    "id": "education_003",
+    "title": "Overview — Education",
+    "content": "The department focuses on educational excellence, research, teacher training, assessment, intervention, consultation, and ethical professional practice.",
+    "url": "",
+    "category": "education",
+    "tags": [
+      "overview",
+      "mission",
+      "education"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 16
+  },
+  {
+    "id": "education_004",
+    "title": "Programs — Education",
+    "content": "Programs include B.Ed (Hons), ADE, M.Phil Education, and Ph.D Education.",
+    "url": "",
+    "category": "education",
+    "tags": [
+      "programs",
+      "bachelors",
+      "phd"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 10
+  },
+  {
+    "id": "geography_001",
+    "title": "Chairperson — Geography",
+    "content": "Department of Geography is led by Incharge/Chairperson. Email: geography@sbbwu.edu.pk, Tel: +92-91-9224811.",
+    "url": "",
+    "category": "geography",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 11
+  },
+  {
+    "id": "geography_002",
+    "title": "Faculty — Geography",
+    "content": "Faculty includes Ms. Shehla Zahoor (Assistant Professor).",
+    "url": "",
+    "category": "geography",
+    "tags": [
+      "faculty"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 7
+  },
+  {
+    "id": "geography_003",
+    "title": "Overview — Geography",
+    "content": "Geography studies Earth systems, human geography, GIS, spatial analysis, and environmental change using field and computational methods.",
+    "url": "",
+    "category": "geography",
+    "tags": [
+      "overview",
+      "research",
+      "gis"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "geography_004",
+    "title": "Programs — Geography",
+    "content": "Program offered: BS Geography focusing on physical and human geography and spatial technologies.",
+    "url": "",
+    "category": "geography",
+    "tags": [
+      "programs",
+      "bs"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 13
+  },
+  {
+    "id": "health_physical_001",
+    "title": "Chairperson — Health Physical Education",
+    "content": "Department of Health & Physical Education is led by Ms. Mariyyah Samin (Incharge/Chairperson). Email: sports@sbbwu.edu.pk, Tel: +92-91-9224701.",
+    "url": "",
+    "category": "health physical education",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 17
+  },
+  {
+    "id": "history_001",
+    "title": "Chairperson — History",
+    "content": "Department of History is led by Dr. Hamida (Incharge/Chairperson). Email: history@sbbwu.edu.pk, Tel: +92-91-9224810.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 13
+  },
+  {
+    "id": "history_002",
+    "title": "Faculty — History",
+    "content": "Faculty includes Dr. Razia Sultana, Ms. Motia Bibi, Ms. Hina Bahadur, Dr. Jehanzeb Khalil, Dr. Hamida.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "faculty"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 16
+  },
+  {
+    "id": "history_003",
+    "title": "Overview — History",
+    "content": "History department studies political, social, cultural and economic history with focus on Pakistan and global civilizations.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "overview",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 16
+  },
+  {
+    "id": "history_004",
+    "title": "Programs — History",
+    "content": "Program offered: MA History (2 years / 4 semesters) with research and co-curricular activities.",
+    "url": "",
+    "category": "history",
+    "tags": [
+      "programs",
+      "ma"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "islamiyat_001",
+    "title": "Chairperson — Islamiyat",
+    "content": "Department of Islamiyat is led by Dr. Khadija Aziz (Incharge/Chairperson). Email: islamiyat@sbbwu.edu.pk, Tel: +92-91-9224727.",
+    "url": "",
+    "category": "islamiyat",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "islamiyat_002",
+    "title": "Faculty — Islamiyat",
+    "content": "Faculty includes Dr. Khadija Aziz, Dr. Samina Begum, Dr. Hashmat Begum, Dr. Naseem Akhtar, Dr. Seema, Dr. Zainab Amin, Dr. Salma Anjum, Dr. Fatima, Ms. Nazia Bibi.",
+    "url": "",
+    "category": "islamiyat",
+    "tags": [
+      "faculty"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 27
+  },
+  {
+    "id": "islamiyat_003",
+    "title": "Overview — Islamiyat",
+    "content": "Islamiyat department focuses on Islamic teachings, Quran, Hadith, Fiqh, Arabic grammar, comparative religion and research.",
+    "url": "",
+    "category": "islamiyat",
+    "tags": [
+      "overview",
+      "religion",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 15
+  },
+  {
+    "id": "islamiyat_004",
+    "title": "Programs — Islamiyat",
+    "content": "Programs include MA Islamiyat and M.Phil leading to Ph.D.",
+    "url": "",
+    "category": "islamiyat",
+    "tags": [
+      "programs",
+      "ma",
+      "phd"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 9
+  },
+  {
+    "id": "management_sciences_001",
+    "title": "Chairperson — Management Sciences",
+    "content": "Department of Management Sciences is led by Dr. Sadia Aziz (Incharge/Chairperson). Email: mscience@sbbwu.edu.pk, Tel: +92-91-9224780.",
+    "url": "",
+    "category": "management sciences",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 15
+  },
+  {
+    "id": "management_sciences_002",
+    "title": "Faculty — Management Sciences",
+    "content": "Faculty includes Dr. Sadia Aziz, Dr. Aysha Abrar, Ms. Syeda Mahwish Bokhari, Ms. Sundus Wasai, Ms. Misbah Noor, Dr. Mehwish Bilal, Ms. Madeeha Jabeen, Ms. Komal Zubair Khan, Ms. Ambreen.",
+    "url": "",
+    "category": "management sciences",
+    "tags": [
+      "faculty"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 30
+  },
+  {
+    "id": "management_sciences_003",
+    "title": "Overview — Management Sciences",
+    "content": "The department focuses on business education, entrepreneurship, management skills, leadership development and research.",
+    "url": "",
+    "category": "management sciences",
+    "tags": [
+      "overview",
+      "business"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 13
+  },
+  {
+    "id": "management_sciences_004",
+    "title": "Programs — Management Sciences",
+    "content": "Programs include BBA, MBA, MS, and PhD with updated curriculum aligned to modern business needs.",
+    "url": "",
+    "category": "management sciences",
+    "tags": [
+      "programs",
+      "bba",
+      "mba"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 15
+  },
+  {
+    "id": "urdu_001",
+    "title": "Chairperson — Urdu",
+    "content": "Department of Urdu is led by Dr. Basmin Siraj (Incharge/Chairperson). Email: urdu@sbbwu.edu.pk, Tel: +92-91-9224810.",
+    "url": "",
+    "category": "urdu",
+    "tags": [
+      "chairperson",
+      "contact"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 14
+  },
+  {
+    "id": "urdu_002",
+    "title": "Faculty — Urdu",
+    "content": "Faculty includes Dr. Basmin Siraj, Ms. Robina Rashid, Dr. Antalzia, Dr. Salma, Dr. Zeenat Bibi, Dr. Raheela Bibi.",
+    "url": "",
+    "category": "urdu",
+    "tags": [
+      "faculty"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 18
+  },
+  {
+    "id": "english_001",
+    "title": "Chairperson — English",
+    "content": "The Department of English Language & Literature is led by Ms. Sadia Nazeer (Incharge/Chairperson). Contact details include Email: english@sbbwu.edu.pk and Telephone: +92-91-9224725.",
+    "url": "",
+    "category": "english",
+    "tags": [
+      "chairperson",
+      "contact",
+      "department"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 22
+  },
+  {
+    "id": "english_002",
+    "title": "Overview — English",
+    "content": "The department focuses on English language and literature studies, rhetoric, narrative skills, analytical skills, research, literary approaches, and theoretical issues. Its vision is to become a leading department that promotes research and scholarly activities in literature and linguistics.",
+    "url": "",
+    "category": "english",
+    "tags": [
+      "overview",
+      "vision",
+      "research"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 38
+  },
+  {
+    "id": "english_003",
+    "title": "Mission — English",
+    "content": "The mission of the department is to inspire appreciation of English language and literature, encourage creative expression, and provide an in-depth understanding of literature through study and research.",
+    "url": "",
+    "category": "english",
+    "tags": [
+      "mission",
+      "education",
+      "literature"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 28
+  },
+  {
+    "id": "english_004",
+    "title": "Programs — English",
+    "content": "Programs offered include BS, MA, M.Phil in English Literature, Masters in English Language & Literature, and Certificate Courses in English Language.",
+    "url": "",
+    "category": "english",
+    "tags": [
+      "programs",
+      "degree",
+      "courses"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 21
+  },
+  {
+    "id": "english_005",
+    "title": "Faculty — English",
+    "content": "Faculty includes Ms. Hoor Shamail Khattak, Ms. Sadia Nazeer, Ms. Henna Karamat, Ms. Beenish Asmatullah, Dr. Anbarin Fatima, Ms. Shumaila Ashee, and Ms. Sehrish.",
+    "url": "",
+    "category": "english",
+    "tags": [
+      "faculty",
+      "teachers",
+      "staff"
+    ],
+    "source_file": "acadmics.json",
+    "word_count": 24
+  },
+  {
+    "id": "academic_section_001",
+    "title": "Overview — Academic Section",
+    "content": "The Academic Section functions under the direction and control of the Registrar of the University and operates in accordance with the Khyber Pakhtunkhwa Universities Act 2012, Statutes, and Rules in force.",
+    "url": "",
+    "category": "academic section",
+    "tags": [
+      "overview",
+      "administration",
+      "governance"
+    ],
+    "source_file": "administration.json",
+    "word_count": 31
+  },
+  {
+    "id": "academic_section_002",
+    "title": "Responsibilities — Academic Section",
+    "content": "The Academic Section is responsible for formation of university authorities such as Senate, Syndicate, and Academic Council; formation of statutory bodies including Boards of Faculties, Boards of Studies, Affiliation Committee, Discipline Committee, Advanced Studies and Research Board, Finance and Planning Committee, and Selection Board; conduct of Senate and Academic Council meetings; processing appointments of Deans and Chairpersons; conducting elections for university bodies; framing and amendment of statutes and regulations; approval of academic schemes of study; notification of academic calendar including holidays and vacations; performance evaluation of faculty under Tenure Track System; and disbursement of laptops under government schemes.",
+    "url": "",
+    "category": "academic section",
+    "tags": [
+      "responsibilities",
+      "governance",
+      "academic management"
+    ],
+    "source_file": "administration.json",
+    "word_count": 98
+  },
+  {
+    "id": "academic_section_003",
+    "title": "Deputy Registrar — Academic Staff",
+    "content": "Ms. Fehmeeda Yasmin serves as Deputy Registrar in the Academic Section. Email: dracad@sbbwu.edu.pk, Phone: 091-9224708.",
+    "url": "",
+    "category": "academic staff",
+    "tags": [
+      "deputy registrar",
+      "contact",
+      "staff"
+    ],
+    "source_file": "administration.json",
+    "word_count": 15
+  },
+  {
+    "id": "academic_section_004",
+    "title": "Assistant Registrar — Academic Staff",
+    "content": "Ms. Sumayya Shahid serves as Assistant Registrar in the Academic Section. Email: sumayyashahid@sbbwu.edu.pk, Phone: 091-9224708.",
+    "url": "",
+    "category": "academic staff",
+    "tags": [
+      "assistant registrar",
+      "contact",
+      "staff"
+    ],
+    "source_file": "administration.json",
+    "word_count": 15
+  },
+  {
+    "id": "affiliation_section_001",
+    "title": "Overview — Affiliation Section",
+    "content": "The Affiliations & Monitoring Section of Shaheed Benazir Bhutto Women University, Peshawar is responsible for quality assurance, regulatory compliance, monitoring of affiliated colleges, and coordination with Higher Education Commission (HEC) and Higher Education Department. It ensures implementation of academic standards and manages affiliation, renewal, and inspection processes.",
+    "url": "",
+    "category": "affiliation section",
+    "tags": [
+      "overview",
+      "quality assurance",
+      "monitoring"
+    ],
+    "source_file": "administration.json",
+    "word_count": 47
+  },
+  {
+    "id": "affiliation_section_002",
+    "title": "Contact — Affiliation Section",
+    "content": "Affiliations & Monitoring Section contact details: Shaheed Benazir Bhutto Women University, Larama, Peshawar, Pakistan. Email: ar2.affiliations@sbbwu.edu.pk.",
+    "url": "",
+    "category": "affiliation section",
+    "tags": [
+      "contact",
+      "address",
+      "email"
+    ],
+    "source_file": "administration.json",
+    "word_count": 16
+  },
+  {
+    "id": "affiliation_section_003",
+    "title": "Colleges — Affiliated Colleges",
+    "content": "Affiliated colleges include Abaseen Foundation Degree College; Alamzeb Shaheed Government Girls College of Commerce & Management Peshawar; City District Government Degree College for Women Peshawar; Government City College Gulbahar Peshawar; Government Frontier College for Women Peshawar; and multiple other government and private colleges across Khyber Pakhtunkhwa.",
+    "url": "",
+    "category": "affiliated colleges",
+    "tags": [
+      "colleges",
+      "list",
+      "affiliation"
+    ],
+    "source_file": "administration.json",
+    "word_count": 46
+  },
+  {
+    "id": "affiliation_section_004",
+    "title": "Staff — Affiliation Staff",
+    "content": "Affiliations & Monitoring Section staff includes Tashfeen Zia (Deputy Registrar), Ayesha Maqsood (Assistant Registrar), Nagina Parveen (Office Assistant), Neelam Pari (Junior Clerk), and Brikhna (Junior Clerk). All can be contacted via ar2.affiliations@sbbwu.edu.pk or phone 091-9224723.",
+    "url": "",
+    "category": "affiliation staff",
+    "tags": [
+      "staff",
+      "contact",
+      "administration"
+    ],
+    "source_file": "administration.json",
+    "word_count": 35
+  },
+  {
+    "id": "curriculum_001",
+    "title": "Undergraduate — Curriculum",
+    "content": "The curriculum for undergraduate programs (Associate Degree and BS) is standardized and verified by respective university departments. It includes disciplines such as Botany, Chemistry, Computer Science, Economics, English, Geography, History, Islamiyat, Mathematics, Physics, Political Science, Statistics, Urdu, Zoology, Psychology, Home Economics, Microbiology, HPE, and others.",
+    "url": "",
+    "category": "curriculum",
+    "tags": [
+      "undergraduate",
+      "programs",
+      "subjects"
+    ],
+    "source_file": "administration.json",
+    "word_count": 45
+  },
+  {
+    "id": "registrar_office_001",
+    "title": "Administration — Registrar Office",
+    "content": "The Registrar Office manages administrative communication and academic governance of the university.",
+    "url": "",
+    "category": "registrar office",
+    "tags": [
+      "administration",
+      "office"
+    ],
+    "source_file": "administration.json",
+    "word_count": 12
+  },
+  {
+    "id": "registrar_office_002",
+    "title": "Contact — Registrar Office",
+    "content": "Registrar Office contact information: Email addresses include registrar@sbbwu.edu.pk and d.registrar@sbbwu.edu.pk. Phone: +92-91-9224721.",
+    "url": "",
+    "category": "registrar office",
+    "tags": [
+      "contact",
+      "email",
+      "phone"
+    ],
+    "source_file": "administration.json",
+    "word_count": 12
+  },
+  {
+    "id": "registrar_staff_001",
+    "title": "Assistant Registrar — Registrar Staff",
+    "content": "Ms. Amna Shaheen serves as Assistant Registrar in the Registrar Office. Email: establishment@sbbwu.edu.pk, Phone: +92 91 9224791.",
+    "url": "",
+    "category": "registrar staff",
+    "tags": [
+      "assistant registrar",
+      "contact",
+      "staff"
+    ],
+    "source_file": "administration.json",
+    "word_count": 17
+  },
+  {
+    "id": "registrar_staff_002",
+    "title": "Registrar — Registrar Staff",
+    "content": "Ms. Fehmeeda Yasmin serves as Registrar. Email: registrar@sbbwu.edu.pk, Phone: 091-9224700.",
+    "url": "",
+    "category": "registrar staff",
+    "tags": [
+      "registrar",
+      "contact",
+      "leadership"
+    ],
+    "source_file": "administration.json",
+    "word_count": 10
+  },
+  {
+    "id": "student_affairs_001",
+    "title": "Administration — Student Affairs",
+    "content": "The Director Student Affairs oversees student-related academic and administrative matters at the university.",
+    "url": "",
+    "category": "student affairs",
+    "tags": [
+      "administration",
+      "students"
+    ],
+    "source_file": "administration.json",
+    "word_count": 13
+  },
+  {
+    "id": "student_affairs_002",
+    "title": "Director — Student Affairs Staff",
+    "content": "Dr. Farhat Amin serves as Director Student Affairs. Email: bioinformatics@sbbwu.edu.pk, Phone: +92-91-9224790.",
+    "url": "",
+    "category": "student affairs staff",
+    "tags": [
+      "director",
+      "contact",
+      "staff"
+    ],
+    "source_file": "administration.json",
+    "word_count": 12
+  },
+  {
+    "id": "vc_office_001",
+    "title": "Leadership — Vc Office",
+    "content": "The Vice Chancellor Office is responsible for overall academic and administrative leadership of the university.",
+    "url": "",
+    "category": "vc office",
+    "tags": [
+      "leadership",
+      "administration"
+    ],
+    "source_file": "administration.json",
+    "word_count": 15
+  },
+  {
+    "id": "vc_office_002",
+    "title": "Vice Chancellor — Vc Office Staff",
+    "content": "Prof. Dr. Safia Ahmed serves as Vice Chancellor. Email: vc@sbbwu.edu.pk, Phone: 091-9224777.",
+    "url": "",
+    "category": "vc office staff",
+    "tags": [
+      "vice chancellor",
+      "leadership",
+      "contact"
+    ],
+    "source_file": "administration.json",
+    "word_count": 12
+  },
+  {
+    "id": "vc_office_003",
+    "title": "Staff — Vc Office Staff",
+    "content": "Vice Chancellor Office staff includes Miss Kopal (Assistant Research Investigator), Ms. Shehnaz (PS to VC), and Miss Hina Naz (PA to Vice Chancellor). All are contactable via 091-9224777.",
+    "url": "",
+    "category": "vc office staff",
+    "tags": [
+      "staff",
+      "administration",
+      "support"
+    ],
+    "source_file": "administration.json",
+    "word_count": 28
+  },
+  {
+    "id": "university_location_001",
+    "title": "Location — University Location",
+    "content": "Shaheed Benazir Bhutto Women University is located at LARAMA, Charsadda Road, Peshawar.",
+    "url": "",
+    "category": "university location",
+    "tags": [
+      "location",
+      "campus",
+      "address"
+    ],
+    "source_file": "contactlocation.json",
+    "word_count": 12
+  },
+  {
+    "id": "university_facebook_001",
+    "title": "Facebook — Social Media",
+    "content": "Official Facebook page of Shaheed Benazir Bhutto Women University: https://web.facebook.com/people/Shaheed-Benazir-Bhutto-Women-University-Peshawar/100064362114767/",
+    "url": "",
+    "category": "social media",
+    "tags": [
+      "facebook",
+      "official page",
+      "social media"
+    ],
+    "source_file": "contactlocation.json",
+    "word_count": 10
+  },
+  {
+    "id": "admissions_contact_001",
+    "title": "Admissions — Admissions Contact",
+    "content": "For admissions and merit lists, contact phone +92-91-9224726 or email admissions@sbbwu.edu.pk.",
+    "url": "",
+    "category": "admissions contact",
+    "tags": [
+      "admissions",
+      "merit lists",
+      "contact",
+      "phone",
+      "email"
+    ],
+    "source_file": "contactlocation.json",
+    "word_count": 11
+  },
+  {
+    "id": "examinations_contact_001",
+    "title": "Exams — Examinations Contact",
+    "content": "For examinations, results, and date sheets, contact phone +92-91-9224724 or email assttcontroller2@sbbwu.edu.pk.",
+    "url": "",
+    "category": "examinations contact",
+    "tags": [
+      "exams",
+      "results",
+      "date sheets",
+      "contact",
+      "phone",
+      "email"
+    ],
+    "source_file": "contactlocation.json",
+    "word_count": 12
+  },
+  {
+    "id": "contact_001",
+    "title": "Vice Chancellor — Contact Directory",
+    "content": "Vice Chancellor Office contact email vc@sbbwu.edu.pk and phone +92-91-9224777. Fax +92-91-9224778.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "vice chancellor",
+      "office contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 11
+  },
+  {
+    "id": "contact_002",
+    "title": "Pro Vice Chancellor — Contact Directory",
+    "content": "Pro Vice Chancellor contact email provc@sbbwu.edu.pk and phone +92-91-9224736.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "pro vice chancellor",
+      "office contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 9
+  },
+  {
+    "id": "contact_003",
+    "title": "Registrar Office — Contact Directory",
+    "content": "Registrar Office contact email registrar@sbbwu.edu.pk and phone +92-91-9224700, +92-91-9224799. Fax +92-91-9224707.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "registrar office",
+      "office contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 11
+  },
+  {
+    "id": "contact_004",
+    "title": "Deputy Registrar — Contact Directory",
+    "content": "Deputy Registrar contact email d.registrar@sbbwu.edu.pk and phone +92-91-9224791.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "deputy registrar",
+      "office contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "contact_005",
+    "title": "It Centre — Contact Directory",
+    "content": "IT Centre contact email itc@sbbwu.edu.pk and phone +92-91-9224770.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "it centre",
+      "it support contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "contact_006",
+    "title": "Library — Contact Directory",
+    "content": "Central Library contact email librarian@sbbwu.edu.pk and phone +92-91-9224749.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "library",
+      "library contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "contact_007",
+    "title": "Admissions — Contact Directory",
+    "content": "Admission Section contact emails admissions@sbbwu.edu.pk and a.r.a@sbbwu.edu.pk with phone +92-91-9224726.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "admissions",
+      "admission contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 10
+  },
+  {
+    "id": "contact_008",
+    "title": "Exams — Contact Directory",
+    "content": "Examination Sections contact controllerexams@sbbwu.edu.pk with phones +92-91-9224713, +92-91-9224718, +92-91-9224716, +92-91-9224799 depending on section.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "exams",
+      "examination contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 13
+  },
+  {
+    "id": "contact_009",
+    "title": "Computer Science — Contact Directory",
+    "content": "Department of Computer Science contact cs@sbbwu.edu.pk and phone +92-91-9224769.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "computer science",
+      "department contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 9
+  },
+  {
+    "id": "contact_010",
+    "title": "Economics — Contact Directory",
+    "content": "Department of Economics contact economics@sbbwu.edu.pk and phone +92-91-9224760.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "economics",
+      "department contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "contact_011",
+    "title": "Psychology — Contact Directory",
+    "content": "Department of Psychology contact psychology@sbbwu.edu.pk and phone +92-91-9224759.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "psychology",
+      "department contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "contact_012",
+    "title": "Statistics — Contact Directory",
+    "content": "Department of Statistics contact statistics@sbbwu.edu.pk and phone +92-91-9224720.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "statistics",
+      "department contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "contact_013",
+    "title": "Mathematics — Contact Directory",
+    "content": "Department of Mathematics contact maths@sbbwu.edu.pk and phone +92-91-9224712.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "mathematics",
+      "department contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "contact_014",
+    "title": "Islamiyat — Contact Directory",
+    "content": "Department of Islamiyat contact islamiyat@sbbwu.edu.pk and phone +92-91-9224727.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "islamiyat",
+      "department contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "contact_015",
+    "title": "Management Sciences — Contact Directory",
+    "content": "Department of Management Sciences contact mscience@sbbwu.edu.pk and phone +92-91-9224780.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "management sciences",
+      "department contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 9
+  },
+  {
+    "id": "contact_016",
+    "title": "Physics — Contact Directory",
+    "content": "Department of Physics contact physics@sbbwu.edu.pk and phone +92-91-9224703.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "physics",
+      "department contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "contact_017",
+    "title": "Chemistry — Contact Directory",
+    "content": "Department of Chemistry contact chemistry@sbbwu.edu.pk and phones +92-91-9224706, +92-91-9224785.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "chemistry",
+      "department contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 9
+  },
+  {
+    "id": "contact_018",
+    "title": "English — Contact Directory",
+    "content": "Department of English contact english@sbbwu.edu.pk and phone +92-91-9224725.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "english",
+      "department contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "contact_019",
+    "title": "Education — Contact Directory",
+    "content": "Department of Education contact education@sbbwu.edu.pk and phones +92-91-9224815, +92-91-9224816.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "education",
+      "department contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 9
+  },
+  {
+    "id": "contact_020",
+    "title": "Hostel — Contact Directory",
+    "content": "Hostel contact email hostel@sbbwu.edu.pk and phone +92-91-9224800.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "hostel",
+      "hostel contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 7
+  },
+  {
+    "id": "contact_021",
+    "title": "Security — Contact Directory",
+    "content": "CCTV Control Room contact controlroom@sbbwu.edu.pk and phone +92-91-9224812.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "security",
+      "cctv contact"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "contact_022",
+    "title": "University Main Contact — Contact Directory",
+    "content": "General university contact email info@sbbwu.edu.pk and phone +92-91-9224722.",
+    "url": "",
+    "category": "contact directory",
+    "tags": [
+      "university main contact",
+      "general inquiry"
+    ],
+    "source_file": "contacts.json",
+    "word_count": 8
+  },
+  {
+    "id": "scheme_of_studies_link",
+    "title": "Scheme Of Studies — Scheme Of Studies",
+    "content": "For complete and updated semester-wise subjects, students should refer to the official Scheme of Studies PDF available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/Website_Material_Scheme_of_Studies.pdf",
+    "url": "",
+    "category": "scheme of studies",
+    "tags": [
+      "scheme of studies",
+      "redirect",
+      "official document",
+      "course info"
+    ],
+    "source_file": "courses.json",
+    "word_count": 19
+  },
+  {
+    "id": "downloads_001",
+    "title": "Student Email Form — Downloads Forms",
+    "content": "Student email ID template and certificate form available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "student email form",
+      "certificate form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 10
+  },
+  {
+    "id": "downloads_002",
+    "title": "Fee Form — Downloads Forms",
+    "content": "Revised Fee Rates (Examinations) form available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "fee form",
+      "examination fee form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 8
+  },
+  {
+    "id": "downloads_003",
+    "title": "Clearance Form — Downloads Forms",
+    "content": "Clearance Form for SBBWU Employees available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "clearance form",
+      "employee clearance form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 8
+  },
+  {
+    "id": "downloads_004",
+    "title": "Job Form — Downloads Forms",
+    "content": "Job Application Form available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "job form",
+      "application form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 6
+  },
+  {
+    "id": "downloads_005",
+    "title": "Admission Form — Downloads Forms",
+    "content": "Admission Form (Lateral Entry) available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "admission form",
+      "lateral entry form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 7
+  },
+  {
+    "id": "downloads_006",
+    "title": "Hostel Form — Downloads Forms",
+    "content": "Hostel Admission Form available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "hostel form",
+      "hostel admission form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 6
+  },
+  {
+    "id": "downloads_007",
+    "title": "Degree Form — Downloads Forms",
+    "content": "Degree Form available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "degree form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 5
+  },
+  {
+    "id": "downloads_008",
+    "title": "Student Id Form — Downloads Forms",
+    "content": "Student ID Card Form available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "student id form",
+      "id card form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 7
+  },
+  {
+    "id": "downloads_009",
+    "title": "Employee Id Form — Downloads Forms",
+    "content": "Employee ID Card Form available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "employee id form",
+      "id card form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 7
+  },
+  {
+    "id": "downloads_010",
+    "title": "Transport Form — Downloads Forms",
+    "content": "Transport Requisition Form (Local & Outstation) available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "transport form",
+      "travel form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 9
+  },
+  {
+    "id": "downloads_011",
+    "title": "Convocation Form — Downloads Forms",
+    "content": "Convocation Registration Form available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "convocation form",
+      "graduation form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 6
+  },
+  {
+    "id": "downloads_012",
+    "title": "Password Reset Form — Downloads Forms",
+    "content": "Password Reset Performa available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "password reset form",
+      "it support form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 6
+  },
+  {
+    "id": "downloads_013",
+    "title": "It Complaint Form — Downloads Forms",
+    "content": "IT Complaint Performa available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "it complaint form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 6
+  },
+  {
+    "id": "downloads_014",
+    "title": "Scholarship Form — Downloads Forms",
+    "content": "Scholarship Application Form available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "scholarship form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 6
+  },
+  {
+    "id": "downloads_015",
+    "title": "Affiliation Form — Downloads Forms",
+    "content": "Affiliation Forms for Colleges and Institutions available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "affiliation form",
+      "college affiliation form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 9
+  },
+  {
+    "id": "downloads_016",
+    "title": "Medical Form — Downloads Forms",
+    "content": "Medical Fitness Form available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "medical form",
+      "fitness form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 6
+  },
+  {
+    "id": "downloads_017",
+    "title": "Alumni Form — Downloads Forms",
+    "content": "Alumnae Registration and Feedback Forms available at https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/",
+    "url": "",
+    "category": "downloads forms",
+    "tags": [
+      "alumni form",
+      "feedback form"
+    ],
+    "source_file": "forms.json",
+    "word_count": 8
+  },
+  {
+    "id": "hostel_001",
+    "title": "Eligibility — Hostel Admission",
+    "content": "Hostel accommodation is limited and not guaranteed. Students within 20 km of Peshawar are not eligible. Admission to university does not ensure hostel allotment and is subject to availability for regular students only.",
+    "url": "",
+    "category": "hostel admission",
+    "tags": [
+      "eligibility",
+      "availability"
+    ],
+    "source_file": "hstl.json",
+    "word_count": 33
+  },
+  {
+    "id": "hostel_002",
+    "title": "Merit — Hostel Admission",
+    "content": "Hostel admission is merit-based, renewed every semester, and seats are allocated proportionally to institutions. Outstation students are given priority, while local students may be considered with valid relocation proof.",
+    "url": "",
+    "category": "hostel admission",
+    "tags": [
+      "merit",
+      "priority",
+      "allocation"
+    ],
+    "source_file": "hstl.json",
+    "word_count": 29
+  },
+  {
+    "id": "hostel_003",
+    "title": "Application — Hostel Process",
+    "content": "Students must apply through their institution using the prescribed form with photographs obtained from the Provost Office. Admission requires approval and compliance with university procedures.",
+    "url": "",
+    "category": "hostel process",
+    "tags": [
+      "application",
+      "procedure"
+    ],
+    "source_file": "hstl.json",
+    "word_count": 25
+  },
+  {
+    "id": "hostel_004",
+    "title": "Research Students — Hostel Research",
+    "content": "Research students must be full-time and may require NOC and study leave if employed. Hostel tenure for research programs is up to two years and three months including extension.",
+    "url": "",
+    "category": "hostel research",
+    "tags": [
+      "research students",
+      "tenure"
+    ],
+    "source_file": "hstl.json",
+    "word_count": 29
+  },
+  {
+    "id": "hostel_005",
+    "title": "Dues — Hostel Finance",
+    "content": "Hostel dues are set by university rules and managed under the Provost Office, which supervises hostel admissions and student affairs.",
+    "url": "",
+    "category": "hostel finance",
+    "tags": [
+      "dues",
+      "administration"
+    ],
+    "source_file": "hstl.json",
+    "word_count": 20
+  },
+  {
+    "id": "hostel_006",
+    "title": "Closure — Hostel Rules",
+    "content": "Hostels may close during vacations or administrative decisions. Residents must vacate when required and follow all official instructions.",
+    "url": "",
+    "category": "hostel rules",
+    "tags": [
+      "closure",
+      "vacation"
+    ],
+    "source_file": "hstl.json",
+    "word_count": 18
+  },
+  {
+    "id": "hostel_007",
+    "title": "Timings — Hostel Routine",
+    "content": "Hostel routine includes study hours (winter 8–10 pm, summer 9–11 pm), fixed gate timings, and scheduled morning/evening shifts for university commute.",
+    "url": "",
+    "category": "hostel routine",
+    "tags": [
+      "timings",
+      "schedule"
+    ],
+    "source_file": "hstl.json",
+    "word_count": 21
+  },
+  {
+    "id": "hostel_008",
+    "title": "Security — Hostel Visitors",
+    "content": "Strict visitor rules apply: male visitors are not allowed inside. Female guests require warden approval. Only parents/guardians may visit under defined timings and conditions.",
+    "url": "",
+    "category": "hostel visitors",
+    "tags": [
+      "security",
+      "visiting policy"
+    ],
+    "source_file": "hstl.json",
+    "word_count": 24
+  },
+  {
+    "id": "hostel_009",
+    "title": "Leave — Hostel Discipline",
+    "content": "All leave requests, complaints, and permissions must go through the warden. Residents must follow sign-out procedures and maintain proper leave records.",
+    "url": "",
+    "category": "hostel discipline",
+    "tags": [
+      "leave",
+      "warden",
+      "discipline"
+    ],
+    "source_file": "hstl.json",
+    "word_count": 21
+  },
+  {
+    "id": "hostel_010",
+    "title": "Monitoring — Hostel Monitoring",
+    "content": "Residents are monitored through attendance checks, room inspections, and must follow discipline rules including return-time logging and cleanliness standards.",
+    "url": "",
+    "category": "hostel monitoring",
+    "tags": [
+      "monitoring",
+      "discipline"
+    ],
+    "source_file": "hstl.json",
+    "word_count": 19
+  },
+  {
+    "id": "hostel_011",
+    "title": "Contact — Provost Contact",
+    "content": "provost office contact information is +093456601.",
+    "url": "",
+    "category": "provost contact",
+    "tags": [
+      "contact",
+      "provost",
+      "office"
+    ],
+    "source_file": "hstl.json",
+    "word_count": 6
+  },
+  {
+    "id": "lib_001",
+    "title": "Library — Library Overview",
+    "content": "The Central Library of Shaheed Benazir Bhutto Women University was established in 2006 and moved to its purpose-built building in 2014. It supports academic and research needs with over 13,000 volumes including books, journals, magazines, theses, and research papers.",
+    "url": "",
+    "category": "library overview",
+    "tags": [
+      "library",
+      "overview",
+      "academic support"
+    ],
+    "source_file": "libarary.json",
+    "word_count": 39
+  },
+  {
+    "id": "lib_002",
+    "title": "Library — Digital Services",
+    "content": "The library provides Web OPAC for online catalog search and access to HEC Digital Library resources for students and faculty.",
+    "url": "",
+    "category": "digital services",
+    "tags": [
+      "library",
+      "digital library",
+      "opac"
+    ],
+    "source_file": "libarary.json",
+    "word_count": 20
+  },
+  {
+    "id": "lib_003",
+    "title": "Library — Library Structure",
+    "content": "Library sections include Acquisition, Reading Room, Circulation, Reference & Journals, Research and IT Lab, Eleanor Roosevelt Corner, and Technical Services.",
+    "url": "",
+    "category": "library structure",
+    "tags": [
+      "library",
+      "sections",
+      "services"
+    ],
+    "source_file": "libarary.json",
+    "word_count": 20
+  },
+  {
+    "id": "lib_004",
+    "title": "Library — Library System",
+    "content": "Books are organized using the Dewey Decimal Classification system, where each item is assigned a unique call number based on its subject to help locate it on shelves.",
+    "url": "",
+    "category": "library system",
+    "tags": [
+      "library",
+      "classification",
+      "dewey decimal"
+    ],
+    "source_file": "libarary.json",
+    "word_count": 28
+  },
+  {
+    "id": "lib_005",
+    "title": "Library — Library Services",
+    "content": "Library services include borrowing books, reference assistance, and reader advisory support to help users access and utilize library resources effectively.",
+    "url": "",
+    "category": "library services",
+    "tags": [
+      "library",
+      "services",
+      "borrowing",
+      "reference"
+    ],
+    "source_file": "libarary.json",
+    "word_count": 20
+  },
+  {
+    "id": "lib_006",
+    "title": "Library — Library Timing",
+    "content": "Library operates Monday to Friday from 08:30 AM to 03:15 PM. Circulation timing is from 09:30 AM to 02:00 PM. The library remains closed on public holidays.",
+    "url": "",
+    "category": "library timing",
+    "tags": [
+      "library",
+      "timing",
+      "schedule"
+    ],
+    "source_file": "libarary.json",
+    "word_count": 27
+  },
+  {
+    "id": "lib_007",
+    "title": "Library — Library Rules",
+    "content": "Library rules include maintaining silence, no eating or drinking, proper handling of books, returning materials on time, and reporting lost library cards immediately.",
+    "url": "",
+    "category": "library rules",
+    "tags": [
+      "library",
+      "rules",
+      "discipline"
+    ],
+    "source_file": "libarary.json",
+    "word_count": 23
+  },
+  {
+    "id": "lib_008",
+    "title": "Library — Contact Information",
+    "content": "Library contact information: Email librarian@sbbwu.edu.pk and phone +92-91-9224749 for inquiries and support.",
+    "url": "",
+    "category": "contact information",
+    "tags": [
+      "library",
+      "contact",
+      "email",
+      "phone"
+    ],
+    "source_file": "libarary.json",
+    "word_count": 12
+  },
+  {
+    "id": "lib_009",
+    "title": "Library — Library Staff",
+    "content": "Central Library staff includes Deputy Librarian Ms. Haseeba Shafi, Library Assistant Ms. Mohsina, Senior Clerks Ms. Bibi Saleema, Ms. Shakila Khan, Ms. Nida Zahid, and support staff Mr. Ashfaq.",
+    "url": "",
+    "category": "library staff",
+    "tags": [
+      "library",
+      "staff",
+      "directory"
+    ],
+    "source_file": "libarary.json",
+    "word_count": 29
+  },
+  {
+    "id": "ms_mphil_programs",
+    "title": "Ms Mphil — Postgraduate Programs",
+    "content": "The university offers MS/M.Phil programs in the following departments: Economics, Psychology, Statistics, Mathematics, Islamiyat, Management Sciences, and Computer Sciences.",
+    "url": "",
+    "category": "postgraduate programs",
+    "tags": [
+      "ms mphil",
+      "programs",
+      "postgraduate",
+      "departments"
+    ],
+    "source_file": "ms-phd.json",
+    "word_count": 19
+  },
+  {
+    "id": "phd_programs",
+    "title": "Phd — Doctoral Programs",
+    "content": "The university offers Ph.D programs in Islamiyat and Psychology.",
+    "url": "",
+    "category": "doctoral programs",
+    "tags": [
+      "phd",
+      "programs",
+      "doctoral",
+      "research degrees"
+    ],
+    "source_file": "ms-phd.json",
+    "word_count": 9
+  },
+  {
+    "id": "ms_mphil_departments",
+    "title": "Ms Mphil — Postgraduate Departments",
+    "content": "MS/M.Phil programs are offered by the Department of Economics, Department of Psychology, Department of Statistics, Department of Mathematics, Department of Islamiyat, Department of Management Sciences, and Department of Computer Sciences.",
+    "url": "",
+    "category": "postgraduate departments",
+    "tags": [
+      "ms mphil",
+      "departments",
+      "postgraduate fields"
+    ],
+    "source_file": "ms-phd.json",
+    "word_count": 30
+  },
+  {
+    "id": "phd_departments",
+    "title": "Phd — Doctoral Departments",
+    "content": "Ph.D programs are offered in the Department of Islamiyat and Department of Psychology.",
+    "url": "",
+    "category": "doctoral departments",
+    "tags": [
+      "phd",
+      "departments",
+      "research fields"
+    ],
+    "source_file": "ms-phd.json",
+    "word_count": 13
+  },
+  {
+    "id": "session_001",
+    "title": "Semester — Academic Session",
+    "content": "The academic year consists of two semesters: Fall and Spring.",
+    "url": "",
+    "category": "academic session",
+    "tags": [
+      "semester",
+      "structure",
+      "academic year"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "session_002",
+    "title": "Fall Semester — Academic Session",
+    "content": "The Fall semester starts in September.",
+    "url": "",
+    "category": "academic session",
+    "tags": [
+      "fall semester",
+      "start month"
+    ],
+    "source_file": "rules.json",
+    "word_count": 6
+  },
+  {
+    "id": "session_003",
+    "title": "Spring Semester — Academic Session",
+    "content": "The Spring semester starts in February.",
+    "url": "",
+    "category": "academic session",
+    "tags": [
+      "spring semester",
+      "start month"
+    ],
+    "source_file": "rules.json",
+    "word_count": 6
+  },
+  {
+    "id": "session_004",
+    "title": "Duration — Academic Session",
+    "content": "Each semester has a total duration of 18 weeks.",
+    "url": "",
+    "category": "academic session",
+    "tags": [
+      "duration",
+      "semester weeks"
+    ],
+    "source_file": "rules.json",
+    "word_count": 9
+  },
+  {
+    "id": "session_005",
+    "title": "Teaching Duration — Academic Session",
+    "content": "Each semester includes 16 weeks of teaching.",
+    "url": "",
+    "category": "academic session",
+    "tags": [
+      "teaching duration"
+    ],
+    "source_file": "rules.json",
+    "word_count": 7
+  },
+  {
+    "id": "session_006",
+    "title": "Exam Duration — Academic Session",
+    "content": "Each semester includes 2 weeks for examinations and result declaration.",
+    "url": "",
+    "category": "academic session",
+    "tags": [
+      "exam duration",
+      "result"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "theory_mid_001",
+    "title": "Midterm — Theory Assessment",
+    "content": "The mid-term examination of theory courses has a weightage of 30%.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "midterm",
+      "weightage"
+    ],
+    "source_file": "rules.json",
+    "word_count": 11
+  },
+  {
+    "id": "theory_mid_002",
+    "title": "Midterm — Theory Assessment",
+    "content": "The mid-term exam is conducted after 8 weeks of teaching.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "midterm",
+      "timing"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "theory_mid_003",
+    "title": "Midterm — Theory Assessment",
+    "content": "The mid-term exam includes objective questions of 10 marks.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "midterm",
+      "paper pattern",
+      "objective"
+    ],
+    "source_file": "rules.json",
+    "word_count": 9
+  },
+  {
+    "id": "theory_mid_004",
+    "title": "Midterm — Theory Assessment",
+    "content": "The mid-term exam includes short answer questions of 10 marks.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "midterm",
+      "paper pattern",
+      "short questions"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "theory_mid_005",
+    "title": "Midterm — Theory Assessment",
+    "content": "The mid-term exam includes long answer questions of 30 marks.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "midterm",
+      "paper pattern",
+      "long questions"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "theory_mid_006",
+    "title": "Midterm — Theory Assessment",
+    "content": "The total duration of the mid-term exam is 1.5 hours.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "midterm",
+      "time"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "theory_internal_001",
+    "title": "Internal — Theory Assessment",
+    "content": "The internal assessment of theory courses has a weightage of 20%.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "internal",
+      "weightage"
+    ],
+    "source_file": "rules.json",
+    "word_count": 11
+  },
+  {
+    "id": "theory_internal_002",
+    "title": "Internal — Theory Assessment",
+    "content": "Assignments contribute 5% to internal assessment.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "internal",
+      "assignments"
+    ],
+    "source_file": "rules.json",
+    "word_count": 6
+  },
+  {
+    "id": "theory_internal_003",
+    "title": "Internal — Theory Assessment",
+    "content": "Presentations contribute 5% to internal assessment.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "internal",
+      "presentations"
+    ],
+    "source_file": "rules.json",
+    "word_count": 6
+  },
+  {
+    "id": "theory_internal_004",
+    "title": "Internal — Theory Assessment",
+    "content": "Quizzes and tests contribute 10% to internal assessment.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "internal",
+      "quizzes",
+      "tests"
+    ],
+    "source_file": "rules.json",
+    "word_count": 8
+  },
+  {
+    "id": "theory_final_001",
+    "title": "Final Term — Theory Assessment",
+    "content": "The final-term examination of theory courses has a weightage of 50%.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "final term",
+      "weightage"
+    ],
+    "source_file": "rules.json",
+    "word_count": 11
+  },
+  {
+    "id": "theory_final_002",
+    "title": "Final Term — Theory Assessment",
+    "content": "The final-term exam is conducted after 16 weeks of teaching.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "final term",
+      "timing"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "theory_final_003",
+    "title": "Final Term — Theory Assessment",
+    "content": "The final-term exam includes objective questions of 10 marks.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "final term",
+      "objective"
+    ],
+    "source_file": "rules.json",
+    "word_count": 9
+  },
+  {
+    "id": "theory_final_004",
+    "title": "Final Term — Theory Assessment",
+    "content": "The final-term exam includes short answer questions of 10 marks.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "final term",
+      "short questions"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "theory_final_005",
+    "title": "Final Term — Theory Assessment",
+    "content": "The final-term exam includes long answer questions of 30 marks.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "final term",
+      "long questions"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "theory_final_006",
+    "title": "Final Term — Theory Assessment",
+    "content": "The total duration of the final-term exam is 2 hours.",
+    "url": "",
+    "category": "theory assessment",
+    "tags": [
+      "final term",
+      "time"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "lab_mid_001",
+    "title": "Lab — Lab Assessment",
+    "content": "The mid-term lab exam has a weightage of 30%.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "midterm",
+      "weightage"
+    ],
+    "source_file": "rules.json",
+    "word_count": 9
+  },
+  {
+    "id": "lab_mid_002",
+    "title": "Lab — Lab Assessment",
+    "content": "Viva voce contributes 10% in the mid-term lab exam.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "viva"
+    ],
+    "source_file": "rules.json",
+    "word_count": 9
+  },
+  {
+    "id": "lab_mid_003",
+    "title": "Lab — Lab Assessment",
+    "content": "Practical performance contributes 20% in the mid-term lab exam.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "practical"
+    ],
+    "source_file": "rules.json",
+    "word_count": 9
+  },
+  {
+    "id": "lab_mid_004",
+    "title": "Lab — Lab Assessment",
+    "content": "The duration of the mid-term lab exam is 3 hours.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "time"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "lab_internal_001",
+    "title": "Lab — Lab Assessment",
+    "content": "The internal evaluation of lab courses has a weightage of 20%.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "internal"
+    ],
+    "source_file": "rules.json",
+    "word_count": 11
+  },
+  {
+    "id": "lab_internal_002",
+    "title": "Lab — Lab Assessment",
+    "content": "Lab attendance contributes 5% in internal evaluation.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "attendance"
+    ],
+    "source_file": "rules.json",
+    "word_count": 7
+  },
+  {
+    "id": "lab_internal_003",
+    "title": "Lab — Lab Assessment",
+    "content": "Notebook completion contributes 5% in internal evaluation.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "notebook"
+    ],
+    "source_file": "rules.json",
+    "word_count": 7
+  },
+  {
+    "id": "lab_internal_004",
+    "title": "Lab — Lab Assessment",
+    "content": "Presentation and demonstration contribute 10% in internal evaluation.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "presentation"
+    ],
+    "source_file": "rules.json",
+    "word_count": 8
+  },
+  {
+    "id": "lab_final_001",
+    "title": "Lab — Lab Assessment",
+    "content": "The final-term lab exam has a weightage of 50%.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "final"
+    ],
+    "source_file": "rules.json",
+    "word_count": 9
+  },
+  {
+    "id": "lab_final_002",
+    "title": "Lab — Lab Assessment",
+    "content": "Viva voce contributes 10% in the final lab exam.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "viva"
+    ],
+    "source_file": "rules.json",
+    "word_count": 9
+  },
+  {
+    "id": "lab_final_003",
+    "title": "Lab — Lab Assessment",
+    "content": "Practical performance contributes 40% in the final lab exam.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "practical"
+    ],
+    "source_file": "rules.json",
+    "word_count": 9
+  },
+  {
+    "id": "lab_final_004",
+    "title": "Lab — Lab Assessment",
+    "content": "The duration of the final lab exam is 3 hours.",
+    "url": "",
+    "category": "lab assessment",
+    "tags": [
+      "lab",
+      "time"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "passing_001",
+    "title": "Passing Marks — Passing Rules",
+    "content": "A student must obtain at least 50% marks in each paper to pass.",
+    "url": "",
+    "category": "passing rules",
+    "tags": [
+      "passing marks",
+      "criteria"
+    ],
+    "source_file": "rules.json",
+    "word_count": 13
+  },
+  {
+    "id": "grading_001",
+    "title": "Grade A — Grading",
+    "content": "85% and above corresponds to Grade A with GPA 4.0 and Excellent performance.",
+    "url": "",
+    "category": "grading",
+    "tags": [
+      "grade a",
+      "gpa"
+    ],
+    "source_file": "rules.json",
+    "word_count": 13
+  },
+  {
+    "id": "grading_002",
+    "title": "Grade B — Grading",
+    "content": "70 to 84% corresponds to Grade B with GPA between 3.0 and 3.9.",
+    "url": "",
+    "category": "grading",
+    "tags": [
+      "grade b"
+    ],
+    "source_file": "rules.json",
+    "word_count": 13
+  },
+  {
+    "id": "grading_003",
+    "title": "Grade C — Grading",
+    "content": "60 to 69% corresponds to Grade C with GPA between 2.0 and 2.9.",
+    "url": "",
+    "category": "grading",
+    "tags": [
+      "grade c"
+    ],
+    "source_file": "rules.json",
+    "word_count": 13
+  },
+  {
+    "id": "grading_004",
+    "title": "Grade D — Grading",
+    "content": "50 to 59% corresponds to Grade D with GPA between 1.0 and 1.9.",
+    "url": "",
+    "category": "grading",
+    "tags": [
+      "grade d"
+    ],
+    "source_file": "rules.json",
+    "word_count": 13
+  },
+  {
+    "id": "grading_005",
+    "title": "Fail — Grading",
+    "content": "Marks below 50% correspond to Grade F which means fail.",
+    "url": "",
+    "category": "grading",
+    "tags": [
+      "fail"
+    ],
+    "source_file": "rules.json",
+    "word_count": 10
+  },
+  {
+    "id": "grading_006",
+    "title": "Withdrawn — Grading",
+    "content": "Grade W indicates a withdrawn course.",
+    "url": "",
+    "category": "grading",
+    "tags": [
+      "withdrawn"
+    ],
+    "source_file": "rules.json",
+    "word_count": 6
+  },
+  {
+    "id": "grading_007",
+    "title": "Incomplete — Grading",
+    "content": "Grade I indicates an incomplete course.",
+    "url": "",
+    "category": "grading",
+    "tags": [
+      "incomplete"
+    ],
+    "source_file": "rules.json",
+    "word_count": 6
+  },
+  {
+    "id": "gpa_001",
+    "title": "Sgpa — Gpa",
+    "content": "SGPA is calculated by dividing the sum of grade points multiplied by credit hours by total credit hours in a semester.",
+    "url": "",
+    "category": "gpa",
+    "tags": [
+      "sgpa",
+      "formula"
+    ],
+    "source_file": "rules.json",
+    "word_count": 21
+  },
+  {
+    "id": "gpa_002",
+    "title": "Cgpa — Gpa",
+    "content": "CGPA is calculated by dividing the sum of grade points multiplied by credit hours of all semesters by total credit hours.",
+    "url": "",
+    "category": "gpa",
+    "tags": [
+      "cgpa",
+      "formula"
+    ],
+    "source_file": "rules.json",
+    "word_count": 21
+  },
+  {
+    "id": "gpa_003",
+    "title": "Rounding — Gpa",
+    "content": "If the third decimal in GPA is 5 or more, it is rounded up.",
+    "url": "",
+    "category": "gpa",
+    "tags": [
+      "rounding"
+    ],
+    "source_file": "rules.json",
+    "word_count": 14
+  },
+  {
+    "id": "gpa_004",
+    "title": "Rounding — Gpa",
+    "content": "If the third decimal in GPA is 4 or less, it is rounded down.",
+    "url": "",
+    "category": "gpa",
+    "tags": [
+      "rounding"
+    ],
+    "source_file": "rules.json",
+    "word_count": 14
+  },
+  {
+    "id": "rules_001",
+    "title": "Withdrawn — Academic Rules",
+    "content": "A withdrawn course is not counted as fail and is not included in GPA or CGPA calculation.",
+    "url": "",
+    "category": "academic rules",
+    "tags": [
+      "withdrawn"
+    ],
+    "source_file": "rules.json",
+    "word_count": 17
+  },
+  {
+    "id": "rules_002",
+    "title": "Incomplete — Academic Rules",
+    "content": "An incomplete course is not included in GPA or CGPA calculation.",
+    "url": "",
+    "category": "academic rules",
+    "tags": [
+      "incomplete"
+    ],
+    "source_file": "rules.json",
+    "word_count": 11
+  },
+  {
+    "id": "thesis_001",
+    "title": "Evaluation — Thesis",
+    "content": "Thesis or project evaluation is conducted by an external examiner appointed by the competent authority.",
+    "url": "",
+    "category": "thesis",
+    "tags": [
+      "evaluation"
+    ],
+    "source_file": "rules.json",
+    "word_count": 15
+  },
+  {
+    "id": "thesis_002",
+    "title": "Viva — Thesis",
+    "content": "The viva voce of thesis is conducted by the external examiner along with the supervisor and head of department.",
+    "url": "",
+    "category": "thesis",
+    "tags": [
+      "viva"
+    ],
+    "source_file": "rules.json",
+    "word_count": 19
+  },
+  {
+    "id": "thesis_003",
+    "title": "Payment — Thesis",
+    "content": "Honorarium is paid to examiners including the head of department for thesis evaluation.",
+    "url": "",
+    "category": "thesis",
+    "tags": [
+      "payment"
+    ],
+    "source_file": "rules.json",
+    "word_count": 13
+  },
+  {
+    "id": "success_stories_link",
+    "title": "Success Stories — Success Stories",
+    "content": "The university success stories section highlights achievements and inspiring journeys of students and graduates. Users can visit the official page to explore these success stories. https://sbbwu.edu.pk/sbbwu/assets/files/news_files/success-story.html",
+    "url": "",
+    "category": "success stories",
+    "tags": [
+      "success stories",
+      "student achievements",
+      "university highlights",
+      "redirect"
+    ],
+    "source_file": "success.json",
+    "word_count": 26
+  },
+  {
+    "id": "adm_1_1",
+    "title": "Vice Chancellor — Administration",
+    "content": "The Vice Chancellor (VC) of Shaheed Benazir Bhutto Women University (SBBWU), Peshawar is Prof. Dr. Safia Ahmad who is the chief executive and academic head of the university. The VC is responsible for overall administration, academic policies, and implementation of university rules and regulations.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "vice chancellor",
+      "academic head",
+      "leadership",
+      "university governance"
+    ],
+    "source_file": "vc.json",
+    "word_count": 44
+  },
+  {
+    "id": "adm_2_1",
+    "title": "First Vc — Administration",
+    "content": "The first Vice Chancellor of Shaheed Benazir Bhutto Women University (SBBWU), Peshawar is Prof. Dr. Syeda Farhana Jahangir, who served during the early establishment period of the university (around its founding years).",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "first vc",
+      "founding head",
+      "history",
+      "sbbwu"
+    ],
+    "source_file": "vc.json",
+    "word_count": 32
+  },
+  {
+    "id": "adm_3_1",
+    "title": "Previous Vc — Administration",
+    "content": "Prof. Dr. Razia Sultana is as one of the Vice Chancellors of SBBWU Peshawar after the initial founding phase, contributing to the university's administrative development during her tenure.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "previous vc",
+      "leadership",
+      "administration",
+      "sbbwu"
+    ],
+    "source_file": "vc.json",
+    "word_count": 28
+  },
+  {
+    "id": "adm_4_1",
+    "title": "Previous Vc — Administration",
+    "content": "Prof. Dr. Noor Jehan is Vice Chancellor of SBBWU Peshawar in the more recent administrative periods before the current leadership, playing a role in academic and institutional management.",
+    "url": "",
+    "category": "administration",
+    "tags": [
+      "previous vc",
+      "recent leadership",
+      "administration",
+      "sbbwu"
+    ],
+    "source_file": "vc.json",
+    "word_count": 28
+  },
+  {
+    "id": "admission_staff_001",
+    "title": "Deputy Registrar — Admission Staff",
+    "content": "Ms. Nain Tara is the Deputy Registrar Admissions. Email: admissions@sbbwu.edu.pk, Phone: +92-91-9224726.",
+    "url": "",
+    "category": "admission staff",
+    "tags": [
+      "deputy registrar",
+      "admissions",
+      "contact"
+    ],
+    "source_file": "addmisionstaff.json",
+    "word_count": 12
+  },
+  {
+    "id": "lateral_entry_eligibility_001",
+    "title": "Lateral Entry — Admission Eligibility",
+    "content": "Eligibility Criteria for Lateral Entry in BS 5th Semester (2025) at Shaheed Benazir Bhutto Women University Peshawar: https://sbbwu.edu.pk/sbbwu/assets/files/news_files/admissions2025/Lateral/ELIGIBILITY-Criteria.pdf",
+    "url": "",
+    "category": "admission eligibility",
+    "tags": [
+      "lateral entry",
+      "bs 5th semester",
+      "eligibility",
+      "admission 2025",
+      "pdf"
+    ],
+    "source_file": "admeligibilty.json",
+    "word_count": 18
+  },
+  {
+    "id": "admission_form_001",
+    "title": "Admission — Admission Form",
+    "content": "SBBWU Admission Form: Applicants can download or access the admission form from the official university page: https://sbbwu.edu.pk/sbbwu/Admission_Section/index/admission_form",
+    "url": "",
+    "category": "admission form",
+    "tags": [
+      "admission",
+      "form",
+      "download",
+      "application form",
+      "sbbwu"
+    ],
+    "source_file": "admissionform.json",
+    "word_count": 17
+  },
+  {
+    "id": "convocation_intro_001",
+    "title": "University — Convocation Introduction",
+    "content": "Shaheed Benazir Bhutto Women University Peshawar (SBBWU) is the first women university of Khyber Pakhtunkhwa. It aims to empower female students through education, research, and development in scientific, socio-cultural, economic, and political fields.",
+    "url": "",
+    "category": "convocation introduction",
+    "tags": [
+      "university",
+      "mission",
+      "women education",
+      "kp",
+      "introduction"
+    ],
+    "source_file": "convocation.json",
+    "word_count": 33
+  },
+  {
+    "id": "convocation_foundation_001",
+    "title": "Founder — Convocation History",
+    "content": "The Convocation tradition at SBBWU was initiated under the leadership of the founding Vice Chancellor Prof. Dr. Syeda Farhana Jahangir, establishing it as an annual academic event.",
+    "url": "",
+    "category": "convocation history",
+    "tags": [
+      "founder",
+      "vice chancellor",
+      "tradition",
+      "history"
+    ],
+    "source_file": "convocation.json",
+    "word_count": 27
+  },
+  {
+    "id": "convocation_event_2012_001",
+    "title": "First Convocation — Convocation Event",
+    "content": "The first convocation was held on 28 March 2012 at the University of Peshawar Convocation Hall, where 213 graduates were awarded degrees.",
+    "url": "",
+    "category": "convocation event",
+    "tags": [
+      "first convocation",
+      "2012",
+      "event details",
+      "graduates"
+    ],
+    "source_file": "convocation.json",
+    "word_count": 22
+  },
+  {
+    "id": "convocation_degrees_001",
+    "title": "Ms Degrees — Convocation Degrees",
+    "content": "A total of 154 MS degrees were awarded in Psychology, Mathematics, Economics, Computer Science, and Statistics, while 59 MA degrees were awarded in Arabic, Islamiyat, and English.",
+    "url": "",
+    "category": "convocation degrees",
+    "tags": [
+      "ms degrees",
+      "ma degrees",
+      "disciplines",
+      "graduates"
+    ],
+    "source_file": "convocation.json",
+    "word_count": 27
+  },
+  {
+    "id": "convocation_awards_001",
+    "title": "Gold Medals — Convocation Awards",
+    "content": "A total of 34 students received Gold Medals for their outstanding academic performance.",
+    "url": "",
+    "category": "convocation awards",
+    "tags": [
+      "gold medals",
+      "merit",
+      "achievements"
+    ],
+    "source_file": "convocation.json",
+    "word_count": 13
+  },
+  {
+    "id": "convocation_chief_guest_001",
+    "title": "Chief Guest — Convocation Guests",
+    "content": "The convocation was graced by Chancellor Barrister Syed Masood Kausar (Governor Khyber Pakhtunkhwa) as chief guest, along with distinguished guests, students, and parents.",
+    "url": "",
+    "category": "convocation guests",
+    "tags": [
+      "chief guest",
+      "governor",
+      "ceremony",
+      "dignitaries"
+    ],
+    "source_file": "convocation.json",
+    "word_count": 23
+  },
+  {
+    "id": "convocation_address_001",
+    "title": "Speech — Convocation Speeches",
+    "content": "The Chancellor appreciated the performance of students and congratulated faculty, graduates, and parents. The founding Vice Chancellor delivered the welcome address.",
+    "url": "",
+    "category": "convocation speeches",
+    "tags": [
+      "speech",
+      "appreciation",
+      "vice chancellor",
+      "chancellor"
+    ],
+    "source_file": "convocation.json",
+    "word_count": 21
+  },
+  {
+    "id": "bs_online_admission_apply_001",
+    "title": "Bs Admission — Online Admission",
+    "content": "SBBWU BS Online Admission Notice 2025: Applicants can apply online through the official admission portal. To apply online, please click here: https://admissions.sbbwu.edu.pk/application/index.php",
+    "url": "",
+    "category": "online admission",
+    "tags": [
+      "bs admission",
+      "online apply",
+      "2025",
+      "application portal",
+      "apply now"
+    ],
+    "source_file": "onlineapp.json",
+    "word_count": 22
+  },
+  {
+    "id": "sbbwu_scholarship_001",
+    "title": "Sbbwu — Scholarships",
+    "content": "Various Scholarship for SBBWU Students - https://sbbwu.edu.pk/sbbwu/assets/files/news_files/24072023-scholarships-for-students_compressed.pdf",
+    "url": "",
+    "category": "scholarships",
+    "tags": [
+      "sbbwu",
+      "scholarship",
+      "financial aid"
+    ],
+    "source_file": "scholarships.json",
+    "word_count": 7
+  },
+  {
+    "id": "sbbwu_scholarship_002",
+    "title": "Stipend — Scholarships",
+    "content": "Monthly Stipend Program for Unemployed Youth - https://sbbwu.edu.pk/sbbwu/assets/files/downloadable/MonthlyStipendProgram.pdf",
+    "url": "",
+    "category": "scholarships",
+    "tags": [
+      "stipend",
+      "unemployed youth",
+      "financial support"
+    ],
+    "source_file": "scholarships.json",
+    "word_count": 8
+  },
+  {
+    "id": "sbbwu_scholarship_003",
+    "title": "Pak Us — Scholarships",
+    "content": "PAK-US Need Based Scholarships to SBBWU - https://sbbwu.edu.pk/sbbwu/Admission_Section/index/pak_us_need_based",
+    "url": "",
+    "category": "scholarships",
+    "tags": [
+      "pak us",
+      "need based",
+      "international",
+      "hec",
+      "financial aid"
+    ],
+    "source_file": "scholarships.json",
+    "word_count": 8
+  },
+  {
+    "id": "links_001",
+    "title": "Datasheet — Examination Links",
+    "content": "To check datasheets and schedules, visit: https://sbbwu.edu.pk/sbbwu/Examination_section/downloads",
+    "url": "",
+    "category": "examination links",
+    "tags": [
+      "datasheet",
+      "schedule",
+      "exam dates"
+    ],
+    "source_file": "datesheetsresults.json",
+    "word_count": 7
+  },
+  {
+    "id": "links_002",
+    "title": "Result — Examination Links",
+    "content": "To check your online result, visit: https://sbbwu.edu.pk/sbbwu/Result",
+    "url": "",
+    "category": "examination links",
+    "tags": [
+      "result",
+      "online result",
+      "marks"
+    ],
+    "source_file": "datesheetsresults.json",
+    "word_count": 7
+  },
+  {
+    "id": "exam_staff_001",
+    "title": "Controller — Examination Staff",
+    "content": "Dr. Rubi Bilal is the Controller of Examination. Email: controllerexams@sbbwu.edu.pk, Phone: 091-9224718.",
+    "url": "",
+    "category": "examination staff",
+    "tags": [
+      "controller",
+      "examination",
+      "contact"
+    ],
+    "source_file": "staff.json",
+    "word_count": 12
+  },
+  {
+    "id": "exam_staff_002",
+    "title": "Deputy Controller — Examination Staff",
+    "content": "Dr. Noreen Naz is the Deputy Controller of Examination. Email: noreen.naz@sbbwu.edu.pk, Phone: 091-9224713.",
+    "url": "",
+    "category": "examination staff",
+    "tags": [
+      "deputy controller",
+      "examination",
+      "contact"
+    ],
+    "source_file": "staff.json",
+    "word_count": 13
+  },
+  {
+    "id": "exam_staff_003",
+    "title": "Deputy Controller — Examination Staff",
+    "content": "Ms. Brakhna Sayed is the Deputy Controller of Examination. Email: brakhna.syed@sbbwu.edu.pk, Phone: 019-9224713.",
+    "url": "",
+    "category": "examination staff",
+    "tags": [
+      "deputy controller",
+      "examination",
+      "contact"
+    ],
+    "source_file": "staff.json",
+    "word_count": 13
+  },
+  {
+    "id": "exam_staff_004",
+    "title": "Assistant Controller — Examination Staff",
+    "content": "Ms. Haleema Ikram is the Assistant Controller of Examination. Email: assttcontroller2@sbbwu.edu.pk, Phone: 019-9224713.",
+    "url": "",
+    "category": "examination staff",
+    "tags": [
+      "assistant controller",
+      "examination",
+      "contact"
+    ],
+    "source_file": "staff.json",
+    "word_count": 13
+  },
+  {
+    "id": "exam_staff_005",
+    "title": "Office Assistant — Examination Staff",
+    "content": "Ms. Sidra Mughal is the Office Assistant in the Examination section. Email: exams@sbbwu.edu.pk, Phone: 091-9224716.",
+    "url": "",
+    "category": "examination staff",
+    "tags": [
+      "office assistant",
+      "examination",
+      "contact"
+    ],
+    "source_file": "staff.json",
+    "word_count": 15
+  },
+  {
+    "id": "exam_section_001",
+    "title": "Services — Examination Info",
+    "content": "The Examination section includes services like Assessment Policy, Online Results, Downloads and Datesheets, and Staff information.",
+    "url": "",
+    "category": "examination info",
+    "tags": [
+      "services",
+      "examination section"
+    ],
+    "source_file": "staff.json",
+    "word_count": 16
+  },
+  {
+    "id": "sbbwu_it_centre_001",
+    "title": "It Infrastructure — It Centre",
+    "content": "Information Technology Centre (IT Centre) established in 2011 under Registrar Office to manage and support university IT infrastructure including computer networks, systems, UPS and power equipment, wireless hotspots, online databases, IP phones, video conferencing, university web portal, digital library, multimedia operations, CCTV surveillance, attendance & payroll system, campus wireless connectivity, HEC IT projects, IT procurement liaison, network maintenance, IT policy management, and IT skills development for staff and faculty.",
+    "url": "",
+    "category": "it centre",
+    "tags": [
+      "it infrastructure",
+      "networks",
+      "systems",
+      "digital services",
+      "university it support"
+    ],
+    "source_file": "itcenter.json",
+    "word_count": 69
+  },
+  {
+    "id": "itc_001",
+    "title": "Ict Services Overview — It Services",
+    "content": "IT Centre provides ICT services for students and staff including computer labs, internet access, help desk support, video conferencing, learning center, internships, final year project support, IT career counselling, and ICT workshops.",
+    "url": "",
+    "category": "it services",
+    "tags": [
+      "ict services overview"
+    ],
+    "source_file": "itfacilities.json",
+    "word_count": 32
+  },
+  {
+    "id": "itc_002",
+    "title": "Lab Facilities — Computer Labs",
+    "content": "Computer labs provide hardware, software, and workspace access with technical staff support. Facilities include licensed software, internet/intranet access, printing, and photocopying services.",
+    "url": "",
+    "category": "computer labs",
+    "tags": [
+      "lab facilities",
+      "software access"
+    ],
+    "source_file": "itfacilities.json",
+    "word_count": 22
+  },
+  {
+    "id": "itc_003",
+    "title": "It Helpdesk — Support Services",
+    "content": "IT Service Desk offers technical support for computers, laptops, mobile devices, home networking issues, and data recovery services along with computing guidance.",
+    "url": "",
+    "category": "support services",
+    "tags": [
+      "it helpdesk"
+    ],
+    "source_file": "itfacilities.json",
+    "word_count": 22
+  },
+  {
+    "id": "itc_004",
+    "title": "Support Contact — Contact Information",
+    "content": "Support is available via email, phone, walk-in service at Data Centre, and official IT Centre website.",
+    "url": "",
+    "category": "contact information",
+    "tags": [
+      "support contact"
+    ],
+    "source_file": "itfacilities.json",
+    "word_count": 16
+  },
+  {
+    "id": "itc_005",
+    "title": "Training Programs — Learning Center",
+    "content": "Learning Center provides training, consulting, multimedia production, graphics, photography, videography, and workshops on standard applications and systems.",
+    "url": "",
+    "category": "learning center",
+    "tags": [
+      "training programs",
+      "multimedia support"
+    ],
+    "source_file": "itfacilities.json",
+    "word_count": 17
+  },
+  {
+    "id": "itc_006",
+    "title": "Final Year Project Support — Academic Support",
+    "content": "IT Centre supports final year projects, networking and hosting solutions, open-source software deployment, and provides internship opportunities and project-based honorary roles.",
+    "url": "",
+    "category": "academic support",
+    "tags": [
+      "final year project support",
+      "internships",
+      "networking services"
+    ],
+    "source_file": "itfacilities.json",
+    "word_count": 21
+  },
+  {
+    "id": "itc_007",
+    "title": "Itservice Availability — Operations",
+    "content": "IT Centre operates 24/7 for services with staff deployment based on institutional needs and ongoing expansion.",
+    "url": "",
+    "category": "operations",
+    "tags": [
+      "itservice availability"
+    ],
+    "source_file": "itfacilities.json",
+    "word_count": 16
+  },
+  {
+    "id": "itc_cmp_001",
+    "title": "It Complaint — Complaint Form",
+    "content": "The IT Complaint Performa is an official form used to register IT-related issues at the IT Centre of the university. It allows students and staff to report technical problems such as computer faults, network issues, or IT service disruptions for resolution by the IT support team.",
+    "url": "",
+    "category": "complaint form",
+    "tags": [
+      "it complaint",
+      "it support form"
+    ],
+    "source_file": "itfacilities.json",
+    "word_count": 46
+  },
+  {
+    "id": "it_staff_001",
+    "title": "It Centre — It Staff",
+    "content": "Amanatullah Khalil - Deputy Director IT | Email: amanatkhalil@sbbwu.edu.pk | Phone: +92-91-9224770",
+    "url": "",
+    "category": "it staff",
+    "tags": [
+      "it centre",
+      "leadership",
+      "deputy director"
+    ],
+    "source_file": "itstaff.json",
+    "word_count": 12
+  },
+  {
+    "id": "it_staff_002",
+    "title": "System Administration — It Staff",
+    "content": "Noor Alam - Assistant System Administrator | Email: nooralam@sbbwu.edu.pk | Phone: +92-91-9224770",
+    "url": "",
+    "category": "it staff",
+    "tags": [
+      "system administration",
+      "it support"
+    ],
+    "source_file": "itstaff.json",
+    "word_count": 12
+  },
+  {
+    "id": "it_staff_003",
+    "title": "Network Support — It Staff",
+    "content": "Rifaqat Ullah - Network Support Engineer | Email: rifaqatkhalil@sbbwu.edu.pk | Phone: +92-91-9224770",
+    "url": "",
+    "category": "it staff",
+    "tags": [
+      "network support",
+      "engineering",
+      "it centre"
+    ],
+    "source_file": "itstaff.json",
+    "word_count": 12
+  },
+  {
+    "id": "it_staff_004",
+    "title": "Network Assistant — It Staff",
+    "content": "Fazal Amin - Network Assistant | Email: aminkhan@sbbwu.edu.pk | Phone: +92-91-9224770",
+    "url": "",
+    "category": "it staff",
+    "tags": [
+      "network assistant",
+      "it support"
+    ],
+    "source_file": "itstaff.json",
+    "word_count": 11
+  }
+]

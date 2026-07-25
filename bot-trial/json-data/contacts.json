@@ -1,0 +1,134 @@
+[
+  {
+    "id": "contact_001",
+    "content": "Vice Chancellor Office contact email vc@sbbwu.edu.pk and phone +92-91-9224777. Fax +92-91-9224778.",
+    "category": "contact_directory",
+    "tags": ["vice_chancellor", "office_contact"]
+  },
+  {
+    "id": "contact_002",
+    "content": "Pro Vice Chancellor contact email provc@sbbwu.edu.pk and phone +92-91-9224736.",
+    "category": "contact_directory",
+    "tags": ["pro_vice_chancellor", "office_contact"]
+  },
+  {
+    "id": "contact_003",
+    "content": "Registrar Office contact email registrar@sbbwu.edu.pk and phone +92-91-9224700, +92-91-9224799. Fax +92-91-9224707.",
+    "category": "contact_directory",
+    "tags": ["registrar_office", "office_contact"]
+  },
+  {
+    "id": "contact_004",
+    "content": "Deputy Registrar contact email d.registrar@sbbwu.edu.pk and phone +92-91-9224791.",
+    "category": "contact_directory",
+    "tags": ["deputy_registrar", "office_contact"]
+  },
+  {
+    "id": "contact_005",
+    "content": "IT Centre contact email itc@sbbwu.edu.pk and phone +92-91-9224770.",
+    "category": "contact_directory",
+    "tags": ["it_centre", "it_support_contact"]
+  },
+  {
+    "id": "contact_006",
+    "content": "Central Library contact email librarian@sbbwu.edu.pk and phone +92-91-9224749.",
+    "category": "contact_directory",
+    "tags": ["library", "library_contact"]
+  },
+  {
+    "id": "contact_007",
+    "content": "Admission Section contact emails admissions@sbbwu.edu.pk and a.r.a@sbbwu.edu.pk with phone +92-91-9224726.",
+    "category": "contact_directory",
+    "tags": ["admissions", "admission_contact"]
+  },
+  {
+    "id": "contact_008",
+    "content": "Examination Sections contact controllerexams@sbbwu.edu.pk with phones +92-91-9224713, +92-91-9224718, +92-91-9224716, +92-91-9224799 depending on section.",
+    "category": "contact_directory",
+    "tags": ["exams", "examination_contact"]
+  },
+  {
+    "id": "contact_009",
+    "content": "Department of Computer Science contact cs@sbbwu.edu.pk and phone +92-91-9224769.",
+    "category": "contact_directory",
+    "tags": ["computer_science", "department_contact"]
+  },
+  {
+    "id": "contact_010",
+    "content": "Department of Economics contact economics@sbbwu.edu.pk and phone +92-91-9224760.",
+    "category": "contact_directory",
+    "tags": ["economics", "department_contact"]
+  },
+  {
+    "id": "contact_011",
+    "content": "Department of Psychology contact psychology@sbbwu.edu.pk and phone +92-91-9224759.",
+    "category": "contact_directory",
+    "tags": ["psychology", "department_contact"]
+  },
+  {
+    "id": "contact_012",
+    "content": "Department of Statistics contact statistics@sbbwu.edu.pk and phone +92-91-9224720.",
+    "category": "contact_directory",
+    "tags": ["statistics", "department_contact"]
+  },
+  {
+    "id": "contact_013",
+    "content": "Department of Mathematics contact maths@sbbwu.edu.pk and phone +92-91-9224712.",
+    "category": "contact_directory",
+    "tags": ["mathematics", "department_contact"]
+  },
+  {
+    "id": "contact_014",
+    "content": "Department of Islamiyat contact islamiyat@sbbwu.edu.pk and phone +92-91-9224727.",
+    "category": "contact_directory",
+    "tags": ["islamiyat", "department_contact"]
+  },
+  {
+    "id": "contact_015",
+    "content": "Department of Management Sciences contact mscience@sbbwu.edu.pk and phone +92-91-9224780.",
+    "category": "contact_directory",
+    "tags": ["management_sciences", "department_contact"]
+  },
+  {
+    "id": "contact_016",
+    "content": "Department of Physics contact physics@sbbwu.edu.pk and phone +92-91-9224703.",
+    "category": "contact_directory",
+    "tags": ["physics", "department_contact"]
+  },
+  {
+    "id": "contact_017",
+    "content": "Department of Chemistry contact chemistry@sbbwu.edu.pk and phones +92-91-9224706, +92-91-9224785.",
+    "category": "contact_directory",
+    "tags": ["chemistry", "department_contact"]
+  },
+  {
+    "id": "contact_018",
+    "content": "Department of English contact english@sbbwu.edu.pk and phone +92-91-9224725.",
+    "category": "contact_directory",
+    "tags": ["english", "department_contact"]
+  },
+  {
+    "id": "contact_019",
+    "content": "Department of Education contact education@sbbwu.edu.pk and phones +92-91-9224815, +92-91-9224816.",
+    "category": "contact_directory",
+    "tags": ["education", "department_contact"]
+  },
+  {
+    "id": "contact_020",
+    "content": "Hostel contact email hostel@sbbwu.edu.pk and phone +92-91-9224800.",
+    "category": "contact_directory",
+    "tags": ["hostel", "hostel_contact"]
+  },
+  {
+    "id": "contact_021",
+    "content": "CCTV Control Room contact controlroom@sbbwu.edu.pk and phone +92-91-9224812.",
+    "category": "contact_directory",
+    "tags": ["security", "cctv_contact"]
+  },
+  {
+    "id": "contact_022",
+    "content": "General university contact email info@sbbwu.edu.pk and phone +92-91-9224722.",
+    "category": "contact_directory",
+    "tags": ["university_main_contact", "general_inquiry"]
+  }
+]

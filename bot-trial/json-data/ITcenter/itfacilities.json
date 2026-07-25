@@ -1,0 +1,52 @@
+[
+  {
+    "id": "itc_001",
+    "content": "IT Centre provides ICT services for students and staff including computer labs, internet access, help desk support, video conferencing, learning center, internships, final year project support, IT career counselling, and ICT workshops.",
+    "category": "it_services",
+    "tags": ["ict_services_overview"]
+  },
+  {
+    "id": "itc_002",
+    "content": "Computer labs provide hardware, software, and workspace access with technical staff support. Facilities include licensed software, internet/intranet access, printing, and photocopying services.",
+    "category": "computer_labs",
+    "tags": ["lab_facilities", "software_access"]
+  },
+  {
+    "id": "itc_003",
+    "content": "IT Service Desk offers technical support for computers, laptops, mobile devices, home networking issues, and data recovery services along with computing guidance.",
+    "category": "support_services",
+    "tags": ["it_helpdesk"]
+  },
+  {
+    "id": "itc_004",
+    "content": "Support is available via email, phone, walk-in service at Data Centre, and official IT Centre website.",
+    "category": "contact_information",
+    "tags": ["support_contact"]
+  },
+  {
+    "id": "itc_005",
+    "content": "Learning Center provides training, consulting, multimedia production, graphics, photography, videography, and workshops on standard applications and systems.",
+    "category": "learning_center",
+    "tags": ["training_programs", "multimedia_support"]
+  },
+  {
+    "id": "itc_006",
+    "content": "IT Centre supports final year projects, networking and hosting solutions, open-source software deployment, and provides internship opportunities and project-based honorary roles.",
+    "category": "academic_support",
+    "tags": ["final_year_project_support", "internships", "networking_services"]
+  },
+  {
+    "id": "itc_007",
+    "content": "IT Centre operates 24/7 for services with staff deployment based on institutional needs and ongoing expansion.",
+    "category": "operations",
+    "tags": ["itservice_availability"]
+  }
+  ,
+  {
+    "id": "itc_cmp_001",
+    "content": "The IT Complaint Performa is an official form used to register IT-related issues at the IT Centre of the university. It allows students and staff to report technical problems such as computer faults, network issues, or IT service disruptions for resolution by the IT support team.",
+    "category": "complaint_form",
+    "tags": ["it_complaint", "it_support_form"]
+  }
+
+]

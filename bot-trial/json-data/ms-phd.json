@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ms_mphil_programs",
+    "content": "The university offers MS/M.Phil programs in the following departments: Economics, Psychology, Statistics, Mathematics, Islamiyat, Management Sciences, and Computer Sciences.",
+    "category": "postgraduate_programs",
+    "tags": ["ms_mphil", "programs", "postgraduate", "departments"]
+  },
+  {
+    "id": "phd_programs",
+    "content": "The university offers Ph.D programs in Islamiyat and Psychology.",
+    "category": "doctoral_programs",
+    "tags": ["phd", "programs", "doctoral", "research_degrees"]
+  },
+  {
+    "id": "ms_mphil_departments",
+    "content": "MS/M.Phil programs are offered by the Department of Economics, Department of Psychology, Department of Statistics, Department of Mathematics, Department of Islamiyat, Department of Management Sciences, and Department of Computer Sciences.",
+    "category": "postgraduate_departments",
+    "tags": ["ms_mphil", "departments", "postgraduate_fields"]
+  },
+  {
+    "id": "phd_departments",
+    "content": "Ph.D programs are offered in the Department of Islamiyat and Department of Psychology.",
+    "category": "doctoral_departments",
+    "tags": ["phd", "departments", "research_fields"]
+  }
+]

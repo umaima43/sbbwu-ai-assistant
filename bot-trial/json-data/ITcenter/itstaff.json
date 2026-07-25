@@ -1,0 +1,26 @@
+[
+  {
+    "id": "it_staff_001",
+    "content": "Amanatullah Khalil - Deputy Director IT | Email: amanatkhalil@sbbwu.edu.pk | Phone: +92-91-9224770",
+    "category": "it_staff",
+    "tags": ["IT Centre", "leadership", "deputy-director"]
+  },
+  {
+    "id": "it_staff_002",
+    "content": "Noor Alam - Assistant System Administrator | Email: nooralam@sbbwu.edu.pk | Phone: +92-91-9224770",
+    "category": "it_staff",
+    "tags": ["system-administration", "IT support"]
+  },
+  {
+    "id": "it_staff_003",
+    "content": "Rifaqat Ullah - Network Support Engineer | Email: rifaqatkhalil@sbbwu.edu.pk | Phone: +92-91-9224770",
+    "category": "it_staff",
+    "tags": ["network-support", "engineering", "IT Centre"]
+  },
+  {
+    "id": "it_staff_004",
+    "content": "Fazal Amin - Network Assistant | Email: aminkhan@sbbwu.edu.pk | Phone: +92-91-9224770",
+    "category": "it_staff",
+    "tags": ["network-assistant", "IT support"]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "lib_001",
+    "content": "The Central Library of Shaheed Benazir Bhutto Women University was established in 2006 and moved to its purpose-built building in 2014. It supports academic and research needs with over 13,000 volumes including books, journals, magazines, theses, and research papers.",
+    "category": "library_overview",
+    "tags": ["library", "overview", "academic_support"]
+  },
+  {
+    "id": "lib_002",
+    "content": "The library provides Web OPAC for online catalog search and access to HEC Digital Library resources for students and faculty.",
+    "category": "digital_services",
+    "tags": ["library", "digital_library", "opac"]
+  },
+  {
+    "id": "lib_003",
+    "content": "Library sections include Acquisition, Reading Room, Circulation, Reference & Journals, Research and IT Lab, Eleanor Roosevelt Corner, and Technical Services.",
+    "category": "library_structure",
+    "tags": ["library", "sections", "services"]
+  },
+  {
+    "id": "lib_004",
+    "content": "Books are organized using the Dewey Decimal Classification system, where each item is assigned a unique call number based on its subject to help locate it on shelves.",
+    "category": "library_system",
+    "tags": ["library", "classification", "dewey_decimal"]
+  },
+  {
+    "id": "lib_005",
+    "content": "Library services include borrowing books, reference assistance, and reader advisory support to help users access and utilize library resources effectively.",
+    "category": "library_services",
+    "tags": ["library", "services", "borrowing", "reference"]
+  },
+  {
+    "id": "lib_006",
+    "content": "Library operates Monday to Friday from 08:30 AM to 03:15 PM. Circulation timing is from 09:30 AM to 02:00 PM. The library remains closed on public holidays.",
+    "category": "library_timing",
+    "tags": ["library", "timing", "schedule"]
+  },
+  {
+    "id": "lib_007",
+    "content": "Library rules include maintaining silence, no eating or drinking, proper handling of books, returning materials on time, and reporting lost library cards immediately.",
+    "category": "library_rules",
+    "tags": ["library", "rules", "discipline"]
+  },
+  {
+    "id": "lib_008",
+    "content": "Library contact information: Email librarian@sbbwu.edu.pk and phone +92-91-9224749 for inquiries and support.",
+    "category": "contact_information",
+    "tags": ["library", "contact", "email", "phone"]
+  },
+  {
+    "id": "lib_009",
+    "content": "Central Library staff includes Deputy Librarian Ms. Haseeba Shafi, Library Assistant Ms. Mohsina, Senior Clerks Ms. Bibi Saleema, Ms. Shakila Khan, Ms. Nida Zahid, and support staff Mr. Ashfaq.",
+    "category": "library_staff",
+    "tags": ["library", "staff", "directory"]
+  }
+]

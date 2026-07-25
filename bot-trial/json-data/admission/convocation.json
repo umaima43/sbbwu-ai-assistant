@@ -1,0 +1,44 @@
+[
+  {
+    "id": "convocation_intro_001",
+    "content": "Shaheed Benazir Bhutto Women University Peshawar (SBBWU) is the first women university of Khyber Pakhtunkhwa. It aims to empower female students through education, research, and development in scientific, socio-cultural, economic, and political fields.",
+    "category": "convocation_introduction",
+    "tags": ["university", "mission", "women-education", "kp", "introduction"]
+  },
+  {
+    "id": "convocation_foundation_001",
+    "content": "The Convocation tradition at SBBWU was initiated under the leadership of the founding Vice Chancellor Prof. Dr. Syeda Farhana Jahangir, establishing it as an annual academic event.",
+    "category": "convocation_history",
+    "tags": ["founder", "vice-chancellor", "tradition", "history"]
+  },
+  {
+    "id": "convocation_event_2012_001",
+    "content": "The first convocation was held on 28 March 2012 at the University of Peshawar Convocation Hall, where 213 graduates were awarded degrees.",
+    "category": "convocation_event",
+    "tags": ["first-convocation", "2012", "event-details", "graduates"]
+  },
+  {
+    "id": "convocation_degrees_001",
+    "content": "A total of 154 MS degrees were awarded in Psychology, Mathematics, Economics, Computer Science, and Statistics, while 59 MA degrees were awarded in Arabic, Islamiyat, and English.",
+    "category": "convocation_degrees",
+    "tags": ["ms-degrees", "ma-degrees", "disciplines", "graduates"]
+  },
+  {
+    "id": "convocation_awards_001",
+    "content": "A total of 34 students received Gold Medals for their outstanding academic performance.",
+    "category": "convocation_awards",
+    "tags": ["gold-medals", "merit", "achievements"]
+  },
+  {
+    "id": "convocation_chief_guest_001",
+    "content": "The convocation was graced by Chancellor Barrister Syed Masood Kausar (Governor Khyber Pakhtunkhwa) as chief guest, along with distinguished guests, students, and parents.",
+    "category": "convocation_guests",
+    "tags": ["chief-guest", "governor", "ceremony", "dignitaries"]
+  },
+  {
+    "id": "convocation_address_001",
+    "content": "The Chancellor appreciated the performance of students and congratulated faculty, graduates, and parents. The founding Vice Chancellor delivered the welcome address.",
+    "category": "convocation_speeches",
+    "tags": ["speech", "appreciation", "vice-chancellor", "chancellor"]
+  }
+]

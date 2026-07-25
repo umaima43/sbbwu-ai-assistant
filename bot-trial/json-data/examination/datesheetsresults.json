@@ -1,0 +1,14 @@
+[
+  {
+    "id": "links_001",
+    "content": "To check datasheets and schedules, visit: https://sbbwu.edu.pk/sbbwu/Examination_section/downloads",
+    "category": "examination_links",
+    "tags": ["datasheet", "schedule", "exam dates"]
+  },
+  {
+    "id": "links_002",
+    "content": "To check your online result, visit: https://sbbwu.edu.pk/sbbwu/Result",
+    "category": "examination_links",
+    "tags": ["result", "online result", "marks"]
+  }
+]

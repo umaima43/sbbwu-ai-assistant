@@ -1,0 +1,319 @@
+[
+  {
+    "id": "session_001",
+    "content": "The academic year consists of two semesters: Fall and Spring.",
+    "category": "academic_session",
+    "tags": ["semester", "structure", "academic year"]
+  },
+  {
+    "id": "session_002",
+    "content": "The Fall semester starts in September.",
+    "category": "academic_session",
+    "tags": ["fall semester", "start month"]
+  },
+  {
+    "id": "session_003",
+    "content": "The Spring semester starts in February.",
+    "category": "academic_session",
+    "tags": ["spring semester", "start month"]
+  },
+  {
+    "id": "session_004",
+    "content": "Each semester has a total duration of 18 weeks.",
+    "category": "academic_session",
+    "tags": ["duration", "semester weeks"]
+  },
+  {
+    "id": "session_005",
+    "content": "Each semester includes 16 weeks of teaching.",
+    "category": "academic_session",
+    "tags": ["teaching duration"]
+  },
+  {
+    "id": "session_006",
+    "content": "Each semester includes 2 weeks for examinations and result declaration.",
+    "category": "academic_session",
+    "tags": ["exam duration", "result"]
+  },
+
+  {
+    "id": "theory_mid_001",
+    "content": "The mid-term examination of theory courses has a weightage of 30%.",
+    "category": "theory_assessment",
+    "tags": ["midterm", "weightage"]
+  },
+  {
+    "id": "theory_mid_002",
+    "content": "The mid-term exam is conducted after 8 weeks of teaching.",
+    "category": "theory_assessment",
+    "tags": ["midterm", "timing"]
+  },
+  {
+    "id": "theory_mid_003",
+    "content": "The mid-term exam includes objective questions of 10 marks.",
+    "category": "theory_assessment",
+    "tags": ["midterm", "paper pattern", "objective"]
+  },
+  {
+    "id": "theory_mid_004",
+    "content": "The mid-term exam includes short answer questions of 10 marks.",
+    "category": "theory_assessment",
+    "tags": ["midterm", "paper pattern", "short questions"]
+  },
+  {
+    "id": "theory_mid_005",
+    "content": "The mid-term exam includes long answer questions of 30 marks.",
+    "category": "theory_assessment",
+    "tags": ["midterm", "paper pattern", "long questions"]
+  },
+  {
+    "id": "theory_mid_006",
+    "content": "The total duration of the mid-term exam is 1.5 hours.",
+    "category": "theory_assessment",
+    "tags": ["midterm", "time"]
+  },
+
+  {
+    "id": "theory_internal_001",
+    "content": "The internal assessment of theory courses has a weightage of 20%.",
+    "category": "theory_assessment",
+    "tags": ["internal", "weightage"]
+  },
+  {
+    "id": "theory_internal_002",
+    "content": "Assignments contribute 5% to internal assessment.",
+    "category": "theory_assessment",
+    "tags": ["internal", "assignments"]
+  },
+  {
+    "id": "theory_internal_003",
+    "content": "Presentations contribute 5% to internal assessment.",
+    "category": "theory_assessment",
+    "tags": ["internal", "presentations"]
+  },
+  {
+    "id": "theory_internal_004",
+    "content": "Quizzes and tests contribute 10% to internal assessment.",
+    "category": "theory_assessment",
+    "tags": ["internal", "quizzes", "tests"]
+  },
+
+  {
+    "id": "theory_final_001",
+    "content": "The final-term examination of theory courses has a weightage of 50%.",
+    "category": "theory_assessment",
+    "tags": ["final term", "weightage"]
+  },
+  {
+    "id": "theory_final_002",
+    "content": "The final-term exam is conducted after 16 weeks of teaching.",
+    "category": "theory_assessment",
+    "tags": ["final term", "timing"]
+  },
+  {
+    "id": "theory_final_003",
+    "content": "The final-term exam includes objective questions of 10 marks.",
+    "category": "theory_assessment",
+    "tags": ["final term", "objective"]
+  },
+  {
+    "id": "theory_final_004",
+    "content": "The final-term exam includes short answer questions of 10 marks.",
+    "category": "theory_assessment",
+    "tags": ["final term", "short questions"]
+  },
+  {
+    "id": "theory_final_005",
+    "content": "The final-term exam includes long answer questions of 30 marks.",
+    "category": "theory_assessment",
+    "tags": ["final term", "long questions"]
+  },
+  {
+    "id": "theory_final_006",
+    "content": "The total duration of the final-term exam is 2 hours.",
+    "category": "theory_assessment",
+    "tags": ["final term", "time"]
+  },
+
+  {
+    "id": "lab_mid_001",
+    "content": "The mid-term lab exam has a weightage of 30%.",
+    "category": "lab_assessment",
+    "tags": ["lab", "midterm", "weightage"]
+  },
+  {
+    "id": "lab_mid_002",
+    "content": "Viva voce contributes 10% in the mid-term lab exam.",
+    "category": "lab_assessment",
+    "tags": ["lab", "viva"]
+  },
+  {
+    "id": "lab_mid_003",
+    "content": "Practical performance contributes 20% in the mid-term lab exam.",
+    "category": "lab_assessment",
+    "tags": ["lab", "practical"]
+  },
+  {
+    "id": "lab_mid_004",
+    "content": "The duration of the mid-term lab exam is 3 hours.",
+    "category": "lab_assessment",
+    "tags": ["lab", "time"]
+  },
+
+  {
+    "id": "lab_internal_001",
+    "content": "The internal evaluation of lab courses has a weightage of 20%.",
+    "category": "lab_assessment",
+    "tags": ["lab", "internal"]
+  },
+  {
+    "id": "lab_internal_002",
+    "content": "Lab attendance contributes 5% in internal evaluation.",
+    "category": "lab_assessment",
+    "tags": ["lab", "attendance"]
+  },
+  {
+    "id": "lab_internal_003",
+    "content": "Notebook completion contributes 5% in internal evaluation.",
+    "category": "lab_assessment",
+    "tags": ["lab", "notebook"]
+  },
+  {
+    "id": "lab_internal_004",
+    "content": "Presentation and demonstration contribute 10% in internal evaluation.",
+    "category": "lab_assessment",
+    "tags": ["lab", "presentation"]
+  },
+
+  {
+    "id": "lab_final_001",
+    "content": "The final-term lab exam has a weightage of 50%.",
+    "category": "lab_assessment",
+    "tags": ["lab", "final"]
+  },
+  {
+    "id": "lab_final_002",
+    "content": "Viva voce contributes 10% in the final lab exam.",
+    "category": "lab_assessment",
+    "tags": ["lab", "viva"]
+  },
+  {
+    "id": "lab_final_003",
+    "content": "Practical performance contributes 40% in the final lab exam.",
+    "category": "lab_assessment",
+    "tags": ["lab", "practical"]
+  },
+  {
+    "id": "lab_final_004",
+    "content": "The duration of the final lab exam is 3 hours.",
+    "category": "lab_assessment",
+    "tags": ["lab", "time"]
+  },
+
+  {
+    "id": "passing_001",
+    "content": "A student must obtain at least 50% marks in each paper to pass.",
+    "category": "passing_rules",
+    "tags": ["passing marks", "criteria"]
+  },
+
+  {
+    "id": "grading_001",
+    "content": "85% and above corresponds to Grade A with GPA 4.0 and Excellent performance.",
+    "category": "grading",
+    "tags": ["grade A", "gpa"]
+  },
+  {
+    "id": "grading_002",
+    "content": "70 to 84% corresponds to Grade B with GPA between 3.0 and 3.9.",
+    "category": "grading",
+    "tags": ["grade B"]
+  },
+  {
+    "id": "grading_003",
+    "content": "60 to 69% corresponds to Grade C with GPA between 2.0 and 2.9.",
+    "category": "grading",
+    "tags": ["grade C"]
+  },
+  {
+    "id": "grading_004",
+    "content": "50 to 59% corresponds to Grade D with GPA between 1.0 and 1.9.",
+    "category": "grading",
+    "tags": ["grade D"]
+  },
+  {
+    "id": "grading_005",
+    "content": "Marks below 50% correspond to Grade F which means fail.",
+    "category": "grading",
+    "tags": ["fail"]
+  },
+  {
+    "id": "grading_006",
+    "content": "Grade W indicates a withdrawn course.",
+    "category": "grading",
+    "tags": ["withdrawn"]
+  },
+  {
+    "id": "grading_007",
+    "content": "Grade I indicates an incomplete course.",
+    "category": "grading",
+    "tags": ["incomplete"]
+  },
+
+  {
+    "id": "gpa_001",
+    "content": "SGPA is calculated by dividing the sum of grade points multiplied by credit hours by total credit hours in a semester.",
+    "category": "gpa",
+    "tags": ["sgpa", "formula"]
+  },
+  {
+    "id": "gpa_002",
+    "content": "CGPA is calculated by dividing the sum of grade points multiplied by credit hours of all semesters by total credit hours.",
+    "category": "gpa",
+    "tags": ["cgpa", "formula"]
+  },
+  {
+    "id": "gpa_003",
+    "content": "If the third decimal in GPA is 5 or more, it is rounded up.",
+    "category": "gpa",
+    "tags": ["rounding"]
+  },
+  {
+    "id": "gpa_004",
+    "content": "If the third decimal in GPA is 4 or less, it is rounded down.",
+    "category": "gpa",
+    "tags": ["rounding"]
+  },
+
+  {
+    "id": "rules_001",
+    "content": "A withdrawn course is not counted as fail and is not included in GPA or CGPA calculation.",
+    "category": "academic_rules",
+    "tags": ["withdrawn"]
+  },
+  {
+    "id": "rules_002",
+    "content": "An incomplete course is not included in GPA or CGPA calculation.",
+    "category": "academic_rules",
+    "tags": ["incomplete"]
+  },
+
+  {
+    "id": "thesis_001",
+    "content": "Thesis or project evaluation is conducted by an external examiner appointed by the competent authority.",
+    "category": "thesis",
+    "tags": ["evaluation"]
+  },
+  {
+    "id": "thesis_002",
+    "content": "The viva voce of thesis is conducted by the external examiner along with the supervisor and head of department.",
+    "category": "thesis",
+    "tags": ["viva"]
+  },
+  {
+    "id": "thesis_003",
+    "content": "Honorarium is paid to examiners including the head of department for thesis evaluation.",
+    "category": "thesis",
+    "tags": ["payment"]
+  }
+]

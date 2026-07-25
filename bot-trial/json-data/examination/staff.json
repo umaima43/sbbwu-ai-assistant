@@ -1,0 +1,40 @@
+[
+  {
+    "id": "exam_staff_001",
+    "content": "Dr. Rubi Bilal is the Controller of Examination. Email: controllerexams@sbbwu.edu.pk, Phone: 091-9224718.",
+    "category": "examination_staff",
+    "tags": ["controller", "examination", "contact"]
+  },
+  {
+    "id": "exam_staff_002",
+    "content": "Dr. Noreen Naz is the Deputy Controller of Examination. Email: noreen.naz@sbbwu.edu.pk, Phone: 091-9224713.",
+    "category": "examination_staff",
+    "tags": ["deputy controller", "examination", "contact"]
+  },
+  {
+    "id": "exam_staff_003",
+    "content": "Ms. Brakhna Sayed is the Deputy Controller of Examination. Email: brakhna.syed@sbbwu.edu.pk, Phone: 019-9224713.",
+    "category": "examination_staff",
+    "tags": ["deputy controller", "examination", "contact"]
+  },
+  {
+    "id": "exam_staff_004",
+    "content": "Ms. Haleema Ikram is the Assistant Controller of Examination. Email: assttcontroller2@sbbwu.edu.pk, Phone: 019-9224713.",
+    "category": "examination_staff",
+    "tags": ["assistant controller", "examination", "contact"]
+  },
+  {
+    "id": "exam_staff_005",
+    "content": "Ms. Sidra Mughal is the Office Assistant in the Examination section. Email: exams@sbbwu.edu.pk, Phone: 091-9224716.",
+    "category": "examination_staff",
+    "tags": ["office assistant", "examination", "contact"]
+  },
+
+  {
+    "id": "exam_section_001",
+    "content": "The Examination section includes services like Assessment Policy, Online Results, Downloads and Datesheets, and Staff information.",
+    "category": "examination_info",
+    "tags": ["services", "examination section"]
+  }
+]
+
