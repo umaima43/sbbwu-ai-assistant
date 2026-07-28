@@ -1,4 +1,7 @@
+"use client";
 import Image from "next/image";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 import {
   House,
   History,
@@ -9,6 +12,8 @@ import {
 } from "lucide-react";
 
 export default function Sidebar({ onNewConversation }) {
+   const pathname = usePathname();
+
   return (
     <aside className="w-80 h-screen bg-[#A10D5A] text-white flex flex-col">
 
@@ -16,7 +21,7 @@ export default function Sidebar({ onNewConversation }) {
       <div className="flex flex-col items-center pt-8 pb-6">
 
         <Image
-          src="/sbbwu-logo.webp"
+          src="/sbbwu-logo.png"
           alt="University Logo"
           width={80}
           height={80}
@@ -47,38 +52,57 @@ export default function Sidebar({ onNewConversation }) {
       {/* Navigation */}
       <nav className="mt-8 px-5 flex flex-col gap-2">
 
-        <button className="flex items-center gap-4 w-full h-14 px-5 rounded-2xl bg-[#C33C78] shadow-md">
-          <House size={22} />
-          <span className="font-medium text-[16px]">
-            Home
-          </span>
-        </button>
+       <Link
+  href="/"
+  className={`flex items-center gap-4 w-full h-14 px-5 rounded-2xl transition-all duration-300 ${
+    pathname === "/"
+      ? "bg-[#C33C78] shadow-md"
+      : "hover:bg-[#C33C78]"
+  }`}
+>
+  <House size={22} />
+  <span className="text-[17px]">Home</span>
+</Link>
 
-        <button className="flex items-center gap-4 w-full h-14 px-5 rounded-2xl hover:bg-[#C33C78] transition">
-          <History size={22} />
-          <span>Chat History</span>
-        </button>
+      <Link
+  href="/history"
+  className="flex items-center gap-4 w-full h-14 px-5 rounded-2xl text-white hover:bg-[#C33C78] transition-all duration-300"
+>
+  <History size={22} />
+  <span className="text-[17px]">Chat History</span>
+</Link>
 
-        <button className="flex items-center gap-4 w-full h-14 px-5 rounded-2xl hover:bg-[#C33C78] transition">
-          <Zap size={22} />
-          <span>Quick Help</span>
-        </button>
-
-        <button className="flex items-center gap-4 w-full h-14 px-5 rounded-2xl hover:bg-[#C33C78] transition">
-          <Building2 size={22} />
-          <span>University Info</span>
-        </button>
+       <Link
+  href="/quick-help"
+  className="flex items-center gap-4 w-full h-14 px-5 rounded-2xl text-white hover:bg-[#C33C78] transition-all duration-300"
+>
+  <Zap size={22} />
+  <span className="text-[17px]">Quick Help</span>
+</Link>
+<Link
+  href="/university-info"
+  className="flex items-center gap-4 w-full h-14 px-5 rounded-2xl text-white hover:bg-[#C33C78] transition-all duration-300"
+>
+  <Building2 size={22} />
+  <span className="text-[17px]">University Info</span>
+</Link>
 
         <button className="flex items-center gap-4 w-full h-14 px-5 rounded-2xl hover:bg-[#C33C78] transition">
           <CircleHelp size={22} />
           <span>FAQs</span>
         </button>
 
-        <button className="flex items-center gap-4 w-full h-14 px-5 rounded-2xl hover:bg-[#C33C78] transition">
-          <Phone size={22} />
-          <span>Contact Us</span>
-        </button>
-
+       <Link
+  href="/contact-us"
+  className={`flex items-center gap-4 w-full h-14 px-5 rounded-2xl transition-all duration-300 ${
+    pathname === "/contact-us"
+      ? "bg-[#C33C78] shadow-md"
+      : "hover:bg-[#C33C78]"
+  }`}
+>
+  <Phone size={22} />
+  <span className="text-[17px]">Contact Us</span>
+</Link>
       </nav>
 
       {/* Bottom Profile */}

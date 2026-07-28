@@ -9,11 +9,11 @@ export default function WelcomeSection() {
 
         <p className="text-4xl mb-2">👋</p>
 
-        <h1 className="text-3xl font-bold text-gray-800">
+        <h1 className="text-3xl font-bold text-gray-800 dark:text-white">
           Assalamualaikum!
         </h1>
 
-        <p className="mt-2 text-lg text-gray-500">
+        <p className="mt-2 text-lg text-gray-500 dark:text-gray-400">
           How can I help you today?
         </p>
 

@@ -13,8 +13,8 @@ export default function ChatInput({ onSend }) {
   };
 
   return (
-    <div className="border-t border-gray-200 p-4 bg-white">
-      <div className="flex items-center gap-3 rounded-2xl px-4 py-3 bg-gray-100">
+    <div className="border-t border-gray-200 dark:border-gray-700 p-4 bg-white dark:bg-gray-900">
+      <div className="flex items-center gap-3 rounded-2xl px-4 py-3 bg-gray-100 dark:bg-gray-800">
         <button className="text-gray-400 hover:text-[#A10D5A] transition-colors">
           <Paperclip size={20} />
         </button>
@@ -27,7 +27,7 @@ export default function ChatInput({ onSend }) {
             if (e.key === "Enter") handleSend();
           }}
           placeholder="Ask anything about SBBWU..."
-          className="flex-1 bg-transparent outline-none placeholder:text-gray-400 text-gray-800"
+          className="flex-1 bg-transparent outline-none placeholder:text-gray-400 dark:placeholder:text-gray-500 text-gray-800 dark:text-gray-100"
         />
 
         <button
