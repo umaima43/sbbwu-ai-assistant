@@ -19,7 +19,7 @@ const iconColorClasses = (active: boolean) =>
   `transition-colors duration-150 ${
     active
       ? "text-[#A10D5A] dark:text-[#F4B8D8]"
-      : "text-gray-500 hover:text-[#A10D5A] dark:text-gray-400 dark:hover:text-[#F4B8D8]"
+      : "text-black hover:text-[#A10D5A] dark:text-white dark:hover:text-[#F4B8D8]"
   }`;
 
 export default function MessageFeedbackBar({
@@ -60,7 +60,7 @@ export default function MessageFeedbackBar({
               : `inline-flex h-9 w-9 items-center justify-center rounded-lg ${iconColorClasses(false)}`
           }
         >
-          {copied ? <Check className="h-3.5 w-3.5" /> : <Copy className="h-4 w-4" />}
+          {copied ? <Check className="h-3.5 w-3.5" /> : <Copy className="h-[18px] w-[18px] stroke-[2.5]" />}
           {copied && "Copied"}
         </button>
         {!copied && <IconTooltip label="Copy" />}
@@ -75,7 +75,10 @@ export default function MessageFeedbackBar({
           aria-label="Helpful"
           className={`inline-flex h-9 w-9 items-center justify-center rounded-lg ${iconColorClasses(feedback === "up")}`}
         >
-          <ThumbsUp className="h-4 w-4" fill={feedback === "up" ? "currentColor" : "none"} />
+          <ThumbsUp
+  className="h-[18px] w-[18px] stroke-[2.5]"
+  fill={feedback === "up" ? "currentColor" : "none"}
+/>
         </button>
         <IconTooltip label="Helpful" />
       </div>
@@ -89,7 +92,10 @@ export default function MessageFeedbackBar({
           aria-label="Not helpful"
           className={`inline-flex h-9 w-9 items-center justify-center rounded-lg ${iconColorClasses(feedback === "down")}`}
         >
-          <ThumbsDown className="h-4 w-4" fill={feedback === "down" ? "currentColor" : "none"} />
+          <ThumbsDown
+  className="h-[18px] w-[18px] stroke-[2.5]"
+  fill={feedback === "down" ? "currentColor" : "none"}
+/>
         </button>
         <IconTooltip label="Not helpful" />
       </div>

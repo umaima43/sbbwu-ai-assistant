@@ -27,8 +27,9 @@ export default function FAQCard({
   const [showHelpAlert, setShowHelpAlert] = useState(false);
 
   const handleAskAssistant = () => {
-    // router.push(`/chat?question=${encodeURIComponent(question)}`);
-    router.push(`/?question=${encodeURIComponent(question)}`);
+    
+    // router.push(`/?question=${encodeURIComponent(question)}`);
+      router.push(`/chat?question=${encodeURIComponent(question)}`);
   };
 
   const handleNotHelpful = () => {

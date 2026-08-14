@@ -35,7 +35,8 @@ export default function FAQPage() {
        
 <div className="mb-3">
   <Link
-    href="/"
+    // href="/"
+    href="/chat"   
     aria-label="Back to Home"
     title="Back to Home"
     className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-[#A10D5A]/15 bg-white text-[#A10D5A] shadow-sm transition-all duration-200 hover:border-[#A10D5A]/30 hover:bg-[#A10D5A] hover:text-white hover:shadow-md dark:border-[#A10D5A]/30 dark:bg-gray-900"

@@ -55,13 +55,16 @@ export default function BookmarkButton({ question, answer, className = "" }: Boo
           className={`inline-flex h-9 items-center gap-1.5 rounded-lg px-1 text-xs font-bold transition-colors duration-150 ${
             saved
               ? "text-[#A10D5A] dark:text-[#F4B8D8]"
-              : "text-gray-500 hover:text-[#A10D5A] dark:text-gray-400 dark:hover:text-[#F4B8D8]"
+              : "text-black hover:text-[#A10D5A] dark:text-white dark:hover:text-[#F4B8D8]"
           }`}
         >
           {saved ? (
-            <BookmarkCheck className="h-4 w-4" fill="currentColor" />
+           <BookmarkCheck
+  className="h-[18px] w-[18px] stroke-[2.5]"
+  fill="currentColor"
+/>
           ) : (
-            <BookmarkIcon className="h-4 w-4" />
+           <BookmarkIcon className="h-[18px] w-[18px] stroke-[2.5]" />
           )}
           {saved ? "Saved" : "Bookmark"}
         </button>

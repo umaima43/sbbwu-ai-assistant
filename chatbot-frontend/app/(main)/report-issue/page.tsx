@@ -118,7 +118,8 @@ export default function ReportIssuePage() {
           ====================================================== */}
          <div className="mb-8 flex justify-start">
   <Link
-    href="/"
+    // href="/"
+    href="/chat"   
     aria-label="Back to Home"
     title="Back to Home"
     className="inline-flex h-10 w-10 items-center justify-center rounded-full

@@ -95,7 +95,7 @@ export default function Header() {
           {/* Logo */}
           <div className="relative flex h-12 w-14 shrink-0 items-center justify-center rounded-md border border-[#E7E1E4] bg-white dark:border-white/15 dark:bg-white/5">
             <Image
-              src="/sbbwu-logo.png"
+              src="/bglogo.png"
               alt="SBBWU"
               width={41}
               height={39}
@@ -106,7 +106,7 @@ export default function Header() {
 
           {/* University Name */}
           <div className="flex flex-col justify-center border-l border-[#E7E1E4] pl-4 dark:border-white/15">
-            <h2 className="text-[19px] font-semibold leading-tight tracking-[-0.02em] text-[#A10D5A] dark:text-[#D66A9E]">
+            <h2 className="text-[19px] font-semibold leading-tight tracking-[-0.02em] text-[#A10D5A] ">
               SBBWU AI Assistant
             </h2>
 

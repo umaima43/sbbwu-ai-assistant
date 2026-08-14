@@ -1,5 +1,3 @@
-
-
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
@@ -75,7 +73,7 @@ export default function MainChat() {
       setMessages(conv.messages);
     }
 
-    router.replace("/");
+    router.replace("/chat");
   }, [searchParams, router]);
 
   // Save conversation history when messages change
@@ -203,31 +201,47 @@ export default function MainChat() {
     handleSend(question);
 
     // Remove question from URL
-    router.replace("/");
+    router.replace("/chat");
   }, [searchParams, router, handleSend]);
+
+  // Whether a real conversation has started (more than the initial welcome msg)
+  const hasConversation = messages.length > 1;
 
   return (
     <div className="flex min-h-0 flex-1 flex-col">
-      {/* Chat Area */}
-      <div className="flex-1 overflow-y-auto p-8">
-        {/* Welcome Section */}
-        <WelcomeSection onQuickAsk={handleSend} />
+      {!hasConversation ? (
+        // Pre-chat state: welcome section + input centered together
+        <div className="flex flex-1 items-center justify-center overflow-y-auto p-8">
+          <div className="w-full max-w-2xl">
+            <WelcomeSection onQuickAsk={handleSend} />
+            <div className="mt-8">
+              <ChatInput
+                onSend={handleSend}
+                disabled={isLoading}
+                variant="centered"
+              />
+            </div>
+          </div>
+        </div>
+      ) : (
+        // Active chat state: scrollable messages, input pinned to bottom
+        // Both share the same max-w-6xl mx-auto wrapper so their edges line up
+        <>
+          <div className="flex-1 overflow-y-auto px-4 py-8 sm:px-10">
+            <div className="mx-auto max-w-6xl">
+              <ChatContainer messages={messages} />
+              {isLoading && <TypingIndicator />}
+              <div ref={bottomRef} />
+            </div>
+          </div>
 
-        {/* Chat Messages + Feedback + Bookmark */}
-        <ChatContainer messages={messages} />
-
-        {/* Typing Indicator */}
-        {isLoading && <TypingIndicator />}
-
-        {/* Auto Scroll Target */}
-        <div ref={bottomRef} />
-      </div>
-
-      {/* Chat Input */}
-      <ChatInput
-        onSend={handleSend}
-        disabled={isLoading}
-      />
+         <div className="shrink-0 bg-white px-4 pb-4 dark:bg-gray-900 sm:px-10">
+  <div className="mx-auto w-full max-w-4xl">
+    <ChatInput onSend={handleSend} disabled={isLoading} />
+  </div>
+</div>
+        </>
+      )}
     </div>
   );
 }

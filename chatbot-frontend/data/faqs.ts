@@ -200,3 +200,5 @@ export const faqs = [
       "Students can contact the relevant SBBWU office regarding PAK-US Need Based Scholarships at 091-9239297 or by email at academics@sbbwu.edu.pk.",
   },
 ];
+
+

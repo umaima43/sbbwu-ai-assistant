@@ -1,5 +1,3 @@
-
-
 "use client";
 
 import Image from "next/image";
@@ -28,7 +26,6 @@ function formatSidebarTime(isoDate: string) {
   const today = new Date();
 
   const isToday = d.toDateString() === today.toDateString();
-
   const time = d.toLocaleTimeString([], {
     hour: "2-digit",
     minute: "2-digit",
@@ -128,7 +125,7 @@ export default function Sidebar() {
           ====================================================== */}
           <div className="flex flex-col items-center px-6 pb-4 pt-2">
             <Image
-  src="/sbbwu-logo.png"
+  src="/bglogo.png"
   alt="SBBWU Logo"
   width={85}
   height={85}
@@ -147,26 +144,26 @@ export default function Sidebar() {
 
     {/* New Conversation */}
   <button
-    onClick={() => {
-      startNewConversation();
-      router.push("/");
-    }}
+   onClick={() => {
+  startNewConversation();
+  router.push("/chat");   // was "/"
+}}
     className="w-full rounded-2xl bg-[#B32868] py-3 text-[15px] font-semibold text-white shadow-md transition-all duration-200 hover:scale-[1.02] hover:bg-[#d44a88] dark:bg-[#A10D5A] dark:hover:bg-[#C33C78]"
   >
     + New Conversation
   </button>
   {/* Home */}
-  <button
-  onClick={() => pathname !== "/" && router.push("/")}
-  disabled={pathname === "/"}
-  className={`flex w-full items-center justify-center gap-2 rounded-2xl py-3 text-[15px] font-semibold text-white shadow-md transition-all duration-200 ${
-    pathname === "/"
+<button
+  onClick={() => pathname !== "/chat" && router.push("/chat")}
+  disabled={pathname === "/chat"}
+  className={`flex w-full items-center justify-center gap-3 rounded-xl px-4 py-3 text-sm font-medium text-white transition-all duration-200 ${
+    pathname === "/chat"
       ? "cursor-default bg-[#A10D5A] opacity-90"
       : "bg-[#B32868] hover:scale-[1.02] hover:bg-[#d44a88] dark:bg-[#A10D5A] dark:hover:bg-[#C33C78]"
   }`}
 >
   <Home size={18} strokeWidth={2.2} />
-  Home
+  <span>Home</span>
 </button>
 </div>
           {/* =====================================================
@@ -206,7 +203,7 @@ export default function Sidebar() {
                           role="button"
                           tabIndex={0}
                           onClick={() =>
-                            router.push(`/?load=${item.id}`)
+                            router.push(`/chat?load=${item.id}`)
                           }
                           onKeyDown={(e) => {
                             if (
@@ -214,7 +211,8 @@ export default function Sidebar() {
                               e.key === " "
                             ) {
                               e.preventDefault();
-                              router.push(`/?load=${item.id}`);
+                              // router.push(`/?load=${item.id}`);
+                              router.push(`/chat?load=${item.id}`);
                             }
                           }}
                          className="group flex w-full cursor-pointer items-center gap-2 rounded-xl border border-[#C33C78]/30 bg-[#B32868] px-2.5 py-2.5 text-left shadow-sm transition-all duration-200 hover:border-[#D95A91]/40 hover:bg-[#9A1F5A] hover:shadow-md dark:border-[#8F2860] dark:bg-[#6E0E3E] dark:hover:border-[#A10D5A] dark:hover:bg-[#7E174B]"
