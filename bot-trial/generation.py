@@ -17,6 +17,8 @@ provider-agnostic.
 
 from __future__ import annotations
 
+from pathlib import Path
+
 import os
 import re
 import time
@@ -26,14 +28,22 @@ from typing import Dict, List, Optional, Tuple
 
 try:
     from dotenv import load_dotenv
-    # Matches this project's convention of keeping LLM credentials in groq.env
-    # rather than the default .env. Falls back to a normal .env / already-set
-    # environment variables if groq.env isn't found, so this still works if
-    # you rename the file later.
-    load_dotenv("groq.env")
-    load_dotenv()
+    # Use an absolute path anchored to this file's directory so groq.env is
+    # found regardless of which directory the server process is launched from.
+    _env_path = Path(__file__).parent / "groq.env"
+    load_dotenv(_env_path)
+    load_dotenv()  # also honour a plain .env or already-set env vars
 except ImportError:
-    pass  # dotenv is optional; env vars may already be set by the host environment
+    # python-dotenv is not installed — manually parse groq.env so the key
+    # is always available regardless of the host environment.
+    _env_path = Path(__file__).parent / "groq.env"
+    if _env_path.exists():
+        for _raw_line in _env_path.read_text(encoding="utf-8").splitlines():
+            _line = _raw_line.strip()
+            if not _line or _line.startswith("#") or "=" not in _line:
+                continue
+            _k, _, _v = _line.partition("=")
+            os.environ.setdefault(_k.strip(), _v.strip().strip('"').strip("'"))
 
 from groq import Groq, APIError, APIConnectionError, RateLimitError
 

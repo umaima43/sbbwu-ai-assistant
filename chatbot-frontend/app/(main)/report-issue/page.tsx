@@ -19,10 +19,8 @@ import {
   X,
   HelpCircle,
   FileWarning,
-  ClipboardList, Zap, Sparkles
+  ClipboardList,
 } from "lucide-react";
-
-// import Header from "@/components/layout/Header";
 
 const fraunces = Fraunces({
   subsets: ["latin"],
@@ -42,6 +40,7 @@ export default function ReportIssuePage() {
   const [email, setEmail] = useState("");
   const [issue, setIssue] = useState("");
   const [file, setFile] = useState<File | null>(null);
+
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [isCategoryOpen, setIsCategoryOpen] = useState(false);
 
@@ -76,35 +75,116 @@ export default function ReportIssuePage() {
 
   const selectedType = issueTypes.find((item) => item.value === category);
 
-  const handleFileChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+  const handleFileChange = (
+    e: React.ChangeEvent<HTMLInputElement>
+  ) => {
     const selectedFile = e.target.files?.[0];
-    if (selectedFile) {
-      setFile(selectedFile);
+
+    if (!selectedFile) return;
+
+    // 5 MB limit
+    if (selectedFile.size > 5 * 1024 * 1024) {
+      alert("The screenshot must be smaller than 5MB.");
+
+      if (fileInputRef.current) {
+        fileInputRef.current.value = "";
+      }
+
+      return;
     }
+
+    setFile(selectedFile);
   };
 
   const removeFile = () => {
     setFile(null);
+
     if (fileInputRef.current) {
       fileInputRef.current.value = "";
     }
   };
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (
+    e: React.FormEvent<HTMLFormElement>
+  ) => {
     e.preventDefault();
+
+    if (!category) {
+      alert("Please select an issue category.");
+      return;
+    }
+
+    if (!issue.trim()) {
+      alert("Please describe the issue.");
+      return;
+    }
+
     setIsSubmitted(true);
 
-    setTimeout(() => {
+    try {
+      const formData = new FormData();
+
+      formData.append("category", category);
+      formData.append("email", email);
+      formData.append("issue", issue);
+
+      if (file) {
+        formData.append("file", file);
+      }
+
+      const response = await fetch("/api/report-issues", {
+        method: "POST",
+        body: formData,
+      });
+
+      const contentType =
+        response.headers.get("content-type") || "";
+
+      let data: {
+        success?: boolean;
+        message?: string;
+      };
+
+      if (contentType.includes("application/json")) {
+        data = await response.json();
+      } else {
+        const text = await response.text();
+
+        data = {
+          success: false,
+          message: text || "Server returned an unexpected response.",
+        };
+      }
+
+      if (!response.ok || !data.success) {
+        throw new Error(
+          data.message || "Failed to submit the report."
+        );
+      }
+
+      alert("Your report has been submitted successfully.");
+
+      // Clear form
       setCategory("");
       setEmail("");
       setIssue("");
       setFile(null);
-      setIsSubmitted(false);
+      setIsCategoryOpen(false);
 
       if (fileInputRef.current) {
         fileInputRef.current.value = "";
       }
-    }, 2500);
+    } catch (error) {
+      console.error("Report submission error:", error);
+
+      alert(
+        error instanceof Error
+          ? error.message
+          : "Something went wrong while submitting the report."
+      );
+    } finally {
+      setIsSubmitted(false);
+    }
   };
 
   return (
