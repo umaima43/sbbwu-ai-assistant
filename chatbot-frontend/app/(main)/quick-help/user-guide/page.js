@@ -17,24 +17,21 @@ import {
 
 export default function UserGuidePage() {
   return (
-    <div className="min-h-full bg-[#F7F8FC] dark:bg-gray-950 p-8">
-
-      <div className="max-w-6xl mx-auto">
+    <div className="min-h-full bg-[#F7F8FC] p-8 dark:bg-gray-950">
+      <div className="mx-auto max-w-6xl">
 
         {/* Back Button */}
         <Link
-          href="/quick-help"
-          className="inline-flex items-center gap-2 mb-6 text-sm font-semibold text-[#A10D5A] dark:text-pink-300 hover:gap-3 transition-all"
+          href="/chat"
+          className="mb-6 inline-flex items-center gap-2 text-sm font-semibold text-[#A10D5A] transition-all hover:gap-3 dark:text-pink-300"
         >
           <ArrowLeft size={18} />
-          Back to Quick Help
+          Back
         </Link>
-
 
         {/* Page Header */}
         <div className="mb-8">
-
-          <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-pink-100 dark:bg-pink-950/40 text-[#A10D5A] dark:text-pink-300 text-sm font-semibold mb-4">
+          <div className="mb-4 inline-flex items-center gap-2 rounded-full bg-pink-100 px-4 py-2 text-sm font-semibold text-[#A10D5A] dark:bg-pink-950/40 dark:text-pink-300">
             <Sparkles size={16} />
             SBBWU AI Assistant
           </div>
@@ -43,25 +40,20 @@ export default function UserGuidePage() {
             User Guide
           </h1>
 
-          <p className="mt-3 text-lg text-gray-600 dark:text-gray-300 max-w-3xl">
+          <p className="mt-3 max-w-3xl text-lg text-gray-600 dark:text-gray-300">
             Learn how to use the SBBWU AI Assistant, ask questions,
             and find university information quickly and easily.
           </p>
-
         </div>
 
-
         {/* Hero */}
-        <section className="relative overflow-hidden rounded-3xl bg-gradient-to-r from-[#A10D5A] to-[#C33C78] p-8 mb-10 text-white shadow-lg">
-
-          <div className="absolute -right-10 -top-10 w-40 h-40 rounded-full bg-white/10" />
-          <div className="absolute -right-20 -bottom-20 w-60 h-60 rounded-full bg-white/10" />
+        <section className="relative mb-10 overflow-hidden rounded-3xl bg-gradient-to-r from-[#A10D5A] to-[#C33C78] p-8 text-white shadow-lg">
+          <div className="absolute -right-10 -top-10 h-40 w-40 rounded-full bg-white/10" />
+          <div className="absolute -bottom-20 -right-20 h-60 w-60 rounded-full bg-white/10" />
 
           <div className="relative">
-
-            <div className="flex items-center gap-4 mb-5">
-
-              <div className="w-14 h-14 rounded-2xl bg-white/15 flex items-center justify-center">
+            <div className="mb-5 flex items-center gap-4">
+              <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-white/15">
                 <MessageCircle size={28} />
               </div>
 
@@ -70,29 +62,23 @@ export default function UserGuidePage() {
                   Your Virtual University Assistant
                 </h2>
 
-                <p className="text-pink-100 mt-1">
+                <p className="mt-1 text-pink-100">
                   Ask questions and get university-related information.
                 </p>
               </div>
-
             </div>
 
-            <p className="text-pink-50 leading-7 max-w-4xl">
+            <p className="max-w-4xl leading-7 text-pink-50">
               The SBBWU AI Assistant helps students find information
               about admissions, departments, fees, examinations,
               hostels, scholarships, and other university-related topics.
             </p>
-
           </div>
-
         </section>
-
 
         {/* How To Use */}
         <section className="mb-12">
-
           <div className="mb-6">
-
             <h2 className="text-2xl font-bold text-gray-900 dark:text-white">
               How to Use the Chatbot
             </h2>
@@ -100,12 +86,9 @@ export default function UserGuidePage() {
             <p className="mt-2 text-gray-500 dark:text-gray-400">
               Follow these simple steps to start using the AI Assistant.
             </p>
-
           </div>
 
-
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-
+          <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
             <GuideStep
               number="01"
               icon={<MessageCircle size={24} />}
@@ -133,20 +116,15 @@ export default function UserGuidePage() {
               title="Read the Answer"
               description="The AI Assistant processes your question and displays a relevant response."
             />
-
           </div>
-
         </section>
-
 
         {/* Example */}
         <section className="mb-12">
+          <div className="rounded-3xl border-2 border-pink-200 bg-white p-7 shadow-sm transition-all duration-300 hover:border-[#A10D5A] dark:border-pink-900 dark:bg-gray-900 dark:hover:border-pink-600">
 
-          <div className="bg-white dark:bg-gray-900 border-2 border-pink-200 dark:border-pink-900 rounded-3xl p-7 shadow-sm hover:border-[#A10D5A] dark:hover:border-pink-600 transition-all duration-300">
-
-            <div className="flex items-center gap-4 mb-6">
-
-              <div className="w-12 h-12 rounded-xl bg-pink-100 dark:bg-pink-950/40 flex items-center justify-center">
+            <div className="mb-6 flex items-center gap-4">
+              <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-pink-100 dark:bg-pink-950/40">
                 <HelpCircle
                   size={24}
                   className="text-[#A10D5A] dark:text-pink-300"
@@ -162,53 +140,41 @@ export default function UserGuidePage() {
                   You can ask questions naturally.
                 </p>
               </div>
-
             </div>
-
 
             <div className="space-y-4">
 
               {/* User */}
-              <div className="bg-gray-50 dark:bg-gray-800 rounded-2xl p-5">
-
-                <p className="text-xs font-semibold uppercase text-gray-400 mb-2">
+              <div className="rounded-2xl bg-gray-50 p-5 dark:bg-gray-800">
+                <p className="mb-2 text-xs font-semibold uppercase text-gray-400">
                   You
                 </p>
 
                 <p className="font-medium text-gray-800 dark:text-gray-200">
                   How do I apply for admission at SBBWU?
                 </p>
-
               </div>
 
-
               {/* AI */}
-              <div className="bg-pink-50 dark:bg-pink-950/30 border border-pink-200 dark:border-pink-900 rounded-2xl p-5">
-
-                <p className="text-xs font-semibold uppercase text-[#A10D5A] dark:text-pink-300 mb-2">
+              <div className="rounded-2xl border border-pink-200 bg-pink-50 p-5 dark:border-pink-900 dark:bg-pink-950/30">
+                <p className="mb-2 text-xs font-semibold uppercase text-[#A10D5A] dark:text-pink-300">
                   AI Assistant
                 </p>
 
-                <p className="text-gray-700 dark:text-gray-300 leading-7">
+                <p className="leading-7 text-gray-700 dark:text-gray-300">
                   The AI Assistant will provide relevant information
                   about the admission process based on the university
                   information available to the system.
                 </p>
-
               </div>
 
             </div>
-
           </div>
-
         </section>
-
 
         {/* Features */}
         <section className="mb-12">
-
           <div className="mb-6">
-
             <h2 className="text-2xl font-bold text-gray-900 dark:text-white">
               Useful Features
             </h2>
@@ -216,11 +182,9 @@ export default function UserGuidePage() {
             <p className="mt-2 text-gray-500 dark:text-gray-400">
               Use these features to make your chatbot experience easier.
             </p>
-
           </div>
 
-
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+          <div className="grid grid-cols-1 gap-5 md:grid-cols-2">
 
             <FeatureCard
               icon={<Plus size={22} />}
@@ -247,15 +211,12 @@ export default function UserGuidePage() {
             />
 
           </div>
-
         </section>
-
 
         {/* How It Works */}
         <section className="mb-12">
 
           <div className="mb-6">
-
             <h2 className="text-2xl font-bold text-gray-900 dark:text-white">
               How Does the AI Assistant Work?
             </h2>
@@ -263,13 +224,11 @@ export default function UserGuidePage() {
             <p className="mt-2 text-gray-500 dark:text-gray-400">
               A simple overview of what happens when you ask a question.
             </p>
-
           </div>
 
+          <div className="rounded-3xl border-2 border-pink-200 bg-white p-7 shadow-sm transition-all duration-300 hover:border-[#A10D5A] dark:border-pink-900 dark:bg-gray-900 dark:hover:border-pink-600">
 
-          <div className="bg-white dark:bg-gray-900 border-2 border-pink-200 dark:border-pink-900 rounded-3xl p-7 shadow-sm hover:border-[#A10D5A] dark:hover:border-pink-600 transition-all duration-300">
-
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
+            <div className="grid grid-cols-1 gap-6 md:grid-cols-4">
 
               <WorkStep
                 number="1"
@@ -296,23 +255,19 @@ export default function UserGuidePage() {
               />
 
             </div>
-
           </div>
-
         </section>
-
 
         {/* Tips */}
         <section className="mb-12">
 
-          <div className="bg-white dark:bg-gray-900 border-2 border-pink-200 dark:border-pink-900 rounded-3xl p-7 shadow-sm hover:border-[#A10D5A] dark:hover:border-pink-600 transition-all duration-300">
+          <div className="rounded-3xl border-2 border-pink-200 bg-white p-7 shadow-sm transition-all duration-300 hover:border-[#A10D5A] dark:border-pink-900 dark:bg-gray-900 dark:hover:border-pink-600">
 
-            <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-6">
+            <h2 className="mb-6 text-2xl font-bold text-gray-900 dark:text-white">
               Tips for Better Answers
             </h2>
 
             <div className="space-y-4">
-
               <Tip text="Ask clear and specific questions." />
 
               <Tip text="Mention the topic you need help with, such as admissions, fees, examinations, or hostels." />
@@ -320,55 +275,48 @@ export default function UserGuidePage() {
               <Tip text="You can ask follow-up questions to continue the conversation." />
 
               <Tip text="Use suggested questions if you are unsure what to ask." />
-
             </div>
 
           </div>
-
         </section>
-
 
         {/* Important Notice */}
         <section className="mb-10">
 
-          <div className="flex gap-4 p-6 rounded-3xl bg-amber-50 dark:bg-amber-950/20 border-2 border-amber-200 dark:border-amber-900">
+          <div className="flex gap-4 rounded-3xl border-2 border-amber-200 bg-amber-50 p-6 dark:border-amber-900 dark:bg-amber-950/20">
 
             <AlertCircle
               size={24}
-              className="text-amber-600 dark:text-amber-400 shrink-0"
+              className="shrink-0 text-amber-600 dark:text-amber-400"
             />
 
             <div>
-
               <h2 className="font-bold text-gray-900 dark:text-white">
                 Important Information
               </h2>
 
-              <p className="mt-2 text-gray-600 dark:text-gray-300 leading-7">
+              <p className="mt-2 leading-7 text-gray-600 dark:text-gray-300">
                 The AI Assistant may occasionally provide incorrect or
                 outdated information. For important matters such as
                 admission deadlines, examination dates, fees, merit lists,
                 and official policies, please verify the information
                 through official university sources.
               </p>
-
             </div>
 
           </div>
-
         </section>
 
-
         {/* Contact */}
-        <div className="text-center py-6">
+        <div className="py-6 text-center">
 
-          <p className="text-gray-500 dark:text-gray-400 text-sm">
+          <p className="text-sm text-gray-500 dark:text-gray-400">
             Need more help?
           </p>
 
           <Link
             href="/contact"
-            className="inline-flex items-center gap-2 mt-2 font-semibold text-[#A10D5A] dark:text-pink-300 hover:gap-3 transition-all"
+            className="mt-2 inline-flex items-center gap-2 font-semibold text-[#A10D5A] transition-all hover:gap-3 dark:text-pink-300"
           >
             Contact Us
             <span>→</span>
@@ -377,7 +325,6 @@ export default function UserGuidePage() {
         </div>
 
       </div>
-
     </div>
   );
 }
@@ -392,36 +339,33 @@ function GuideStep({
   description,
 }) {
   return (
-    <div className="bg-white dark:bg-gray-900 border-2 border-pink-200 dark:border-pink-900 rounded-3xl p-6 shadow-sm hover:shadow-lg hover:-translate-y-1 hover:border-[#A10D5A] dark:hover:border-pink-600 transition-all duration-300">
+    <div className="rounded-3xl border-2 border-pink-200 bg-white p-6 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-[#A10D5A] hover:shadow-lg dark:border-pink-900 dark:bg-gray-900 dark:hover:border-pink-600">
 
       <div className="flex items-start gap-5">
 
         <div className="relative shrink-0">
 
-          <div className="w-14 h-14 rounded-2xl bg-pink-100 dark:bg-pink-950/40 text-[#A10D5A] dark:text-pink-300 flex items-center justify-center">
+          <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-pink-100 text-[#A10D5A] dark:bg-pink-950/40 dark:text-pink-300">
             {icon}
           </div>
 
-          <span className="absolute -top-2 -right-2 w-7 h-7 rounded-full bg-[#A10D5A] text-white text-xs font-bold flex items-center justify-center">
+          <span className="absolute -right-2 -top-2 flex h-7 w-7 items-center justify-center rounded-full bg-[#A10D5A] text-xs font-bold text-white">
             {number}
           </span>
 
         </div>
 
         <div>
-
           <h3 className="text-lg font-bold text-gray-900 dark:text-white">
             {title}
           </h3>
 
-          <p className="mt-2 text-gray-500 dark:text-gray-400 leading-6">
+          <p className="mt-2 leading-6 text-gray-500 dark:text-gray-400">
             {description}
           </p>
-
         </div>
 
       </div>
-
     </div>
   );
 }
@@ -435,22 +379,20 @@ function FeatureCard({
   description,
 }) {
   return (
-    <div className="flex gap-4 p-6 bg-white dark:bg-gray-900 border-2 border-pink-200 dark:border-pink-900 rounded-2xl shadow-sm hover:shadow-lg hover:border-[#A10D5A] dark:hover:border-pink-600 transition-all duration-300">
+    <div className="flex gap-4 rounded-2xl border-2 border-pink-200 bg-white p-6 shadow-sm transition-all duration-300 hover:border-[#A10D5A] hover:shadow-lg dark:border-pink-900 dark:bg-gray-900 dark:hover:border-pink-600">
 
-      <div className="w-11 h-11 shrink-0 rounded-xl bg-pink-100 dark:bg-pink-950/40 text-[#A10D5A] dark:text-pink-300 flex items-center justify-center">
+      <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-pink-100 text-[#A10D5A] dark:bg-pink-950/40 dark:text-pink-300">
         {icon}
       </div>
 
       <div>
-
         <h3 className="font-bold text-gray-900 dark:text-white">
           {title}
         </h3>
 
-        <p className="mt-1 text-sm text-gray-500 dark:text-gray-400 leading-6">
+        <p className="mt-1 text-sm leading-6 text-gray-500 dark:text-gray-400">
           {description}
         </p>
-
       </div>
 
     </div>
@@ -468,7 +410,7 @@ function WorkStep({
   return (
     <div className="text-center">
 
-      <div className="mx-auto w-12 h-12 rounded-full bg-[#A10D5A] text-white flex items-center justify-center font-bold text-lg">
+      <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-[#A10D5A] text-lg font-bold text-white">
         {number}
       </div>
 
@@ -493,7 +435,7 @@ function Tip({ text }) {
 
       <CheckCircle2
         size={20}
-        className="text-[#A10D5A] dark:text-pink-300 mt-0.5 shrink-0"
+        className="mt-0.5 shrink-0 text-[#A10D5A] dark:text-pink-300"
       />
 
       <p className="text-gray-600 dark:text-gray-300">

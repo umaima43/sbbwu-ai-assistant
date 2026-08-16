@@ -46,12 +46,12 @@ const menuItems = [
     icon: CircleHelp,
     desc: "Find answers to common student questions.",
   },
-  {
-    href: "/quick-help",
-    label: "Quick Help",
-    icon: Zap,
-    desc: "Important university information at your fingertips.",
-  },
+ {
+  href: "/quick-help/user-guide",
+  label: "Quick help",
+  icon: Zap,
+  desc: "Learn how to use the SBBWU AI Assistant.",
+},
   
   
 ];
