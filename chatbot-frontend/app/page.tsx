@@ -122,7 +122,7 @@ export default function EntrancePage() {
             {/* logo itself */}
             <div className="relative h-40 w-40 drop-shadow-[0_8px_20px_rgba(0,0,0,0.35)]">
               <Image
-                src="/logo.png"
+                src="/bglogo.png"
                 alt="SBBWU Logo"
                 fill
                 priority

@@ -131,7 +131,7 @@ export default function ContactPage() {
     </div>
 
 <h1 className="text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">
-  Contact Us
+   Quick Contacts
 </h1>
 
   </div>
