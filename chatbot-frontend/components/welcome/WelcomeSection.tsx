@@ -12,7 +12,7 @@ export default function WelcomeSection({ onQuickAsk }: Props) {
     <div className="mx-auto w-full max-w-2xl text-center">
       <div className="mb-5 flex justify-center">
         <Image
-          src="/hadeeqa.png"
+          src="/chand.jpeg"
           alt="SBBWU AI Assistant"
           width={495}
           height={495}

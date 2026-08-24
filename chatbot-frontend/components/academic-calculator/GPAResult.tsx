@@ -36,8 +36,8 @@ export default function GPAResult({ result }: GPAResultProps) {
               Your Semester GPA
             </div>
             <div className="flex items-baseline gap-2">
-              <span className="text-6xl font-black tracking-tight sm:text-7xl">
-                {result.gpa.toFixed(2)}
+              <span className="text-5xl font-bold tracking-tight sm:text-6xl">
+              {result.gpa.toFixed(2)}
               </span>
               <span className="text-lg font-semibold text-pink-100">/ 4.00</span>
             </div>
@@ -200,28 +200,6 @@ export default function GPAResult({ result }: GPAResultProps) {
             <div className="rounded-xl bg-white px-4 py-3 text-lg font-black text-[#A10D5A] shadow-sm dark:bg-gray-900 dark:text-[#F4B8D8]">
               {result.totalQualityPoints.toFixed(2)} ÷ {result.totalCreditHours} ={" "}
               {result.gpa.toFixed(2)}
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Formula */}
-      <div className="mt-5 rounded-2xl border-2 border-[#A10D5A] bg-white p-5 shadow-sm">
-        <div className="flex gap-3">
-          <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-xl bg-[#FDE7F1] text-[#A10D5A] dark:bg-[#3A1228] dark:text-[#F4B8D8]">
-            <CheckCircle2 className="h-5 w-5" />
-          </div>
-          <div>
-            <p className="text-sm font-bold text-gray-900">
-              How your GPA was calculated
-            </p>
-            <p className="mt-2 text-sm leading-6 text-gray-600">
-              Each subject&apos;s grade point (from SBBWU&apos;s marks-to-grade-point scale) was
-              multiplied by its credit hours to get quality points. Total quality points were
-              then divided by total credit hours attempted.
-            </p>
-            <div className="mt-3 rounded-xl border border-[#F4B8D8] bg-[#FFF8FB] px-4 py-3 text-sm font-bold text-[#A10D5A]">
-              GPA = Total Quality Points ÷ Total Credit Hours
             </div>
           </div>
         </div>

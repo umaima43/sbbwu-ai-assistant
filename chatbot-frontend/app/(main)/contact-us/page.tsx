@@ -130,8 +130,8 @@ export default function ContactPage() {
       <MessageCircle className="h-6 w-6 text-[#A10D5A]" />
     </div>
 
-<h1 className="text-3xl font-bold tracking-tight text-gray-900 dark:text-white sm:text-4xl">
-   Quick Contacts
+ <h1 className="text-3xl font-bold tracking-tight text-[#A10D5A] sm:text-4xl">
+  Quick Contacts
 </h1>
 
   </div>

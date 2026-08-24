@@ -123,7 +123,7 @@ export default function CGPACalculator({ onBack }: CGPACalculatorProps) {
           </h1>
 
           {/* Description card — pink */}
-          <div className="mt-4 max-w-2xl rounded-2xl border-2 border-[#A10D5A] bg-white px-6 py-4 shadow-sm">
+          <div className="mt-4 mb-6 max-w-2xl rounded-2xl border-2 border-[#A10D5A] bg-white px-6 py-4 shadow-sm">
             <p className="text-sm leading-6 text-gray-700 sm:text-base">
               Add the GPA and credit hours for each semester to get your overall CGPA using{" "}
               <span className="font-semibold text-[#A10D5A] dark:text-[#F4B8D8]">
@@ -135,7 +135,7 @@ export default function CGPACalculator({ onBack }: CGPACalculatorProps) {
         </div>
 
         {/* Info card — white */}
-        <div className="mb-6 mt-4 flex gap-4 rounded-2xl border-2 border-[#A10D5A] bg-white p-5 shadow-sm">
+        {/* <div className="mb-6 mt-4 flex gap-4 rounded-2xl border-2 border-[#A10D5A] bg-white p-5 shadow-sm">
           <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-[#A10D5A] text-white">
             <CheckCircle2 className="h-5 w-5" />
           </div>
@@ -148,7 +148,7 @@ export default function CGPACalculator({ onBack }: CGPACalculatorProps) {
               GPA is calculated using the weighted credit hours of all entered semesters.
             </p>
           </div>
-        </div>
+        </div> */}
 
         {/* Input card */}
         <div className="overflow-hidden rounded-3xl border-2 border-[#A10D5A] bg-[#FAD8E8] shadow-lg shadow-pink-200/50">
