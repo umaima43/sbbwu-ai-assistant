@@ -20,8 +20,9 @@ export default function ChatContainer({ messages }: ChatContainerProps) {
           />
 
           {msg.sender === "bot" && msg.question && (
-            <div className="mb-4 ml-[48px]">
+            <div className="mb-4 ml-0 sm:ml-[48px]">
               <MessageFeedbackBar
+                messageId={msg.messageId}
                 question={msg.question}
                 answer={msg.message}
               />

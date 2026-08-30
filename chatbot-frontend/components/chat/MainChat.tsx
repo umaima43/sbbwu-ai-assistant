@@ -1,3 +1,4 @@
+
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
@@ -211,10 +212,11 @@ export default function MainChat() {
     <div className="flex min-h-0 flex-1 flex-col">
       {!hasConversation ? (
         // Pre-chat state: welcome section + input centered together
-        <div className="flex flex-1 items-center justify-center overflow-y-auto p-8">
+        <div className="flex flex-1 items-center justify-center overflow-y-auto px-3 py-5 sm:px-6 sm:py-8">
           <div className="w-full max-w-2xl">
             <WelcomeSection onQuickAsk={handleSend} />
-            <div className="mt-8">
+
+            <div className="mt-5 sm:mt-8">
               <ChatInput
                 onSend={handleSend}
                 disabled={isLoading}
@@ -227,21 +229,25 @@ export default function MainChat() {
         // Active chat state: scrollable messages, input pinned to bottom
         // Both share the same max-w-6xl mx-auto wrapper so their edges line up
         <>
-          <div className="flex-1 overflow-y-auto px-4 py-8 sm:px-10">
-            <div className="mx-auto max-w-6xl">
+          <div className="flex-1 overflow-y-auto px-3 py-4 sm:px-6 sm:py-6 md:px-10 md:py-8">
+            <div className="mx-auto w-full max-w-6xl">
               <ChatContainer messages={messages} />
               {isLoading && <TypingIndicator />}
               <div ref={bottomRef} />
             </div>
           </div>
 
-         <div className="shrink-0 bg-white px-4 pb-4 dark:bg-gray-900 sm:px-10">
-  <div className="mx-auto w-full max-w-4xl">
-    <ChatInput onSend={handleSend} disabled={isLoading} />
-  </div>
-</div>
+          <div className="shrink-0 bg-white px-3 pb-3 pt-2 dark:bg-gray-900 sm:px-6 sm:pb-4 md:px-10">
+            <div className="mx-auto w-full max-w-4xl">
+              <ChatInput
+                onSend={handleSend}
+                disabled={isLoading}
+              />
+            </div>
+          </div>
         </>
       )}
     </div>
   );
 }
+

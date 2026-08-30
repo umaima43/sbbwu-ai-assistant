@@ -12,6 +12,7 @@ import {
   PanelLeftClose,
   PanelLeft,
   Trash2,
+  X,
 } from "lucide-react";
 import { useChatContext } from "@/components/providers/ChatProvider";
 import {
@@ -39,7 +40,14 @@ function formatSidebarTime(isoDate: string) {
       });
 }
 
-export default function Sidebar() {
+interface SidebarProps {
+  /** Mobile-only: controls the slide-in overlay drawer */
+  mobileOpen?: boolean;
+  /** Mobile-only: called when the user closes the drawer */
+  onMobileClose?: () => void;
+}
+
+export default function Sidebar({ mobileOpen, onMobileClose }: SidebarProps) {
   const pathname = usePathname();
   const router = useRouter();
 
@@ -47,6 +55,10 @@ export default function Sidebar() {
 
   const [history, setHistory] = useState<HistoryEntry[]>([]);
   const [collapsed, setCollapsed] = useState(false);
+
+  // Determine if this instance is being used as a mobile overlay
+  const isMobileOverlay =
+    mobileOpen !== undefined || onMobileClose !== undefined;
 
   useEffect(() => {
     setHistory(loadHistory().slice(0, 8));
@@ -82,6 +94,184 @@ export default function Sidebar() {
     },
   ].filter((s) => s.items.length > 0);
 
+  // ============================================================
+  // MOBILE OVERLAY RENDER
+  // ============================================================
+  if (isMobileOverlay) {
+    return (
+      <>
+        {/* Backdrop */}
+        {mobileOpen && (
+          <div
+            className="fixed inset-0 z-40 bg-black/50 md:hidden"
+            aria-hidden="true"
+            onClick={onMobileClose}
+          />
+        )}
+
+        {/* Drawer */}
+        <aside
+          className={`fixed inset-y-0 left-0 z-50 flex w-72 flex-col bg-linear-to-b from-[#7E0D46] via-[#8B0F4E] to-[#991157] text-white transition-transform duration-300 md:hidden ${
+            mobileOpen ? "translate-x-0" : "-translate-x-full"
+          }`}
+        >
+          {/* Close button row */}
+          <div className="flex items-center justify-between px-4 pt-5">
+            <Image
+              src="/bglogo.png"
+              alt="SBBWU Logo"
+              width={48}
+              height={48}
+              className="block"
+            />
+            <button
+              type="button"
+              onClick={onMobileClose}
+              className="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg text-white transition-all duration-200 hover:bg-white/15"
+              aria-label="Close sidebar"
+            >
+              <X size={20} />
+            </button>
+          </div>
+
+          {/* Brand */}
+          <div className="px-6 pb-4 pt-3 text-center">
+            <h1 className="text-lg font-bold leading-6">
+              SBBWU Assistant
+            </h1>
+          </div>
+
+          {/* Action Buttons */}
+          <div className="space-y-3 px-6">
+            <button
+              onClick={() => {
+                startNewConversation();
+                router.push("/chat");
+                onMobileClose?.();
+              }}
+              className="w-full rounded-2xl bg-[#B32868] py-3 text-[15px] font-semibold text-white shadow-md transition-all duration-200 hover:scale-[1.02] hover:bg-[#d44a88] dark:bg-[#A10D5A] dark:hover:bg-[#C33C78]"
+            >
+              + New Conversation
+            </button>
+            <button
+              onClick={() => {
+                if (pathname !== "/chat") router.push("/chat");
+                onMobileClose?.();
+              }}
+              disabled={pathname === "/chat"}
+              className={`flex w-full items-center justify-center gap-3 rounded-xl px-4 py-3 text-sm font-medium text-white transition-all duration-200 ${
+                pathname === "/chat"
+                  ? "cursor-default bg-[#A10D5A] opacity-90"
+                  : "bg-[#B32868] hover:scale-[1.02] hover:bg-[#d44a88] dark:bg-[#A10D5A] dark:hover:bg-[#C33C78]"
+              }`}
+            >
+              <Home size={18} strokeWidth={2.2} />
+              <span>Home</span>
+            </button>
+          </div>
+
+          {/* Chat History */}
+          <div className="mt-6 flex min-h-0 flex-1 flex-col px-5">
+            <div className="mb-3 flex items-center gap-2 text-lg font-semibold text-white/90">
+              <History size={18} />
+              Chat History
+            </div>
+
+            <div className="sidebar-scrollbar min-h-0 flex-1 space-y-4 overflow-y-auto pr-1">
+              {history.length === 0 ? (
+                <p className="px-2 text-sm font-medium text-white/65">
+                  No conversations yet.
+                </p>
+              ) : (
+                sections.map((section) => (
+                  <div key={section.label}>
+                    <p className="mb-2 px-2 text-xs font-bold uppercase tracking-wide text-white/60">
+                      {section.label}
+                    </p>
+                    <div className="space-y-2">
+                      {section.items.map((item) => (
+                        <div
+                          key={item.id}
+                          role="button"
+                          tabIndex={0}
+                          onClick={() => {
+                            router.push(`/chat?load=${item.id}`);
+                            onMobileClose?.();
+                          }}
+                          onKeyDown={(e) => {
+                            if (e.key === "Enter" || e.key === " ") {
+                              e.preventDefault();
+                              router.push(`/chat?load=${item.id}`);
+                              onMobileClose?.();
+                            }
+                          }}
+                          className="group flex w-full cursor-pointer items-center gap-2 rounded-xl border border-[#C33C78]/30 bg-[#B32868] px-2.5 py-2.5 text-left shadow-sm transition-all duration-200 hover:border-[#D95A91]/40 hover:bg-[#9A1F5A] hover:shadow-md dark:border-[#8F2860] dark:bg-[#6E0E3E] dark:hover:border-[#A10D5A] dark:hover:bg-[#7E174B]"
+                        >
+                          <div className="min-w-0 flex-1">
+                            <p className="truncate text-sm font-semibold text-white/95">
+                              {item.title}
+                            </p>
+                            <p className="mt-0.5 truncate text-xs font-medium text-white/65">
+                              {formatSidebarTime(item.date)}
+                            </p>
+                          </div>
+                          <button
+                            type="button"
+                            onClick={(e) => handleDelete(e, item.id)}
+                            className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg text-white/80 transition-all duration-200 hover:bg-white/15 hover:text-white"
+                            title="Delete conversation"
+                            aria-label={`Delete ${item.title}`}
+                          >
+                            <Trash2 size={15} strokeWidth={2.2} />
+                          </button>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                ))
+              )}
+            </div>
+
+            <Link
+              href="/history"
+              onClick={onMobileClose}
+              className="mt-3 block rounded-2xl border border-white/20 bg-[#B32868] py-2.5 text-center text-sm font-semibold text-white shadow-sm transition-all duration-200 hover:border-white/35 hover:bg-[#9A1F5A] hover:shadow-md dark:border-white/10 dark:bg-[#6E0E3E] dark:hover:border-white/20 dark:hover:bg-[#7E174B]"
+            >
+              View all history
+            </Link>
+          </div>
+
+          {/* Report an Issue */}
+          <div className="border-t border-white/10 p-4 dark:border-gray-700">
+            <Link
+              href="/report-issue"
+              onClick={onMobileClose}
+              className="group flex w-full items-center gap-3 rounded-2xl border border-white/25 bg-[#B32868] p-3.5 shadow-sm transition-all duration-200 hover:border-white/40 hover:bg-[#9A1F5A] hover:shadow-md dark:border-white/15 dark:bg-[#6E0E3E] dark:hover:border-white/25 dark:hover:bg-[#7E174B]"
+            >
+              <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-white text-[#A10D5A] shadow-sm transition-transform duration-200 group-hover:scale-105 dark:bg-white dark:text-[#A10D5A]">
+                <AlertTriangle size={19} strokeWidth={2.2} />
+              </div>
+              <div className="min-w-0 flex-1">
+                <p className="text-sm font-bold text-white">
+                  Report an Issue
+                </p>
+                <p className="mt-0.5 truncate text-xs font-medium text-white/80">
+                  Help us improve your experience
+                </p>
+              </div>
+              <div className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-white/10 text-white/80 transition-all duration-200 group-hover:translate-x-0.5 group-hover:bg-white/15 group-hover:text-white">
+                <ArrowRight size={17} strokeWidth={2.2} />
+              </div>
+            </Link>
+          </div>
+        </aside>
+      </>
+    );
+  }
+
+  // ============================================================
+  // DESKTOP RENDER (unchanged behaviour)
+  // ============================================================
   return (
     <aside
   className={`flex h-full shrink-0 flex-col bg-linear-to-b from-[#7E0D46] via-[#8B0F4E] to-[#991157] text-white transition-all duration-300 dark:bg-gray-900 ${

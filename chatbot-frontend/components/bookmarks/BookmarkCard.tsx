@@ -152,7 +152,7 @@ export default function BookmarkCard({
         </div>
       </div>
 
-      <div className="rounded-3xl border border-[#8C0C4E] bg-[#A10D5A] px-7 py-6 shadow-lg shadow-[#A10D5A]/20 transition-all duration-300 hover:shadow-xl hover:shadow-[#A10D5A]/30">
+      <div className="rounded-3xl border border-[#8C0C4E] bg-[#A10D5A] px-4 py-4 shadow-lg shadow-[#A10D5A]/20 transition-all duration-300 hover:shadow-xl hover:shadow-[#A10D5A]/30 sm:px-7 sm:py-6">
   <p className="text-[16px] font-semibold leading-8 tracking-[0.01em] text-white">
     {bookmark.question}
   </p>

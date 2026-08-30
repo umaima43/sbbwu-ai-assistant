@@ -13,10 +13,10 @@ const dancingScript = Dancing_Script({
 
 export default function EntrancePage() {
   return (
-    <div className="relative min-h-screen w-full overflow-hidden bg-white flex">
-      {/* ===== LEFT PINK PANEL — 60% ===== */}
+    <div className="relative min-h-screen w-full overflow-hidden bg-white flex flex-col md:flex-row">
+      {/* ===== LEFT PINK PANEL — full-width on mobile, 60% on md+ ===== */}
       <div
-        className="relative h-screen w-[60%]"
+        className="relative min-h-screen w-full md:h-screen md:w-[60%]"
         style={{
           background:
             "radial-gradient(120% 140% at 15% 10%, #A8135F 0%, #8B0F4E 45%, #6E0B3D 100%)",
@@ -107,9 +107,9 @@ export default function EntrancePage() {
         />
 
         {/* ===== CONTENT — starts from top, padded, not vertically centered ===== */}
-        <div className="relative z-20 flex h-full flex-col items-center px-8 pt-5 text-center text-white">
+        <div className="relative z-20 flex h-full flex-col items-center px-6 pt-8 text-center text-white sm:px-8 sm:pt-5">
           {/* Logo with soft glow behind it */}
-          <div className="relative flex h-40 w-40 items-center justify-center">
+          <div className="relative flex h-32 w-32 items-center justify-center sm:h-40 sm:w-40">
             {/* soft white glow */}
             <div
               className="absolute inset-0 rounded-full blur-2xl"
@@ -120,7 +120,7 @@ export default function EntrancePage() {
             />
 
             {/* logo itself */}
-            <div className="relative h-40 w-40 drop-shadow-[0_8px_20px_rgba(0,0,0,0.35)]">
+            <div className="relative h-32 w-32 drop-shadow-[0_8px_20px_rgba(0,0,0,0.35)] sm:h-40 sm:w-40">
               <Image
                 src="/bglogo.png"
                 alt="SBBWU Logo"
@@ -132,7 +132,7 @@ export default function EntrancePage() {
           </div>
 
           {/* Decorative heading */}
-          <h1 className="mt-4 flex flex-wrap items-center justify-center gap-3 text-4xl font-extrabold leading-tight tracking-tight md:text-5xl">
+          <h1 className="mt-4 flex flex-wrap items-center justify-center gap-2 text-3xl font-extrabold leading-tight tracking-tight sm:gap-3 sm:text-4xl md:text-5xl">
             <span className="font-light text-white/80">Welcome to the</span>
             <span className="inline-flex items-center justify-center rounded-xl bg-white px-4 py-1.5 text-[#A10D5A] shadow-lg shadow-black/20">
               SBBWU
@@ -140,7 +140,7 @@ export default function EntrancePage() {
           </h1>
 
           <h2
-            className={`${dancingScript.className} mt-2 text-5xl leading-none tracking-wide text-white md:text-6xl`}
+            className={`${dancingScript.className} mt-2 text-4xl leading-none tracking-wide text-white sm:text-5xl md:text-6xl`}
           >
             AI Assistant
           </h2>
@@ -148,7 +148,7 @@ export default function EntrancePage() {
           <div className="mt-3 h-[3px] w-40 rounded-full bg-gradient-to-r from-transparent via-white/70 to-transparent" />
 
           {/* Subtext */}
-          <p className="mt-6 max-w-md text-base font-semibold leading-relaxed text-white/90">
+          <p className="mt-6 max-w-md text-sm font-semibold leading-relaxed text-white/90 sm:text-base">
             Your virtual assistant for Shaheed Benazir Bhutto Women
             University — ask questions, get instant guidance, and find
             everything you need, all in one place.
@@ -157,7 +157,7 @@ export default function EntrancePage() {
           {/* Get Started Button */}
           <Link
             href="/chat"
-            className="group relative mt-9 flex w-full max-w-xs items-center justify-center gap-2 overflow-hidden rounded-2xl bg-white py-4 text-base font-extrabold text-[#A10D5A] shadow-xl shadow-black/25 transition-all duration-300 hover:scale-[1.03] hover:shadow-2xl hover:shadow-black/40"
+            className="group relative mt-8 flex w-full max-w-xs items-center justify-center gap-2 overflow-hidden rounded-2xl bg-white py-4 text-base font-extrabold text-[#A10D5A] shadow-xl shadow-black/25 transition-all duration-300 hover:scale-[1.03] hover:shadow-2xl hover:shadow-black/40 sm:mt-9"
           >
             <span className="absolute inset-0 -translate-x-full bg-gradient-to-r from-transparent via-[#F5C6DE]/60 to-transparent transition-transform duration-700 group-hover:translate-x-full" />
             <span className="relative">Get Started</span>
@@ -167,11 +167,14 @@ export default function EntrancePage() {
               className="relative transition-transform duration-300 group-hover:translate-x-1"
             />
           </Link>
+
+          {/* Extra bottom padding on mobile so content breathes */}
+          <div className="h-12 md:hidden" />
         </div>
       </div>
 
-      {/* ===== RIGHT WHITE PANEL — 40% ===== */}
-      <div className="relative flex h-screen w-[40%] items-center justify-center overflow-hidden bg-white">
+      {/* ===== RIGHT WHITE PANEL — hidden on mobile, 40% on md+ ===== */}
+      <div className="relative hidden h-screen w-[40%] items-center justify-center overflow-hidden bg-white md:flex">
         {/* --- Pink decorative accents scattered on white side (darker, more of them) --- */}
         <div className="pointer-events-none absolute inset-0">
           <div className="absolute left-[10%] top-[10%] h-16 w-16 rounded-full border-2 border-[#A10D5A]/45" />

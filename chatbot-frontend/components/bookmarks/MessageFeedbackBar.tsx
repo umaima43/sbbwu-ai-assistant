@@ -1,4 +1,3 @@
-
 "use client";
 
 import { useState } from "react";
@@ -7,14 +6,14 @@ import BookmarkButton from "./BookmarkButton";
 import IconTooltip from "./IconTooltip";
 
 interface MessageFeedbackBarProps {
+  messageId?: number;
   question: string;
   answer: string;
   onFeedback?: (value: "up" | "down" | null) => void;
 }
 
-// Idle: gray icon, transparent, no box.
-// Hover: icon outline turns pink — still transparent, no box.
-// Active: icon itself becomes a SOLID filled pink glyph — no background box at all.
+const API_URL = "http://127.0.0.1:8000";
+
 const iconColorClasses = (active: boolean) =>
   `transition-colors duration-150 ${
     active
@@ -23,24 +22,70 @@ const iconColorClasses = (active: boolean) =>
   }`;
 
 export default function MessageFeedbackBar({
+  messageId,
   question,
   answer,
   onFeedback,
 }: MessageFeedbackBarProps) {
   const [feedback, setFeedback] = useState<"up" | "down" | null>(null);
   const [copied, setCopied] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
 
-  const toggleFeedback = (value: "up" | "down") => {
+  const toggleFeedback = async (value: "up" | "down") => {
+    if (!messageId || submitting) return;
+
     const next = feedback === value ? null : value;
-    setFeedback(next);
-    onFeedback?.(next);
+
+    try {
+      setSubmitting(true);
+
+      // If clicking the same button again, remove the local selection.
+      // The backend currently accepts only positive true/false,
+      // so we don't send anything when clearing the selection.
+      if (next === null) {
+        setFeedback(null);
+        onFeedback?.(null);
+        return;
+      }
+
+      const response = await fetch(`${API_URL}/feedback`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify({
+          message_id: messageId,
+          positive: next === "up",
+        }),
+      });
+
+      if (!response.ok) {
+        const data = await response.json().catch(() => null);
+
+        throw new Error(
+          data?.detail ||
+            `Feedback API error: ${response.status} ${response.statusText}`
+        );
+      }
+
+      setFeedback(next);
+      onFeedback?.(next);
+    } catch (error) {
+      console.error("Feedback submission failed:", error);
+    } finally {
+      setSubmitting(false);
+    }
   };
 
   const handleCopy = async () => {
     try {
       await navigator.clipboard.writeText(answer);
       setCopied(true);
-      setTimeout(() => setCopied(false), 1500);
+
+      setTimeout(() => {
+        setCopied(false);
+      }, 1500);
     } catch {
       // Clipboard blocked — fail silently.
     }
@@ -60,9 +105,15 @@ export default function MessageFeedbackBar({
               : `inline-flex h-9 w-9 items-center justify-center rounded-lg ${iconColorClasses(false)}`
           }
         >
-          {copied ? <Check className="h-3.5 w-3.5" /> : <Copy className="h-[18px] w-[18px] stroke-[2.5]" />}
+          {copied ? (
+            <Check className="h-3.5 w-3.5" />
+          ) : (
+            <Copy className="h-[18px] w-[18px] stroke-[2.5]" />
+          )}
+
           {copied && "Copied"}
         </button>
+
         {!copied && <IconTooltip label="Copy" />}
       </div>
 
@@ -71,15 +122,19 @@ export default function MessageFeedbackBar({
         <button
           type="button"
           onClick={() => toggleFeedback("up")}
+          disabled={!messageId || submitting}
           aria-pressed={feedback === "up"}
           aria-label="Helpful"
-          className={`inline-flex h-9 w-9 items-center justify-center rounded-lg ${iconColorClasses(feedback === "up")}`}
+          className={`inline-flex h-9 w-9 items-center justify-center rounded-lg ${iconColorClasses(
+            feedback === "up"
+          )} disabled:cursor-not-allowed disabled:opacity-50`}
         >
           <ThumbsUp
-  className="h-[18px] w-[18px] stroke-[2.5]"
-  fill={feedback === "up" ? "currentColor" : "none"}
-/>
+            className="h-[18px] w-[18px] stroke-[2.5]"
+            fill={feedback === "up" ? "currentColor" : "none"}
+          />
         </button>
+
         <IconTooltip label="Helpful" />
       </div>
 
@@ -88,19 +143,23 @@ export default function MessageFeedbackBar({
         <button
           type="button"
           onClick={() => toggleFeedback("down")}
+          disabled={!messageId || submitting}
           aria-pressed={feedback === "down"}
           aria-label="Not helpful"
-          className={`inline-flex h-9 w-9 items-center justify-center rounded-lg ${iconColorClasses(feedback === "down")}`}
+          className={`inline-flex h-9 w-9 items-center justify-center rounded-lg ${iconColorClasses(
+            feedback === "down"
+          )} disabled:cursor-not-allowed disabled:opacity-50`}
         >
           <ThumbsDown
-  className="h-[18px] w-[18px] stroke-[2.5]"
-  fill={feedback === "down" ? "currentColor" : "none"}
-/>
+            className="h-[18px] w-[18px] stroke-[2.5]"
+            fill={feedback === "down" ? "currentColor" : "none"}
+          />
         </button>
+
         <IconTooltip label="Not helpful" />
       </div>
 
-      {/* Bookmark — keeps its text label */}
+      {/* Bookmark */}
       <BookmarkButton question={question} answer={answer} />
     </div>
   );
