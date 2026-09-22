@@ -1,6 +1,12 @@
 "use client";
+
 import { useMemo, useRef, useState } from "react";
-import { ArrowLeft, BarChart3, CheckCircle2, Plus, RotateCcw } from "lucide-react";
+import {
+  ArrowLeft,
+  BarChart3,
+  Plus,
+  RotateCcw,
+} from "lucide-react";
 import {
   MAX_SUBJECTS,
   calculateGPA,
@@ -15,7 +21,9 @@ interface GPACalculatorProps {
   onBack: () => void;
 }
 
-export default function GPACalculator({ onBack }: GPACalculatorProps) {
+export default function GPACalculator({
+  onBack,
+}: GPACalculatorProps) {
   // Reference to the result section so we can automatically scroll to it
   const resultRef = useRef<HTMLDivElement>(null);
 
@@ -30,7 +38,10 @@ export default function GPACalculator({ onBack }: GPACalculatorProps) {
   const canCalculate = useMemo(
     () =>
       courses.some(
-        (course) => course.subject && course.marks && course.creditHours
+        (course) =>
+          course.subject &&
+          course.marks &&
+          course.creditHours
       ),
     [courses]
   );
@@ -121,67 +132,50 @@ export default function GPACalculator({ onBack }: GPACalculatorProps) {
   };
 
   return (
-    <section className="min-h-full bg-white px-4 py-8 sm:px-6 lg:px-8">
+    <section className="min-h-full bg-white px-4 py-8 transition-colors dark:bg-[#111111] sm:px-6 lg:px-8">
       <div className="mx-auto max-w-6xl">
 
         {/* Back Button */}
-      <div className="mb-6 flex justify-start">
-  <button
-    type="button"
-    onClick={onBack}
-    aria-label="Back to Calculator"
-    title="Back to Calculator"
-    className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#A10D5A] bg-[#A10D5A] text-white shadow-md transition-all duration-200 hover:bg-white hover:text-[#A10D5A] hover:shadow-lg active:scale-95 active:bg-white active:text-[#A10D5A] dark:bg-[#A10D5A] dark:text-white dark:hover:bg-gray-900 dark:hover:text-[#A10D5A]"
-  >
-    <ArrowLeft className="h-[18px] w-[18px]" strokeWidth={2.3} />
-  </button>
-</div>
+        <div className="mb-6 flex justify-start">
+          <button
+            type="button"
+            onClick={onBack}
+            aria-label="Back to Calculator"
+            title="Back to Calculator"
+            className="inline-flex h-10 w-10 items-center justify-center rounded-full border border-[#A10D5A] bg-[#A10D5A] text-white shadow-md transition-all duration-200 hover:bg-white hover:text-[#A10D5A] hover:shadow-lg active:scale-95 active:bg-white active:text-[#A10D5A] dark:bg-[#A10D5A] dark:text-white dark:hover:bg-gray-900 dark:hover:text-[#A10D5A]"
+          >
+            <ArrowLeft
+              className="h-[18px] w-[18px]"
+              strokeWidth={2.3}
+            />
+          </button>
+        </div>
+
         {/* Header */}
-  
         <div className="flex flex-col items-center text-center">
-  <h1 className="text-xl font-semibold tracking-[-0.02em] text-gray-900 sm:text-2xl">
-    Calculate Your{" "}
-    <span className="mx-1 text-[1.35em] font-bold text-[#A10D5A]">
-      SEMESTER
-    </span>{" "}
-    GPA
-  </h1>
+          <h1 className="text-xl font-semibold tracking-[-0.02em] text-gray-900 dark:text-white sm:text-2xl">
+            Calculate Your{" "}
+            <span className="mx-1 text-[1.35em] font-bold text-[#A10D5A]">
+              SEMESTER
+            </span>{" "}
+            GPA
+          </h1>
 
-  {/* Description card — pink */}
-  <div className="mt-4 mb-6 max-w-2xl rounded-2xl border-2 border-[#A10D5A] bg-white px-6 py-4 shadow-sm">
-    <p className="text-sm leading-6 text-gray-700 sm:text-base">
-      Enter your subjects, marks, and credit hours to calculate your GPA for
-      this semester using{" "}
-      <span className="font-semibold text-[#A10D5A] dark:text-[#F4B8D8]">
-        SBBWU&apos;s grading scale
-      </span>
-      .
-    </p>
-  </div>
-</div>
-
-{/* Info card — white */}
-{/* <div className="mb-6 mt-4 flex gap-4 rounded-2xl border-2 border-[#A10D5A] bg-white p-5 shadow-sm">
-  <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-[#A10D5A] text-white">
-    <CheckCircle2 className="h-5 w-5" />
-  </div>
-
-  <div>
-    <p className="text-sm font-semibold text-gray-900">
-      How GPA is calculated
-    </p>
-
-    <p className="mt-1.5 text-xs leading-5 text-gray-600 sm:text-sm">
-      Marks are converted to a grade point (85%+ = 4.0, 70–84% = B, 60–69% = C,
-      50–59% = D, below 50% = F) and multiplied by credit hours. Your GPA is
-      the total quality points divided by total credit hours.
-    </p>
-  </div>
-</div> */}
-
+          {/* Description Card */}
+          <div className="mb-6 mt-4 max-w-2xl rounded-2xl border-2 border-[#A10D5A] bg-white px-6 py-4 shadow-sm transition-colors dark:bg-[#1c1c1c]">
+            <p className="text-sm leading-6 text-gray-700 dark:text-gray-300 sm:text-base">
+              Enter your subjects, marks, and credit hours to
+              calculate your GPA for this semester using{" "}
+              <span className="font-semibold text-[#A10D5A] dark:text-[#F4B8D8]">
+                SBBWU&apos;s grading scale
+              </span>
+              .
+            </p>
+          </div>
+        </div>
 
         {/* Input Card */}
-        <div className="overflow-hidden rounded-3xl border-2 border-[#A10D5A] bg-[#FAD8E8] shadow-lg shadow-pink-200/50">
+        <div className="overflow-hidden rounded-3xl border-2 border-[#A10D5A] bg-[#FAD8E8] shadow-lg shadow-pink-200/50 transition-colors dark:bg-[#2a1722] dark:shadow-black/30">
 
           {/* Card Header */}
           <div className="border-b-2 border-[#A10D5A] bg-[#A10D5A] px-5 py-5 sm:px-7">
@@ -196,7 +190,7 @@ export default function GPACalculator({ onBack }: GPACalculatorProps) {
                 </p>
               </div>
 
-              <div className="hidden h-10 w-10 items-center justify-center rounded-xl bg-[#A10D5A] text-white sm:flex">
+              <div className="hidden h-10 w-10 items-center justify-center rounded-xl bg-[#8F0C50] text-white sm:flex">
                 <BarChart3 className="h-5 w-5" />
               </div>
             </div>
@@ -212,7 +206,7 @@ export default function GPACalculator({ onBack }: GPACalculatorProps) {
           </div>
 
           {/* Course Rows */}
-          <div className="divide-y divide-[#EAA9CA]">
+          <div className="divide-y divide-[#EAA9CA] dark:divide-[#63384e]">
             {courses.map((course, index) => (
               <CourseRow
                 key={course.id}
@@ -225,18 +219,18 @@ export default function GPACalculator({ onBack }: GPACalculatorProps) {
           </div>
 
           {/* Add Subject */}
-          <div className="border-t border-[#EAA9CA] bg-[#FAD8E8] px-5 py-5 sm:px-7">
+          <div className="border-t border-[#EAA9CA] bg-[#FAD8E8] px-5 py-5 transition-colors dark:border-[#63384e] dark:bg-[#2a1722] sm:px-7">
             <button
               type="button"
               onClick={addCourse}
               disabled={courses.length >= MAX_SUBJECTS}
-              className="inline-flex items-center gap-2 rounded-xl border-2 border-[#A10D5A] bg-white px-4 py-2.5 text-sm font-bold text-[#A10D5A] transition-all hover:bg-[#A10D5A] hover:text-white disabled:cursor-not-allowed disabled:opacity-50"
+              className="inline-flex items-center gap-2 rounded-xl border-2 border-[#A10D5A] bg-white px-4 py-2.5 text-sm font-bold text-[#A10D5A] transition-all hover:bg-[#A10D5A] hover:text-white disabled:cursor-not-allowed disabled:opacity-50 dark:bg-[#1c1c1c] dark:text-[#F4B8D8] dark:hover:bg-[#A10D5A] dark:hover:text-white"
             >
               <Plus className="h-4 w-4" />
               Add Another Subject
             </button>
 
-            <p className="mt-2 text-xs text-gray-400">
+            <p className="mt-2 text-xs text-gray-400 dark:text-gray-500">
               {courses.length}/{MAX_SUBJECTS} subjects added
             </p>
           </div>
@@ -254,7 +248,7 @@ export default function GPACalculator({ onBack }: GPACalculatorProps) {
           <button
             type="button"
             onClick={resetCalculator}
-            className="inline-flex h-12 items-center justify-center gap-2 rounded-xl border-2 border-[#A10D5A] bg-white px-5 text-sm font-bold text-[#A10D5A] transition-all hover:bg-[#FDE7F1]"
+            className="inline-flex h-12 items-center justify-center gap-2 rounded-xl border-2 border-[#A10D5A] bg-white px-5 text-sm font-bold text-[#A10D5A] transition-all hover:bg-[#FDE7F1] dark:bg-[#1c1c1c] dark:text-[#F4B8D8] dark:hover:bg-[#3A1228]"
           >
             <RotateCcw className="h-4 w-4" />
             Reset

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "qec_001",
+    "content": "The Quality Enhancement Cell (QEC) at Shaheed Benazir Bhutto Women University Peshawar works to enhance the quality of higher education and ensure that educational standards are compatible with national and international standards. QECs were established in universities as part of the Higher Education Commission (HEC) quality assurance initiative.",
+    "category": "qec_overview",
+    "tags": ["qec", "quality_enhancement", "quality_assurance", "higher_education", "hec", "education_quality"]
+  },
+  {
+    "id": "qec_002",
+    "content": "The Quality Enhancement Cell at Frontier Women University was established in 2007 and has since been involved in performing its quality enhancement and assurance functions effectively and efficiently.",
+    "category": "qec_history",
+    "tags": ["qec", "history", "established", "2007", "frontier_women_university", "quality_assurance"]
+  },
+  {
+    "id": "qec_003",
+    "content": "QEC is involved in the Self Assessment Process, surveys, capacity building of faculty and staff, awareness of stakeholders about quality education, and development of policies for quality assurance and enhancement at affiliated colleges.",
+    "category": "qec_functions",
+    "tags": ["qec", "self_assessment", "surveys", "capacity_building", "faculty", "staff", "quality_education", "affiliated_colleges"]
+  },
+  {
+    "id": "qec_004",
+    "content": "The vision of the Quality Enhancement Cell (QEC) is to become a leading QEC in the country.",
+    "category": "qec_vision",
+    "tags": ["qec", "vision", "quality_enhancement", "leading_qec"]
+  },
+  {
+    "id": "qec_005",
+    "content": "QEC is responsible for developing procedures for the approval of new academic programs.",
+    "category": "qec_responsibilities",
+    "tags": ["qec", "new_programs", "program_approval", "academic_programs"]
+  },
+  {
+    "id": "qec_006",
+    "content": "QEC is responsible for annual monitoring and evaluation, including program monitoring, faculty monitoring, and assessment of students' perceptions.",
+    "category": "qec_responsibilities",
+    "tags": ["qec", "annual_monitoring", "evaluation", "program_monitoring", "faculty_monitoring", "student_perception"]
+  },
+  {
+    "id": "qec_007",
+    "content": "QEC is responsible for conducting departmental reviews and collecting student feedback as part of quality assurance and enhancement activities.",
+    "category": "qec_responsibilities",
+    "tags": ["qec", "departmental_review", "student_feedback", "quality_assurance"]
+  },
+  {
+    "id": "qec_008",
+    "content": "QEC is responsible for collecting employer feedback to support the evaluation and improvement of academic programs and educational quality.",
+    "category": "qec_responsibilities",
+    "tags": ["qec", "employer_feedback", "academic_programs", "quality_enhancement"]
+  },
+  {
+    "id": "qec_009",
+    "content": "QEC is responsible for quality assurance of Master's, M.Phil., and Ph.D. degree programs.",
+    "category": "qec_responsibilities",
+    "tags": ["qec", "quality_assurance", "masters", "mphil", "phd", "degree_programs"]
+  },
+  {
+    "id": "qec_010",
+    "content": "QEC is responsible for subject reviews and institutional assessments as part of its quality assurance and enhancement activities.",
+    "category": "qec_responsibilities",
+    "tags": ["qec", "subject_review", "institutional_assessment", "quality_assurance"]
+  },
+  {
+    "id": "qec_011",
+    "content": "QEC is responsible for developing and maintaining program specifications and qualification frameworks as part of quality assurance procedures.",
+    "category": "qec_responsibilities",
+    "tags": ["qec", "program_specifications", "qualification_framework", "quality_assurance"]
+  }
+]

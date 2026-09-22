@@ -194,7 +194,7 @@ export default function UserActivityPage() {
   // ============================================================
 
   return (
-    <main className="min-h-screen bg-[#f8f9fc] p-8">
+    <main className="min-h-screen bg-[#f8f9fc] p-8 dark:bg-gray-900">
 
       {/* ======================================================
           HEADER
@@ -203,11 +203,11 @@ export default function UserActivityPage() {
       <div className="mb-8 flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
 
         <div>
-          <h1 className="text-3xl font-bold text-gray-900">
+          <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
             User Activity
           </h1>
 
-          <p className="mt-2 text-gray-500">
+          <p className="mt-2 text-gray-500 dark:text-gray-400">
             Monitor chatbot sessions and user activity.
           </p>
         </div>
@@ -234,7 +234,7 @@ export default function UserActivityPage() {
           <button
             type="button"
             onClick={handleLogout}
-            className="rounded-xl border border-[#A10D5A] bg-white px-5 py-3 text-sm font-semibold text-[#A10D5A] transition hover:bg-[#fff0f7]"
+            className="rounded-xl border border-[#A10D5A] bg-white px-5 py-3 text-sm font-semibold text-[#A10D5A] transition hover:bg-[#fff0f7] dark:border-[#C33C78] dark:bg-[#1c1c1c] dark:text-[#F4B8D8] dark:hover:bg-[#2a1722]"
           >
             Logout
           </button>
@@ -248,11 +248,11 @@ export default function UserActivityPage() {
       ====================================================== */}
 
       {loading && (
-        <div className="rounded-xl border border-[#F3D5E5] bg-white p-8 text-center shadow-sm">
+        <div className="rounded-xl border border-[#F3D5E5] bg-white p-8 text-center shadow-sm dark:border-[#3a3035] dark:bg-[#1c1c1c]">
 
-          <div className="mx-auto h-8 w-8 animate-spin rounded-full border-4 border-[#F3D5E5] border-t-[#A10D5A]" />
+          <div className="mx-auto h-8 w-8 animate-spin rounded-full border-4 border-[#F3D5E5] border-t-[#A10D5A] dark:border-[#3a3035] dark:border-t-[#C33C78]" />
 
-          <p className="mt-4 text-gray-500">
+          <p className="mt-4 text-gray-500 dark:text-gray-400">
             Loading user activity...
           </p>
 
@@ -264,13 +264,13 @@ export default function UserActivityPage() {
       ====================================================== */}
 
       {!loading && error && (
-        <div className="rounded-xl border border-red-200 bg-red-50 p-6">
+        <div className="rounded-xl border border-red-200 bg-red-50 p-6 dark:border-red-900/50 dark:bg-red-950/30">
 
-          <p className="font-medium text-red-700">
+          <p className="font-medium text-red-700 dark:text-red-400">
             Failed to load user activity
           </p>
 
-          <p className="mt-1 text-sm text-red-600">
+          <p className="mt-1 text-sm text-red-600 dark:text-red-400">
             {error}
           </p>
 
@@ -300,13 +300,13 @@ export default function UserActivityPage() {
 
             {/* Total Sessions */}
 
-            <div className="rounded-xl border border-[#F3D5E5] bg-white p-6 shadow-sm">
+            <div className="rounded-xl border border-[#F3D5E5] bg-white p-6 shadow-sm dark:border-[#3a3035] dark:bg-[#1c1c1c]">
 
-              <p className="text-sm font-medium text-gray-500">
+              <p className="text-sm font-medium text-gray-500 dark:text-gray-400">
                 Total Sessions
               </p>
 
-              <h2 className="mt-2 text-3xl font-bold text-[#A10D5A]">
+              <h2 className="mt-2 text-3xl font-bold text-[#A10D5A] dark:text-[#F4B8D8]">
                 {users.length}
               </h2>
 
@@ -314,13 +314,13 @@ export default function UserActivityPage() {
 
             {/* Total Questions */}
 
-            <div className="rounded-xl border border-[#F3D5E5] bg-white p-6 shadow-sm">
+            <div className="rounded-xl border border-[#F3D5E5] bg-white p-6 shadow-sm dark:border-[#3a3035] dark:bg-[#1c1c1c]">
 
-              <p className="text-sm font-medium text-gray-500">
+              <p className="text-sm font-medium text-gray-500 dark:text-gray-400">
                 Total Questions
               </p>
 
-              <h2 className="mt-2 text-3xl font-bold text-[#A10D5A]">
+              <h2 className="mt-2 text-3xl font-bold text-[#A10D5A] dark:text-[#F4B8D8]">
                 {totalQuestions}
               </h2>
 
@@ -328,13 +328,13 @@ export default function UserActivityPage() {
 
             {/* Total Messages */}
 
-            <div className="rounded-xl border border-[#F3D5E5] bg-white p-6 shadow-sm">
+            <div className="rounded-xl border border-[#F3D5E5] bg-white p-6 shadow-sm dark:border-[#3a3035] dark:bg-[#1c1c1c]">
 
-              <p className="text-sm font-medium text-gray-500">
+              <p className="text-sm font-medium text-gray-500 dark:text-gray-400">
                 Total Messages
               </p>
 
-              <h2 className="mt-2 text-3xl font-bold text-[#A10D5A]">
+              <h2 className="mt-2 text-3xl font-bold text-[#A10D5A] dark:text-[#F4B8D8]">
                 {totalMessages}
               </h2>
 
@@ -346,17 +346,17 @@ export default function UserActivityPage() {
               USER ACTIVITY TABLE
           ================================================== */}
 
-          <div className="overflow-hidden rounded-xl border border-[#F3D5E5] bg-white shadow-sm">
+          <div className="overflow-hidden rounded-xl border border-[#F3D5E5] bg-white shadow-sm dark:border-[#3a3035] dark:bg-[#1c1c1c]">
 
             {/* Table Header */}
 
-            <div className="border-b border-[#F3D5E5] px-6 py-5">
+            <div className="border-b border-[#F3D5E5] px-6 py-5 dark:border-[#3a3035]">
 
-              <h2 className="text-xl font-bold text-gray-900">
+              <h2 className="text-xl font-bold text-gray-900 dark:text-white">
                 Recent User Activity
               </h2>
 
-              <p className="mt-1 text-sm text-gray-500">
+              <p className="mt-1 text-sm text-gray-500 dark:text-gray-400">
                 Sessions recorded by the chatbot.
               </p>
 
@@ -367,19 +367,19 @@ export default function UserActivityPage() {
             {users.length === 0 ? (
               <div className="p-10 text-center">
 
-                <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-[#FCEBF4]">
+                <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-[#FCEBF4] dark:bg-[#A10D5A]/20">
 
-                  <span className="text-xl font-semibold text-[#A10D5A]">
+                  <span className="text-xl font-semibold text-[#A10D5A] dark:text-[#F4B8D8]">
                     —
                   </span>
 
                 </div>
 
-                <p className="mt-4 font-medium text-gray-700">
+                <p className="mt-4 font-medium text-gray-700 dark:text-gray-200">
                   No user activity found.
                 </p>
 
-                <p className="mt-2 text-sm text-gray-400">
+                <p className="mt-2 text-sm text-gray-400 dark:text-gray-500">
                   User sessions will appear here when users
                   interact with the chatbot.
                 </p>
@@ -396,23 +396,23 @@ export default function UserActivityPage() {
 
                   <table className="w-full text-left">
 
-                    <thead className="bg-[#fdf5f9]">
+                    <thead className="bg-[#fdf5f9] dark:bg-[#241b20]">
 
                       <tr>
 
-                        <th className="px-6 py-4 text-xs font-semibold uppercase tracking-wider text-gray-500">
+                        <th className="px-6 py-4 text-xs font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">
                           Session ID
                         </th>
 
-                        <th className="px-6 py-4 text-xs font-semibold uppercase tracking-wider text-gray-500">
+                        <th className="px-6 py-4 text-xs font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">
                           Questions
                         </th>
 
-                        <th className="px-6 py-4 text-xs font-semibold uppercase tracking-wider text-gray-500">
+                        <th className="px-6 py-4 text-xs font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">
                           Messages
                         </th>
 
-                        <th className="px-6 py-4 text-xs font-semibold uppercase tracking-wider text-gray-500">
+                        <th className="px-6 py-4 text-xs font-semibold uppercase tracking-wider text-gray-500 dark:text-gray-400">
                           Last Active
                         </th>
 
@@ -420,7 +420,7 @@ export default function UserActivityPage() {
 
                     </thead>
 
-                    <tbody className="divide-y divide-[#F8E7EF]">
+                    <tbody className="divide-y divide-[#F8E7EF] dark:divide-[#3a3035]">
 
                       {paginatedUsers.map(
                         (user) => (
@@ -429,14 +429,14 @@ export default function UserActivityPage() {
                             key={
                               user.session_id
                             }
-                            className="transition hover:bg-[#fdf8fa]"
+                            className="transition hover:bg-[#fdf8fa] dark:hover:bg-[#241b20]"
                           >
 
                             {/* Session ID */}
 
                             <td className="px-6 py-5">
 
-                              <span className="font-mono text-sm text-gray-700">
+                              <span className="font-mono text-sm text-gray-700 dark:text-gray-300">
                                 {user.session_id}
                               </span>
 
@@ -446,7 +446,7 @@ export default function UserActivityPage() {
 
                             <td className="px-6 py-5">
 
-                              <span className="inline-flex min-w-[36px] items-center justify-center rounded-full bg-[#FCEBF4] px-2.5 py-1 text-sm font-semibold text-[#A10D5A]">
+                              <span className="inline-flex min-w-[36px] items-center justify-center rounded-full bg-[#FCEBF4] px-2.5 py-1 text-sm font-semibold text-[#A10D5A] dark:bg-[#A10D5A]/20 dark:text-[#F4B8D8]">
                                 {user.questions}
                               </span>
 
@@ -456,7 +456,7 @@ export default function UserActivityPage() {
 
                             <td className="px-6 py-5">
 
-                              <span className="font-semibold text-gray-900">
+                              <span className="font-semibold text-gray-900 dark:text-gray-100">
                                 {user.messages}
                               </span>
 
@@ -464,7 +464,7 @@ export default function UserActivityPage() {
 
                             {/* Last Active */}
 
-                            <td className="px-6 py-5 text-sm text-gray-500">
+                            <td className="px-6 py-5 text-sm text-gray-500 dark:text-gray-400">
                               {formatDate(
                                 user.last_active
                               )}
@@ -485,27 +485,27 @@ export default function UserActivityPage() {
                     PAGINATION
                 ================================================= */}
 
-                <div className="flex flex-col gap-4 border-t border-[#F3D5E5] px-6 py-4 sm:flex-row sm:items-center sm:justify-between">
+                <div className="flex flex-col gap-4 border-t border-[#F3D5E5] px-6 py-4 sm:flex-row sm:items-center sm:justify-between dark:border-[#3a3035]">
 
                   {/* Result Count */}
 
-                  <p className="text-sm text-gray-500">
+                  <p className="text-sm text-gray-500 dark:text-gray-400">
 
                     Showing{" "}
 
-                    <span className="font-semibold text-gray-700">
+                    <span className="font-semibold text-gray-700 dark:text-gray-200">
                       {startItem}
                     </span>{" "}
 
                     to{" "}
 
-                    <span className="font-semibold text-gray-700">
+                    <span className="font-semibold text-gray-700 dark:text-gray-200">
                       {endItem}
                     </span>{" "}
 
                     of{" "}
 
-                    <span className="font-semibold text-gray-700">
+                    <span className="font-semibold text-gray-700 dark:text-gray-200">
                       {users.length}
                     </span>{" "}
 
@@ -525,12 +525,12 @@ export default function UserActivityPage() {
                       disabled={
                         currentPage === 1
                       }
-                      className="rounded-lg border border-[#E8BFD2] bg-white px-4 py-2 text-sm font-medium text-gray-700 transition hover:bg-[#FDF1F6] disabled:cursor-not-allowed disabled:opacity-40"
+                      className="rounded-lg border border-[#E8BFD2] bg-white px-4 py-2 text-sm font-medium text-gray-700 transition hover:bg-[#FDF1F6] disabled:cursor-not-allowed disabled:opacity-40 dark:border-[#4a3540] dark:bg-[#151515] dark:text-gray-300 dark:hover:bg-[#2a1722]"
                     >
                       Previous
                     </button>
 
-                    <span className="rounded-lg bg-[#FCEBF4] px-4 py-2 text-sm font-semibold text-[#A10D5A]">
+                    <span className="rounded-lg bg-[#FCEBF4] px-4 py-2 text-sm font-semibold text-[#A10D5A] dark:bg-[#A10D5A]/20 dark:text-[#F4B8D8]">
                       {currentPage} /{" "}
                       {totalPages}
                     </span>
@@ -544,7 +544,7 @@ export default function UserActivityPage() {
                         currentPage ===
                         totalPages
                       }
-                      className="rounded-lg border border-[#E8BFD2] bg-white px-4 py-2 text-sm font-medium text-gray-700 transition hover:bg-[#FDF1F6] disabled:cursor-not-allowed disabled:opacity-40"
+                      className="rounded-lg border border-[#E8BFD2] bg-white px-4 py-2 text-sm font-medium text-gray-700 transition hover:bg-[#FDF1F6] disabled:cursor-not-allowed disabled:opacity-40 dark:border-[#4a3540] dark:bg-[#151515] dark:text-gray-300 dark:hover:bg-[#2a1722]"
                     >
                       Next
                     </button>

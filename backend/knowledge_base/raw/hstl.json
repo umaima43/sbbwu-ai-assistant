@@ -1,0 +1,100 @@
+[
+  {
+    "id": "hostel_001",
+    "content": "Hostel accommodation is limited and not guaranteed. Students within 20 km of Peshawar are not eligible. Admission to university does not ensure hostel allotment and is subject to availability for regular students only.",
+    "category": "hostel_admission",
+    "tags": ["eligibility", "availability"]
+  },
+  {
+    "id": "hostel_002",
+    "content": "Hostel admission is merit-based, renewed every semester, and seats are allocated proportionally to institutions. Outstation students are given priority, while local students may be considered with valid relocation proof.",
+    "category": "hostel_admission",
+    "tags": ["merit", "priority", "allocation"]
+  },
+  
+  {
+    "id": "hostel_003",
+    "content": "Research students must be full-time and may require NOC and study leave if employed. Hostel tenure for research programs is up to two years and three months including extension.",
+    "category": "hostel_research",
+    "tags": ["research_students", "tenure"]
+  },
+  {
+    "id": "hostel_004",
+    "content": "Hostel dues are set by university rules and managed under the Provost Office, which supervises hostel admissions and student affairs.",
+    "category": "hostel_finance",
+    "tags": ["dues", "administration"]
+  },
+  {
+    "id": "hostel_005",
+    "content": "Hostels may close during vacations or administrative decisions. Residents must vacate when required and follow all official instructions.",
+    "category": "hostel_rules",
+    "tags": ["closure", "vacation"]
+  },
+  {
+    "id": "hostel_006",
+    "content": "Hostel routine includes study hours (winter 8–10 pm, summer 9–11 pm), fixed gate timings, and scheduled morning/evening shifts for university commute.",
+    "category": "hostel_routine",
+    "tags": ["timings", "schedule"]
+  },
+  {
+    "id": "hostel_007",
+    "content": "Strict visitor rules apply: male visitors are not allowed inside. Female guests require warden approval. Only parents/guardians may visit under defined timings and conditions.",
+    "category": "hostel_visitors",
+    "tags": ["security", "visiting_policy"]
+  },
+  {
+    "id": "hostel_008",
+    "content": "All leave requests, complaints, and permissions must go through the warden. Residents must follow sign-out procedures and maintain proper leave records.",
+    "category": "hostel_discipline",
+    "tags": ["leave", "warden", "discipline"]
+  },
+  {
+    "id": "hostel_009",
+    "content": "Residents are monitored through attendance checks, room inspections, and must follow discipline rules including return-time logging and cleanliness standards.",
+    "category": "hostel_monitoring",
+    "tags": ["monitoring", "discipline"]
+  }
+  ,
+  {
+    "id": "hostel_010",
+    "content": "provost office contact information is +093456601.",
+    "category": "provost_contact",
+    "tags": ["contact", "provost", "office"]
+  },
+  {
+    "id": "hostel_011",
+    "content": "The last date for BS hostel registration at SBBWU for Fall 2026 is 30th September 2026.",
+    "category": "hostel_admission",
+    "tags": ["hostel", "registration", "bs", "undergraduate", "fall_2026", "deadline", "last_date"]
+  },
+  {
+    "id": "hostel_012",
+    "content": "The last date for MS/M.Phil/PhD hostel registration at SBBWU for Fall 2026 is 21st September 2026.",
+    "category": "hostel_admission",
+    "tags": ["hostel", "registration", "postgraduate", "ms", "mphil", "phd", "fall_2026", "deadline", "last_date"]
+  },
+  {
+    "id": "hostel_013",
+    "content": "Students interested in hostel accommodation must register at the Provost Office within the announced deadline. No registration request will be entertained after the due date.",
+    "category": "hostel_admission",
+    "tags": ["hostel", "registration", "provost_office", "deadline", "application"]
+  },
+  {
+    "id": "hostel_014",
+    "content": "After applying for BS or postgraduate university admission, students should visit the Provost Office to apply for hostel accommodation and fill out the hostel form.",
+    "category": "hostel_admission",
+    "tags": ["hostel", "application_process", "bs", "postgraduate", "provost_office", "hostel_form"]
+  },
+  {
+    "id": "hostel_015",
+    "content": "Students can contact the hostel warden, Madam Zarmina, at +92 344 9208858 for guidance about hostel admission.",
+    "category": "hostel_contact",
+    "tags": ["hostel", "hostel-warden", "Mam Zarmina", "contact", "phone_number", "admission"]
+  },
+  {
+    "id": "hostel_016",
+    "content": "After submitting the hostel application, students should wait for the hostel merit list to be displayed on the official university website.",
+    "category": "hostel_admission",
+    "tags": ["hostel", "merit_list", "application", "website", "merit"]
+  }
+]

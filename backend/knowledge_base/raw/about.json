@@ -1,0 +1,206 @@
+[
+  {
+    "id": "adm_1",
+    "content": "The Vice Chancellor (VC) of Shaheed Benazir Bhutto Women University (SBBWU), Peshawar is Prof. Dr. Farhat Amin who is  the chief executive and academic head of the university.",
+    "category": "administration",
+    "tags": ["chancellor", "pro-chancellor", "governance", "kpk"]
+  },
+  {
+    "id": "adm_2",
+    "content": "The Vice Chancellor is the main executive and academic head. They ensure all university laws, rules, and regulations are properly followed.",
+    "category": "administration",
+    "tags": ["vice_chancellor", "leadership", "academic_head"]
+  },
+  {
+    "id": "adm_3",
+    "content": "The Pro-Vice Chancellor acts as Vice Chancellor when the regular VC is on leave, abroad, or the position is vacant.",
+    "category": "administration",
+    "tags": ["pro_vice_chancellor", "acting_vc", "administration"]
+  },
+  {
+    "id": "adm_4",
+    "content": "The Registrar is a full-time officer and custodian of the university seal. They handle general administration, academic matters, and staff establishment.",
+    "category": "administration",
+    "tags": ["registrar", "administration", "academic_affairs"]
+  },
+  {
+    "id": "adm_5",
+    "content": "The Treasurer manages financial operations, prepares the annual budget, and releases funds according to approved allocations.",
+    "category": "administration",
+    "tags": ["treasurer", "finance", "budget"]
+  },
+  {
+    "id": "adm_6",
+    "content": "The Controller of Examinations manages all university examinations from undergraduate to PhD level.",
+    "category": "administration",
+    "tags": ["examinations", "controller", "assessment"]
+  },
+  {
+    "id": "adm_7",
+    "content": "The Media and Protocol Section handles university publicity through print and electronic media and highlights academic, co-curricular, and research activities.",
+    "category": "administration",
+    "tags": ["media", "public_relations", "research_promotion"]
+  },
+  {
+    "id": "adm_8",
+    "content": "The Quality Enhancement Cell (QEC) is headed by the Dean and focuses on continuous improvement, capacity building, and preparing students and staff for future challenges.",
+    "category": "administration",
+    "tags": ["qec", "quality_assurance", "training"]
+  },
+  {
+    "id": "adm_9",
+    "content": "The Planning and Development Directorate supports university growth by introducing new disciplines and managing development projects.",
+    "category": "administration",
+    "tags": ["planning", "development", "growth"]
+  },
+  {
+    "id": "adm_10",
+    "content": "The Provost Office is responsible for managing hostel administration for students.",
+    "category": "administration",
+    "tags": ["hostel", "provost", "student_life"]
+  },
+
+  {
+    "id": "his_1",
+    "content": "Shaheed Benazir Bhutto Women University Peshawar is the first public sector women university in Khyber Pakhtunkhwa.",
+    "category": "history",
+    "tags": ["first_women_university", "kpk", "education"]
+  },
+  {
+    "id": "his_2",
+    "content": "The university was named to honor Benazir Bhutto and other women of Pakistan who contributed to women empowerment and national development.",
+    "category": "history",
+    "tags": ["benazir_bhutto", "women_empowerment", "naming"]
+  },
+  {
+    "id": "his_3",
+    "content": "The campus was inaugurated on 1 September 2004 by the Chief Minister of KPK.",
+    "category": "history",
+    "tags": ["inauguration", "2004", "foundation"]
+  },
+  {
+    "id": "his_4",
+    "content": "The university was established under the Frontier Women University Act 2004, later published in 2005 as a provincial act.",
+    "category": "history",
+    "tags": ["law", "act", "legal_foundation"]
+  },
+  {
+    "id": "his_5",
+    "content": "The first Vice Chancellor, Prof. Dr. Syeda Farhana Jahangir, was appointed on 10 June 2005.",
+    "category": "history",
+    "tags": ["vice_chancellor", "founder", "leadership"]
+  },
+  {
+    "id": "his_6",
+    "content": "The university initially operated from the Department of Psychology at the University of Peshawar and became functional in a college hostel building.",
+    "category": "history",
+    "tags": ["camp_office", "early_stage", "operations"]
+  },
+  {
+    "id": "his_7",
+    "content": "In February 2006, academic activities started with 8 departments including Arabic, Psychology, Computer Science, Islamiat, Mathematics, Statistics, Economics, and English with 240 students.",
+    "category": "history",
+    "tags": ["departments", "students", "launch"]
+  },
+  {
+    "id": "his_8",
+    "content": "In 2007, land of 400 kanals was allotted but initially occupied, and a PC-I project worth 456 million rupees was approved.",
+    "category": "history",
+    "tags": ["infrastructure", "land", "development"]
+  },
+  {
+    "id": "his_9",
+    "content": "New disciplines like Bioinformatics and Microbiology were introduced in 2007 along with a Clinical Psychology diploma and psychotherapeutic clinic.",
+    "category": "history",
+    "tags": ["new_programs", "health_sciences", "innovation"]
+  },
+  {
+    "id": "his_10",
+    "content": "Women Development Center and Education Department were established in 2008, introducing B.Ed, diplomas, and certificate programs.",
+    "category": "history",
+    "tags": ["women_development", "education", "programs"]
+  },
+  {
+    "id": "his_11",
+    "content": "MPhil and PhD programs started in English, Islamiat, and Psychology. Several colleges were affiliated and international MoUs were signed with UK universities.",
+    "category": "history",
+    "tags": ["mphil_phd", "affiliations", "international_links"]
+  },
+  {
+    "id": "his_12",
+    "content": "In 2010, new disciplines like Law, Political Science, Urdu, Management Sciences, and Art & Design were introduced.",
+    "category": "history",
+    "tags": ["disciplines", "expansion", "2010"]
+  },
+  {
+    "id": "his_13",
+    "content": "The university was renamed from Frontier Women University to Shaheed Benazir Bhutto Women University through a legal amendment in 2010.",
+    "category": "history",
+    "tags": ["renaming", "legal_change", "identity"]
+  },
+  {
+    "id": "his_14",
+    "content": "In 2012, MS programs and MPhil leading to PhD in Economics, Computer Science, and Management Sciences were introduced under the KPK Universities Act 2012.",
+    "category": "history",
+    "tags": ["higher_studies", "ms_program", "phd"]
+  },
+  {
+    "id": "his_15",
+    "content": "By 2012, the university had 4600 students in 18 departments and 16 affiliated colleges with over 5000 students.",
+    "category": "history",
+    "tags": ["growth", "students", "affiliations"]
+  },
+  {
+    "id": "his_16",
+    "content": "The university built academic blocks, hostels, administration block, and IT infrastructure including a high-speed network and wireless system.",
+    "category": "history",
+    "tags": ["infrastructure", "it_system", "campus"]
+  },
+  {
+    "id": "his_17",
+    "content": "The university was ranked 9th by HEC among 27 new universities in Pakistan despite security and infrastructure challenges.",
+    "category": "history",
+    "tags": ["ranking", "hec", "achievement"]
+  },
+
+  {
+    "id": "ovw_1",
+    "content": "Education is essential for national development and economic growth. Increasing literacy rate is key for reducing poverty.",
+    "category": "overview",
+    "tags": ["education", "development", "literacy"]
+  },
+  {
+    "id": "ovw_2",
+    "content": "Pakistan invests in education to improve human resources and economic productivity through skill development.",
+    "category": "overview",
+    "tags": ["pakistan", "education_policy", "economy"]
+  },
+  {
+    "id": "ovw_3",
+    "content": "The university aims to provide quality education to women across Khyber Pakhtunkhwa, including remote areas.",
+    "category": "overview",
+    "tags": ["mission", "women_education", "access"]
+  },
+  {
+    "id": "ovw_4",
+    "content": "The institution focuses on academic, moral, physical, professional, and spiritual development of students.",
+    "category": "overview",
+    "tags": ["student_development", "holistic_education"]
+  },
+  {
+    "id": "ovw_5",
+    "content": "The university has expanded disciplines continuously since 2005 and remains the largest provider of female education in KPK.",
+    "category": "overview",
+    "tags": ["expansion", "largest_university", "female_education"]
+  },
+  {
+    "id": "ovw_6",
+    "content": "Modern facilities include IT centers, research units, accommodation near campus, and industry-linked programs for employability.",
+    "category": "overview",
+    "tags": ["facilities", "research", "employment"]
+  }
+]
+
+
+
+

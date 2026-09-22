@@ -1,0 +1,110 @@
+[
+  {
+    "id": "sap_001",
+    "content": "SBBWU provides students with a personalized SAP Fiori Student Portal. Each student uses their individual university login credentials to authenticate and access services associated with their own student account. The chatbot can guide students about available SAP services but should never request, collect, or store SAP passwords or other sensitive login credentials.",
+    "category": "sap_student_portal",
+    "tags": ["sap", "student_portal", "fiori", "login", "student_services", "account"]
+  },
+  {
+    "id": "sap_002",
+    "content": "Students can access the SBBWU SAP Fiori Student Portal through the university's SAP portal. The portal provides authenticated access to student-specific academic, fee, timetable, hostel, and transportation services. Students should use their own university credentials to log in.",
+    "category": "sap_student_portal",
+    "tags": ["sap", "fiori", "portal", "student_login", "authentication", "university_services"]
+  },
+  {
+    "id": "sap_003",
+    "content": "My Results is an available service in the SBBWU SAP Student Portal. Students can use this service to access their academic results and other related academic information associated with their student account.",
+    "category": "sap_my_results",
+    "tags": ["sap", "results", "my_results", "academic_results", "grades", "marks"]
+  },
+  {
+    "id": "sap_004",
+    "content": "Student Course Withdraw is an available service in the SBBWU SAP Student Portal. Students can access the course withdrawal functionality through the SAP portal when they need to withdraw from a course.",
+    "category": "sap_course_withdrawal",
+    "tags": ["sap", "course_withdrawal", "withdraw_course", "student_course", "academic_services"]
+  },
+  {
+    "id": "sap_005",
+    "content": "Student Course/Timetable is an available service in the SBBWU SAP Student Portal. Students can access course-related information and view their course schedule or timetable through the portal.",
+    "category": "sap_course_timetable",
+    "tags": ["sap", "courses", "timetable", "course_schedule", "class_schedule", "student_courses"]
+  },
+  {
+    "id": "sap_006",
+    "content": "Student Fee Voucher is an available section in the SBBWU SAP Student Portal. It provides students with access to different university fee-related vouchers associated with their student account.",
+    "category": "sap_fee_vouchers",
+    "tags": ["sap", "fee", "fee_voucher", "student_fee", "payments", "vouchers"]
+  },
+  {
+    "id": "sap_007",
+    "content": "Fee Voucher is a service within the Student Fee Voucher section of the SBBWU SAP Student Portal. Students can access their general university fee voucher through the SAP portal.",
+    "category": "sap_fee_vouchers",
+    "tags": ["sap", "fee_voucher", "university_fee", "general_fee", "voucher"]
+  },
+  {
+    "id": "sap_008",
+    "content": "Other Charges Voucher is a service within the Student Fee Voucher section of the SBBWU SAP Student Portal. Students can access vouchers related to additional university charges through the SAP portal.",
+    "category": "sap_fee_vouchers",
+    "tags": ["sap", "other_charges", "additional_charges", "fee_voucher", "voucher"]
+  },
+  {
+    "id": "sap_009",
+    "content": "Transport Fee Voucher is a service within the Student Fee Voucher section of the SBBWU SAP Student Portal. Students can access their transportation-related fee voucher through the SAP portal.",
+    "category": "sap_transport_fee",
+    "tags": ["sap", "transport", "transport_fee", "fee_voucher", "transportation"]
+  },
+  {
+    "id": "sap_010",
+    "content": "Hostel Fee Voucher is a service within the Student Fee Voucher section of the SBBWU SAP Student Portal. Students can access their hostel-related fee voucher through the SAP portal.",
+    "category": "sap_hostel_fee",
+    "tags": ["sap", "hostel", "hostel_fee", "fee_voucher", "hostel_charges"]
+  },
+  {
+    "id": "sap_011",
+    "content": "Student Hostel Management is an available service in the SBBWU SAP Student Portal. Students can access the university's hostel-related services through the Student Hostel System.",
+    "category": "sap_hostel_management",
+    "tags": ["sap", "hostel", "hostel_management", "student_hostel", "hostel_system"]
+  },
+  {
+    "id": "sap_012",
+    "content": "Student Time Table is an available section in the SBBWU SAP Student Portal. It provides students with access to timetable and attendance-related services.",
+    "category": "sap_timetable",
+    "tags": ["sap", "timetable", "student_timetable", "attendance", "academic_schedule"]
+  },
+  {
+    "id": "sap_013",
+    "content": "My Timetable is a service within the Student Time Table section of the SBBWU SAP Student Portal. Students can use it to view their scheduled classes and other timetable-related events.",
+    "category": "sap_timetable",
+    "tags": ["sap", "my_timetable", "classes", "schedule", "student_schedule", "events"]
+  },
+  {
+    "id": "sap_014",
+    "content": "My Attendance is a service within the Student Time Table section of the SBBWU SAP Student Portal. Students can use it to view their attendance information associated with their student account.",
+    "category": "sap_attendance",
+    "tags": ["sap", "attendance", "my_attendance", "student_attendance", "classes"]
+  },
+  {
+    "id": "sap_015",
+    "content": "Transport Management System is an available service in the SBBWU SAP Student Portal. Students can access university transportation-related information and services through the Transport System.",
+    "category": "sap_transport",
+    "tags": ["sap", "transport", "transport_management", "transport_system", "university_transport"]
+  },
+  {
+    "id": "sap_016",
+    "content": "The SBBWU SAP Fiori Student Portal provides students with multiple personalized services, including My Results, Student Course Withdraw, Student Course/Timetable, Student Fee Voucher, Student Hostel Management, Student Time Table, My Timetable, My Attendance, and Transport Management System.",
+    "category": "sap_student_services",
+    "tags": ["sap", "student_services", "fiori", "results", "courses", "fees", "hostel", "timetable", "attendance", "transport"]
+  },
+  {
+    "id": "sap_017",
+    "content": "Students can access the SBBWU SAP Fiori Student Portal at https://fiori.maktab.pern.edu.pk:8000/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-client=300&sap-language=EN#Shell-home. The portal requires student authentication and provides access to personalized university services.",
+    "category": "sap_student_portal",
+    "tags": ["sap", "portal_link", "fiori", "student_portal", "login", "access"]
+  },
+  {
+    "id": "sap_018",
+    "content": "The chatbot should not ask students to provide their SAP username, password, PIN, or other sensitive authentication information. Students should enter their credentials directly into the official SAP Student Portal login page. The chatbot can explain where a service is located and guide students on how to navigate to it.",
+    "category": "sap_security",
+    "tags": ["sap", "security", "password", "credentials", "privacy", "authentication", "chatbot_safety"]
+  }
+]

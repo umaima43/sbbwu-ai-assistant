@@ -1,0 +1,86 @@
+[
+  {
+    "id": "adm_proc_001",
+    "content": "The last date to apply for SBBWU postgraduate admissions (MS, M.Phil, PhD) for the Fall 2026-27 session is Monday, 21st September 2026.",
+    "category": "admissions_process",
+    "tags": ["postgraduate", "deadline", "last_date", "fall_2026-27", "ms", "mphil", "phd"]
+  },
+  {
+    "id": "adm_proc_002",
+    "content": "Eligibility criteria for MS/M.Phil admission at SBBWU: candidates must have a relevant Master's degree, or 4-years education after intermediate (130 Credit Hours), with a minimum CGPA of 2.5 in the Semester System or 2nd Division in the Annual System. Candidates must also have passed the Departmental Test/GAT (General) conducted by NTS with at least 50% marks.",
+    "category": "admissions_process",
+    "tags": ["eligibility", "ms", "mphil", "cgpa", "gat", "nts", "criteria", "requirements"]
+  },
+  {
+    "id": "adm_proc_003",
+    "content": "Eligibility criteria for PhD admission at SBBWU: candidates must have an MS/M.Phil degree (18 years of education) with a minimum CGPA of 3.0 in the Semester System or 1st Division in the Annual System. Candidates must also have passed the Departmental Test/GAT (Subject) conducted by NTS with at least 60% marks.",
+    "category": "admissions_process",
+    "tags": ["eligibility", "phd", "cgpa", "gat", "nts", "criteria", "requirements", "18_years_education"]
+  },
+  {
+    "id": "adm_proc_004",
+    "content": "How to apply for postgraduate admission at SBBWU: (1) Visit https://admissions.sbbwu.edu.pk/application/index.php and create an account with a valid email address. (2) Follow the step-wise instructions on the portal. (3) Print the generated fee voucher, deposit it at the Bank of Khyber (BOK), SBBWUP, Larama Campus Branch, and upload the voucher on the admission portal. (4) Bring a hard copy of the form along with attested photocopies of educational documents (including the fee voucher) and the original Migration Certificate at the time of interview. Original educational documents must also be produced before the interview panel.",
+    "category": "admissions_process",
+    "tags": ["how_to_apply", "application_process", "postgraduate", "fee_voucher", "bank_of_khyber", "migration_certificate", "portal"]
+  },
+  {
+    "id": "adm_proc_005",
+    "content": "Important note for postgraduate admissions at SBBWU: the university reserves the right to freeze any of the programs due to unavoidable circumstances.",
+    "category": "admissions_process",
+    "tags": ["policy", "important_note", "program_freeze", "postgraduate", "disclaimer"]
+  },
+  {
+    "id": "adm_proc_006",
+    "content": "The last date to apply for SBBWU undergraduate admissions (BS, B.Ed, LLB, BBA, PGDCP, Diploma) for the Fall 2026 session is 30th September 2026. This date should be verified against the official notice, as it was partially unclear in the source image.",
+    "category": "admissions_process",
+    "tags": ["undergraduate", "deadline", "last_date", "fall_2026", "bs", "bed", "llb", "bba", "needs_verification"]
+  },
+  {
+    "id": "adm_proc_007",
+    "content": "LLB admission at SBBWU requires candidates to have a valid LAT (Law Admission Test) score with at least 50% marks.",
+    "category": "admissions_process",
+    "tags": ["llb", "lat", "eligibility", "law", "admission_test"]
+  },
+  {
+    "id": "adm_proc_008",
+    "content": "BS Communication Studies, BS English, and the Post Graduate Diploma in Clinical Psychology (PGDCP) admissions at SBBWU require passing a University Conducted Entry Test as a mandatory eligibility condition.",
+    "category": "admissions_process",
+    "tags": ["entry_test", "eligibility", "communication_studies", "english", "pgdcp", "mandatory_test"]
+  },
+  {
+    "id": "adm_proc_009",
+    "content": "How to apply for undergraduate admission at SBBWU: (1) Visit https://admissions.sbbwu.edu.pk/application/ (2) Create an account by providing a valid email address. (3) Follow the step-wise instructions on the portal. (4) Print the generated fee voucher, deposit it in the bank, and upload it on the admission portal. (5) Bring a hard copy of the form along with attested photocopies of educational documents (including the fee voucher) and the original Migration Certificate at the time of interview.",
+    "category": "admissions_process",
+    "tags": ["how_to_apply", "application_process", "undergraduate", "fee_voucher", "migration_certificate", "portal"]
+  },
+  {
+    "id": "adm_proc_010",
+    "content": "Important instructions for undergraduate admission at SBBWU: all admissions are offered provisionally, leading to regular admission status, subject to verification of all documents, submission of Migration Certificates, and fulfillment of University Admission Policy/Regulations. Incomplete applications or those received after the due date will not be accepted.",
+    "category": "admissions_process",
+    "tags": ["policy", "important_instructions", "provisional_admission", "verification", "undergraduate"]
+  },
+  {
+    "id": "adm_proc_011",
+    "content": "SBBWU reserves the right to withdraw any undergraduate program if the number of students admitted in that program is less than 10; admission in that program will then be considered cancelled.",
+    "category": "admissions_process",
+    "tags": ["policy", "program_cancellation", "minimum_enrollment", "undergraduate"]
+  },
+  {
+    "id": "adm_proc_012",
+    "content": "SBBWU undergraduate admission quota seats are available for: Minority students, Afghan students with a NADRA Poll Card, Erstwhile FATA/Merged Areas, Disabled Persons, Sports quota, Overseas Pakistanis' Children, and Shohada Quota.",
+    "category": "admissions_process",
+    "tags": ["quota", "minority", "afghan", "fata", "disabled", "sports_quota", "overseas_pakistani", "shohada"]
+  },
+  {
+    "id": "adm_proc_013",
+    "content": "The official SBBWU admissions application portal is https://admissions.sbbwu.edu.pk/application/index.php, where prospective students create an account, complete the application form, generate and pay the fee voucher, and upload proof of payment. The main university website is https://www.sbbwu.edu.pk.",
+    "category": "admissions_process",
+    "tags": ["portal", "url", "application_link", "website"]
+  },
+  {
+    "id": "adm_proc_014",
+    "content": "Eligibility criteria for undergraduate programs at SBBWU: candidates must have a minimum of 60% marks in Matric/O-Levels and a minimum of 60% marks in Intermediate (FA/FSc/A-Levels). Candidates must also obtain at least 50% marks in the entry/admission test conducted by the respective department at SBBWU.",
+    "category": "admissions_process",
+    "tags": ["eligibility", "undergraduate", "bs", "admission", "requirements", "matric", "o_levels", "intermediate", "fa", "fsc", "a_levels", "entry_test", "admission_test", "departmental_test", "50_percent", "60_percent"]
+  }
+]

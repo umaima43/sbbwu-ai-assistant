@@ -1,4 +1,41 @@
+Set-Content .gitignore @(
+"# Environment / secrets"
+"backend/.env"
+"backend/groq.env"
+".env"
+""
+"# Databases"
+"backend/users.db"
+"backend/chat_history.db"
+""
+"# Python"
+"__pycache__/"
+"*.py[cod]"
+"*.pyo"
+""
+"# Virtual environments"
+"venv/"
+".venv/"
+"env/"
+"backend/test_env/"
+""
+"# Generated data / local indexes"
+"backend/embeddings.npy"
+"backend/vectorstore/"
+""
+"# Frontend"
+"chatbot-frontend/node_modules/"
+"chatbot-frontend/.next/"
+"chatbot-frontend/out/"
+""
+"# OS / editor"
+".DS_Store"
+"Thumbs.db"
+".vscode/"
+)
+# Local development
+.vscode/
 
-bot-trial/.env
-bot-trial/users.db
+# Generated vector index
+backend/vectorstore/
 

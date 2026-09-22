@@ -1,0 +1,374 @@
+[
+  {
+    "id": "contact_000",
+    "content": "For immediate response, contact SBBWU general info directly. Email: info@sbbwu.edu.pk, Phone: +92-91-9224722.",
+    "category": "general_contact",
+    "tags": ["general", "info", "main_contact"]
+  },
+  {
+    "id": "contact_001",
+    "content": "Vice Chancellor Office. Email: vc@sbbwu.edu.pk, Phone: +92-91-9224777, Fax: +92-91-9224778.",
+    "category": "administration",
+    "tags": ["vice_chancellor", "vc_office", "contact"]
+  },
+  {
+    "id": "contact_002",
+    "content": "Pro Vice Chancellor Office. Email: provc@sbbwu.edu.pk, Phone: +92-91-9224736.",
+    "category": "administration",
+    "tags": ["pro_vice_chancellor", "contact"]
+  },
+  {
+    "id": "contact_003",
+    "content": "Registrar Office. Email: registrar@sbbwu.edu.pk, Phone: +92-91-9224700 / +92-91-9224799, Fax: +92-91-9224707.",
+    "category": "administration",
+    "tags": ["registrar", "contact"]
+  },
+  {
+    "id": "contact_004",
+    "content": "Deputy Registrar. Email: d.registrar@sbbwu.edu.pk, Phone: +92-91-9224791.",
+    "category": "administration",
+    "tags": ["deputy_registrar", "contact"]
+  },
+  {
+    "id": "contact_005",
+    "content": "Provost Office. Email: provost@sbbwu.edu.pk, Phone: +92-91-9224705.",
+    "category": "administration",
+    "tags": ["provost", "contact"]
+  },
+  {
+    "id": "contact_006",
+    "content": "Treasury Wing Office 1. Email: treasurer@sbbwu.edu.pk, Phone: +92-91-9224715.",
+    "category": "finance",
+    "tags": ["treasury", "finance", "contact"]
+  },
+  {
+    "id": "contact_007",
+    "content": "Treasury Wing Office 2. Email: accounts@sbbwu.edu.pk, Phone: +92-91-9224714 / +92-91-9224719.",
+    "category": "finance",
+    "tags": ["treasury", "accounts", "finance", "contact"]
+  },
+  {
+    "id": "contact_008",
+    "content": "Examination Dealing Section. Email: assttcontroller2@sbbwu.edu.pk, Phone: +92-91-9224724. This is for exam-related queries, results, and datesheets.",
+    "category": "examination",
+    "tags": ["examination", "results", "datesheet", "contact"]
+  },
+  {
+    "id": "contact_009",
+    "content": "Directorate of Administration. Email: da@sbbwu.edu.pk / ada@sbbwu.edu.pk, Phone: +92-91-9224811.",
+    "category": "administration",
+    "tags": ["administration", "directorate", "contact"]
+  },
+  {
+    "id": "contact_010",
+    "content": "Academics Section. Email: academics@sbbwu.edu.pk, Phone: +92-91-9224708.",
+    "category": "academics",
+    "tags": ["academics", "section", "contact"]
+  },
+  {
+    "id": "contact_011",
+    "content": "Admission Section. Email: a.r.a@sbbwu.edu.pk / admissions@sbbwu.edu.pk, Phone: +92-91-9224726. This is for admissions and merit list queries.",
+    "category": "admission",
+    "tags": ["admission", "merit_list", "contact"]
+  },
+  {
+    "id": "contact_012",
+    "content": "Affiliation & Monitoring Section. Email: ar2.affiliations@sbbwu.edu.pk, Phone: +92-91-9224723. This is for affiliated colleges' queries.",
+    "category": "administration",
+    "tags": ["affiliation", "monitoring", "colleges", "contact"]
+  },
+  {
+    "id": "contact_013",
+    "content": "Directorate of Works. Email: dow@sbbwu.edu.pk / pdworks@sbbwu.edu.pk, Phone: +92-91-9224702 / +92-91-9224782 / +92-91-9224786.",
+    "category": "administration",
+    "tags": ["works", "directorate", "infrastructure", "contact"]
+  },
+  {
+    "id": "contact_014",
+    "content": "Establishment Section. Email: establishment@sbbwu.edu.pk, Phone: +92-91-9224791. This is for HR/staffing related queries.",
+    "category": "hr",
+    "tags": ["establishment", "hr", "staffing", "contact"]
+  },
+  {
+    "id": "contact_015",
+    "content": "IT Centre. Email: itc@sbbwu.edu.pk, Phone: +92-91-9224770.",
+    "category": "it",
+    "tags": ["it_centre", "it_support", "contact"]
+  },
+  {
+    "id": "contact_016",
+    "content": "FWU Journal. Email: journal@sbbwu.edu.pk, Phone: 091-9224793.",
+    "category": "research",
+    "tags": ["journal", "research", "publications", "contact"]
+  },
+  {
+    "id": "contact_017",
+    "content": "Central Library. Email: librarian@sbbwu.edu.pk, Phone: +92-91-9224749.",
+    "category": "library",
+    "tags": ["library", "librarian", "contact"]
+  },
+  {
+    "id": "contact_018",
+    "content": "Meeting Section. Email: a.r.m@sbbwu.edu.pk, Phone: +92-91-9224792. This is for statutory body meeting related queries.",
+    "category": "administration",
+    "tags": ["meeting_section", "statutory_bodies", "contact"]
+  },
+  {
+    "id": "contact_019",
+    "content": "ORIC (Office of Research, Innovation & Commercialization). Email: oric@sbbwu.edu.pk, Phone: +92-91-9224794.",
+    "category": "research",
+    "tags": ["oric", "research", "innovation", "contact"]
+  },
+  {
+    "id": "contact_020",
+    "content": "P & D Section (Planning & Development). Email: pdworks@sbbwu.edu.pk / plandev@sbbwu.edu.pk, Phone: +92-91-9224726.",
+    "category": "administration",
+    "tags": ["planning", "development", "contact"]
+  },
+  {
+    "id": "contact_021",
+    "content": "Publication Office. Email: publications@sbbwu.edu.pk, Phone: +92-91-9224722.",
+    "category": "administration",
+    "tags": ["publications", "office", "contact"]
+  },
+  {
+    "id": "contact_022",
+    "content": "Quality Enhancement Cell (QEC). Email: qec@sbbwu.edu.pk, Phone: +92-91-9224704, Fax: +92-91-9224710.",
+    "category": "quality_enhancement",
+    "tags": ["qec", "quality_enhancement", "contact"]
+  },
+  {
+    "id": "contact_023",
+    "content": "Directorate of Sports. Email: sports@sbbwu.edu.pk, Phone: +92-91-9224701.",
+    "category": "student_affairs",
+    "tags": ["sports", "directorate", "contact"]
+  },
+  {
+    "id": "contact_024",
+    "content": "University Advancement Office. Email: advancement@sbbwu.edu.pk, Phone: +92-91-9224795.",
+    "category": "administration",
+    "tags": ["advancement", "office", "fundraising", "contact"]
+  },
+  {
+    "id": "contact_025",
+    "content": "Department of Bioinformatics. Email: bioinformatics@sbbwu.edu.pk, Phone: +92-91-9224790.",
+    "category": "department",
+    "tags": ["bioinformatics", "department", "contact"]
+  },
+  {
+    "id": "contact_026",
+    "content": "Department of Computer Science. Email: cs@sbbwu.edu.pk, Phone: +92-91-9224769.",
+    "category": "department",
+    "tags": ["computer_science", "department", "contact"]
+  },
+  {
+    "id": "contact_027",
+    "content": "Department of Economics. Email: economics@sbbwu.edu.pk, Phone: +92-91-9224760.",
+    "category": "department",
+    "tags": ["economics", "department", "contact"]
+  },
+  {
+    "id": "contact_028",
+    "content": "Department of Education. Email: education@sbbwu.edu.pk, Phone: +92-91-9224815 / +92-91-9224816.",
+    "category": "department",
+    "tags": ["education", "department", "contact"]
+  },
+  {
+    "id": "contact_029",
+    "content": "Department of English. Email: english@sbbwu.edu.pk, Phone: +92-91-9224725.",
+    "category": "department",
+    "tags": ["english", "department", "contact"]
+  },
+  {
+    "id": "contact_030",
+    "content": "Department of Fine Arts (Art & Design). Email: finearts@sbbwu.edu.pk, Phone: +92-91-9224772.",
+    "category": "department",
+    "tags": ["fine_arts", "art_design", "department", "contact"]
+  },
+  {
+    "id": "contact_031",
+    "content": "Department of Islamiyat. Email: islamiyat@sbbwu.edu.pk, Phone: +92-91-9224727.",
+    "category": "department",
+    "tags": ["islamiyat", "department", "contact"]
+  },
+  {
+    "id": "contact_032",
+    "content": "Department of Physics. Email: physics@sbbwu.edu.pk, Phone: +92-91-9224703.",
+    "category": "department",
+    "tags": ["physics", "department", "contact"]
+  },
+  {
+    "id": "contact_033",
+    "content": "Department of Law. Email: law@sbbwu.edu.pk, Phone: +92-91-9224781.",
+    "category": "department",
+    "tags": ["law", "department", "contact"]
+  },
+  {
+    "id": "contact_034",
+    "content": "Department of Management Sciences. Email: mscience@sbbwu.edu.pk, Phone: +92-91-9224780.",
+    "category": "department",
+    "tags": ["management_sciences", "department", "contact"]
+  },
+  {
+    "id": "contact_035",
+    "content": "Department of Mathematics. Email: maths@sbbwu.edu.pk, Phone: +92-91-9224712.",
+    "category": "department",
+    "tags": ["mathematics", "department", "contact"]
+  },
+  {
+    "id": "contact_036",
+    "content": "Department of Microbiology. Email: microbiology@sbbwu.edu.pk, Phone: +92-91-9224814.",
+    "category": "department",
+    "tags": ["microbiology", "department", "contact"]
+  },
+  {
+    "id": "contact_037",
+    "content": "Department of Political Science. Email: pscience@sbbwu.edu.pk, Phone: +92-91-9224771.",
+    "category": "department",
+    "tags": ["political_science", "department", "contact"]
+  },
+  {
+    "id": "contact_038",
+    "content": "Department of Psychology. Email: psychology@sbbwu.edu.pk, Phone: +92-91-9224759.",
+    "category": "department",
+    "tags": ["psychology", "department", "contact"]
+  },
+  {
+    "id": "contact_039",
+    "content": "Department of Statistics. Email: statistics@sbbwu.edu.pk, Phone: +92-91-9224720.",
+    "category": "department",
+    "tags": ["statistics", "department", "contact"]
+  },
+  {
+    "id": "contact_040",
+    "content": "Department of Urdu. Email: urdu@sbbwu.edu.pk, Phone: +92-91-9224810.",
+    "category": "department",
+    "tags": ["urdu", "department", "contact"]
+  },
+  {
+    "id": "contact_041",
+    "content": "Department of Bio-Chemistry. Email: biochemistry@sbbwu.edu.pk, Phone: +92-91-9224786.",
+    "category": "department",
+    "tags": ["biochemistry", "department", "contact"]
+  },
+  {
+    "id": "contact_042",
+    "content": "Department of Chemistry. Email: chemistry@sbbwu.edu.pk, Phone: +92-91-9224706 / +92-91-9224785.",
+    "category": "department",
+    "tags": ["chemistry", "department", "contact"]
+  },
+  {
+    "id": "contact_043",
+    "content": "Department of History. Email: history@sbbwu.edu.pk, Phone: 92-91-9224731.",
+    "category": "department",
+    "tags": ["history", "department", "contact"]
+  },
+  {
+    "id": "contact_044",
+    "content": "Department of Zoology. Email: zoology@sbbwu.edu.pk, Phone: +92-91-9224787.",
+    "category": "department",
+    "tags": ["zoology", "department", "contact"]
+  },
+  {
+    "id": "contact_045",
+    "content": "Psychotherapeutic Centre. Email: psychologicalcentre@sbbwu.edu.pk, Phone: +92-91-9224759.",
+    "category": "student_services",
+    "tags": ["psychotherapeutic_centre", "counseling", "contact"]
+  },
+  {
+    "id": "contact_046",
+    "content": "Women Development Centre. Email: womendev@sbbwu.edu.pk, Phone: 091-9224717.",
+    "category": "department",
+    "tags": ["women_development_centre", "department", "contact"]
+  },
+  {
+    "id": "contact_047",
+    "content": "ERCP. Email: ercp@sbbwu.edu.pk, Phone: +92-91-9224816.",
+    "category": "administration",
+    "tags": ["ercp", "contact"]
+  },
+  {
+    "id": "contact_048",
+    "content": "Hostel (Larama Campus). Email: hostel@sbbwu.edu.pk, Phone: +92-91-9224800.",
+    "category": "student_services",
+    "tags": ["hostel", "larama_campus", "contact"]
+  },
+  {
+    "id": "contact_049",
+    "content": "Main Gate (Larama Campus). Phone: +92-91-9224755.",
+    "category": "campus_services",
+    "tags": ["main_gate", "larama_campus", "security", "contact"]
+  },
+  {
+    "id": "contact_050",
+    "content": "CCTV Control Room. Email: controlroom@sbbwu.edu.pk, Phone: +92-91-9224812.",
+    "category": "campus_services",
+    "tags": ["cctv", "security", "control_room", "contact"]
+  },
+  {
+    "id": "contact_051",
+    "content": "Audit Section. Email: auditor@sbbwu.edu.pk, Phone: +92-91-9224721.",
+    "category": "finance",
+    "tags": ["audit", "finance", "contact"]
+  },
+  {
+    "id": "contact_052",
+    "content": "Day Care. Phone: +92-91-9224779.",
+    "category": "campus_services",
+    "tags": ["day_care", "childcare", "contact"]
+  },
+  {
+    "id": "contact_053",
+    "content": "Guest House. Phone: +92-91-9224788.",
+    "category": "campus_services",
+    "tags": ["guest_house", "accommodation", "contact"]
+  },
+  {
+    "id": "contact_054",
+    "content": "Publications. Email: info@sbbwu.edu.pk, Phone: +92-91-9224722, Fax: +92-91-9224722.",
+    "category": "administration",
+    "tags": ["publications", "contact"]
+  },
+  {
+    "id": "contact_055",
+    "content": "Climate Change Cell. Email: Climatechangecell@sbbwu.edu.pk, Phone: 091-9224732, Fax: 091-9224732.",
+    "category": "administration",
+    "tags": ["climate_change_cell", "contact"]
+  },
+  {
+    "id": "contact_056",
+    "content": "Dean Office. Email: dean@sbbwu.edu.pk, Phone: +92-91-9224777.",
+    "category": "administration",
+    "tags": ["dean", "office", "contact"]
+  },
+  {
+    "id": "contact_057",
+    "content": "Examination Section (Masters/ADE). Email: controllerexams@sbbwu.edu.pk, Phone: +92-91-9224713.",
+    "category": "examination",
+    "tags": ["examination", "masters", "ade", "contact"]
+  },
+  {
+    "id": "contact_058",
+    "content": "Examination Section (BA/BSC/Advanced Studies). Email: controllerexams@sbbwu.edu.pk, Phone: +92-91-9224799.",
+    "category": "examination",
+    "tags": ["examination", "ba", "bsc", "advanced_studies", "contact"]
+  },
+  {
+    "id": "contact_059",
+    "content": "Controller of Examinations. Email: controllerexams@sbbwu.edu.pk, Phone: +92-91-9224718.",
+    "category": "examination",
+    "tags": ["controller_exams", "examination", "contact"]
+  },
+  {
+    "id": "contact_060",
+    "content": "Examination Section (BS). Email: controllerexams@sbbwu.edu.pk, Phone: +92-91-9224716.",
+    "category": "examination",
+    "tags": ["examination", "bs", "contact"]
+  },
+  {
+    "id": "contact_general_address",
+    "content": "Shaheed Benazir Bhutto Women University main address: LARAMA, Charsadda Road, Peshawar, Khyber Pakhtunkhwa, Pakistan. For Admissions & Merit Lists - Phone: +92-91-9224726, Email: admissions@sbbwu.edu.pk. For Examinations, Results & Date Sheets - Phone: +92-91-9224724, Email: assttcontroller2@sbbwu.edu.pk, Fax: +92-91-9224707.",
+    "category": "general_contact",
+    "tags": ["address", "location", "admissions", "examinations", "general"]
+  }
+]

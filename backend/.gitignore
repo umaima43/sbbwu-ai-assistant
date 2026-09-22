@@ -1,0 +1,27 @@
+# Environment / secrets
+.env
+*.env
+groq.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+test_env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local databases
+*.db
+
+# Generated files
+*.pyc
+
+# Local cache
+.cache/

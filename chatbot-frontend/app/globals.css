@@ -66,4 +66,24 @@ body {
                     background-color: #a10d5a;
                     border-radius: 9999px;
                   }
-                
+
+                  @keyframes botWelcome {
+  0% {
+    opacity: 0;
+    transform: translateY(12px) scale(0.98);
+  }
+
+  50% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(-3px) scale(1);
+  }
+}
+
+.animate-bot-welcome {
+  animation: botWelcome 3s ease-out forwards;
+}

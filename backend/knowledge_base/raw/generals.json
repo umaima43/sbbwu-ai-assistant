@@ -1,0 +1,110 @@
+[
+  {
+    "id": "general_001",
+    "content": "A BS (Bachelor of Science) is an undergraduate degree that provides students with specialized knowledge and skills in a particular academic field. At SBBWU, BS programs are offered in various disciplines, including Computer Science, Bioinformatics, Biotechnology, Biochemistry, Microbiology, Chemistry, Mathematics, Statistics, Physics, Economics, Psychology, Political Science, English, Urdu, Islamiyat, Botany, Zoology, Geography, Education, and other fields.",
+    "category": "academic_concepts",
+    "tags": ["BS", "bachelor", "undergraduate", "degree", "programs"]
+  },
+  {
+    "id": "general_002",
+    "content": "MS (Master of Science) and MPhil (Master of Philosophy) are postgraduate degrees that provide advanced knowledge, specialized study, and research experience in a particular academic field. At SBBWU, MS and MPhil programs are offered in various disciplines, including Computer Science, Bioinformatics, Biochemistry, Microbiology, Chemistry, Economics, Education, Islamiyat, Mathematics, Political Science, Psychology, Statistics, Urdu, Zoology, Physics, and other fields, depending on the approved programs and admission session.",
+    "category": "academic_concepts",
+    "tags": ["MS", "MPhil", "master", "postgraduate", "research", "degree"]
+  },
+  {
+    "id": "general_003",
+    "content": "A PhD (Doctor of Philosophy) is the highest academic degree and is primarily focused on advanced research and the creation of new knowledge in a specific field. PhD students normally conduct original research, prepare a research thesis or dissertation, and defend their research according to the university's requirements. SBBWU offers PhD programs in various disciplines, including Computer Science, Biochemistry, Bioinformatics, Chemistry, Economics, Islamiyat, Mathematics, Management Sciences, Microbiology, Psychology, Statistics, Urdu, Zoology, and other approved fields.",
+    "category": "academic_concepts",
+    "tags": ["PhD", "doctorate", "doctoral", "research", "degree", "postgraduate"]
+  },
+  {
+    "id": "general_004",
+    "content": "An Associate Degree is an undergraduate-level qualification that is generally completed in two years and provides foundational knowledge in a specific academic field. It may prepare students for employment or further education, depending on the applicable academic requirements. At SBBWU, Associate Degree programs are available through affiliated colleges in selected disciplines, subject to the programs approved and offered by the respective college.",
+    "category": "academic_concepts",
+    "tags": ["associate degree", "AD", "two-year degree", "undergraduate", "degree"]
+  },
+  {
+    "id": "general_005",
+    "content": "An undergraduate program is a program of study pursued before postgraduate education. It normally includes bachelor's degree programs and other equivalent undergraduate qualifications. At SBBWU, undergraduate education includes BS programs and other approved undergraduate programs offered by the university and its affiliated colleges.",
+    "category": "academic_concepts",
+    "tags": ["undergraduate", "undergraduate program", "BS", "bachelor", "academic level"]
+  },
+  {
+    "id": "general_006",
+    "content": "A graduate program is an advanced academic program pursued after completion of an undergraduate degree. Graduate-level education may include master's and doctoral studies and can involve advanced coursework, specialized study, research, or a combination of these. At SBBWU, advanced academic programs include MS, MPhil, and PhD programs in various disciplines.",
+    "category": "academic_concepts",
+    "tags": ["graduate", "graduate program", "MS", "MPhil", "PhD", "advanced studies"]
+  },
+  {
+    "id": "general_007",
+    "content": "A postgraduate program is a program of study pursued after completion of an undergraduate degree. It generally includes master's-level and doctoral-level education and may focus on advanced academic study, professional specialization, or research. At SBBWU, postgraduate and advanced studies include MS, MPhil, and PhD programs in various academic disciplines.",
+    "category": "academic_concepts",
+    "tags": ["postgraduate", "postgraduate program", "MS", "MPhil", "PhD", "advanced education"]
+  },
+  {
+    "id": "general_008",
+    "content": "A semester is an academic period during which students attend classes, complete coursework, take examinations, and earn academic credits. An academic year is commonly divided into two or more semesters. At SBBWU, academic programs are organized into semesters according to the university's academic calendar and the study plan of each program.",
+    "category": "academic_concepts",
+    "tags": ["semester", "academic year", "academic calendar", "study period"]
+  },
+  {
+    "id": "general_009",
+    "content": "A credit hour is a unit used to represent the amount of academic work assigned to a course. Each course carries a specific number of credit hours, and students must complete the required total credit hours of their degree program to graduate. At SBBWU, the credit hours assigned to courses are specified in the curriculum and study plan of each academic program.",
+    "category": "academic_concepts",
+    "tags": ["credit hour", "credits", "course", "degree requirements", "curriculum"]
+  },
+  {
+    "id": "general_010",
+    "content": "CGPA (Cumulative Grade Point Average) represents a student's overall academic performance across the completed semesters of a degree program. It is calculated from the grade points earned in courses and their corresponding credit hours. At SBBWU, students' academic performance and CGPA are determined according to the university's applicable grading and academic regulations.",
+    "category": "academic_concepts",
+    "tags": ["CGPA", "GPA", "grade point", "academic performance", "grading"]
+  },
+  {
+    "id": "general_011",
+    "content": "A core course is a compulsory course that students must complete as part of their degree requirements. An elective course is a course that students may choose from a specified group of available courses according to the requirements of their academic program. At SBBWU, the core and elective courses for each degree are defined in the approved curriculum and study plan of the respective program.",
+    "category": "academic_concepts",
+    "tags": ["core course", "elective course", "compulsory course", "curriculum", "study plan"]
+  },
+  {
+    "id": "general_012",
+    "content": "A Final Year Project (FYP) is an academic project completed by students as part of the requirements of certain undergraduate degree programs. It allows students to apply the knowledge and skills gained during their studies to a research, development, design, or practical problem. At SBBWU, the requirements and structure of the FYP depend on the relevant academic program and its approved curriculum.",
+    "category": "academic_concepts",
+    "tags": ["FYP", "final year project", "research project", "undergraduate", "project"]
+  },
+  {
+    "id": "general_013",
+    "content": "The semester or academic year in which BS students start their Final Year Project or research project depends on the approved curriculum and study plan of their specific program. At SBBWU, students should follow the project requirements and semester allocation specified by their department and academic program. The chatbot should provide a specific semester only when it is supported by the relevant official SBBWU curriculum or departmental information.",
+    "category": "academic_concepts",
+    "tags": ["FYP", "research project", "semester", "BS", "project start", "study plan"]
+  },
+  {
+    "id": "general_014",
+    "content": "The duration of a Final Year Project or research project depends on the academic program, approved curriculum, and departmental requirements. A project may be completed within one or more semesters depending on the structure of the program. At SBBWU, the chatbot should provide the specific project duration only when it is supported by official information from the relevant department or academic program.",
+    "category": "academic_concepts",
+    "tags": ["FYP duration", "research project", "project duration", "semester", "BS"]
+  },
+  {
+    "id": "general_015",
+    "content": "A research project normally involves several stages, which may include selecting a research topic, identifying a research problem, preparing a project proposal, reviewing relevant literature, defining the research methodology, collecting or developing the required data or system, analyzing or evaluating the results, preparing the final report, and presenting or defending the project. The exact stages and requirements may vary according to the academic program and departmental guidelines at SBBWU.",
+    "category": "academic_concepts",
+    "tags": ["research project", "FYP", "research stages", "methodology", "report", "defense"]
+  },
+  {
+    "id": "general_016",
+    "content": "A project proposal is a formal document that describes a proposed research or development project. It generally explains the project title, background, problem statement, objectives, scope, proposed methodology, expected outcomes, and relevant references. A proposal helps the student and supervisor evaluate the feasibility and academic value of the proposed project. At SBBWU, proposal requirements may vary according to the department and academic program.",
+    "category": "academic_concepts",
+    "tags": ["project proposal", "research proposal", "FYP", "objectives", "methodology"]
+  },
+  {
+    "id": "general_017",
+    "content": "A research supervisor is a faculty member who guides a student during an academic research project, Final Year Project, thesis, or similar research work. The supervisor may help the student refine the topic, develop the research methodology, monitor progress, review academic work, and prepare for the final presentation or defense. At SBBWU, supervisor selection and responsibilities are subject to the rules and procedures of the relevant department and academic program.",
+    "category": "academic_concepts",
+    "tags": ["research supervisor", "supervisor", "FYP", "thesis", "research guidance"]
+  },
+  {
+    "id": "general_018",
+    "content": "Plagiarism is the use of another person's words, ideas, data, research, or other intellectual work without proper acknowledgment or citation. In academic projects, students should properly cite sources, acknowledge the work of other researchers, and present their own work honestly. Plagiarism is considered a violation of academic integrity and may result in academic consequences according to the applicable university rules. SBBWU students should follow the university's academic integrity and plagiarism policies when preparing research projects, theses, and academic assignments.",
+    "category": "academic_concepts",
+    "tags": ["plagiarism", "academic integrity", "citation", "research ethics", "FYP", "thesis"]
+  }
+]

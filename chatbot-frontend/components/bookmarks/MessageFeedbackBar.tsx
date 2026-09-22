@@ -30,6 +30,7 @@ export default function MessageFeedbackBar({
   const [feedback, setFeedback] = useState<"up" | "down" | null>(null);
   const [copied, setCopied] = useState(false);
   const [submitting, setSubmitting] = useState(false);
+  const [showThankYou, setShowThankYou] = useState(false);
 
   const toggleFeedback = async (value: "up" | "down") => {
     if (!messageId || submitting) return;
@@ -41,7 +42,7 @@ export default function MessageFeedbackBar({
 
       // If clicking the same button again, remove the local selection.
       // The backend currently accepts only positive true/false,
-      // so we don't send anything when clearing the selection.
+      // so nothing is sent when clearing the selection.
       if (next === null) {
         setFeedback(null);
         onFeedback?.(null);
@@ -69,8 +70,17 @@ export default function MessageFeedbackBar({
         );
       }
 
+      // Keep the existing selected-button behavior.
       setFeedback(next);
       onFeedback?.(next);
+
+      // Show temporary thank-you popup.
+      setShowThankYou(true);
+
+      // Hide it automatically after 2 seconds.
+      setTimeout(() => {
+        setShowThankYou(false);
+      }, 2000);
     } catch (error) {
       console.error("Feedback submission failed:", error);
     } finally {
@@ -102,7 +112,9 @@ export default function MessageFeedbackBar({
           className={
             copied
               ? "inline-flex h-9 items-center gap-1.5 rounded-lg px-1 text-xs font-bold text-[#A10D5A] transition-colors duration-150 dark:text-[#F4B8D8]"
-              : `inline-flex h-9 w-9 items-center justify-center rounded-lg ${iconColorClasses(false)}`
+              : `inline-flex h-9 w-9 items-center justify-center rounded-lg ${iconColorClasses(
+                  false
+                )}`
           }
         >
           {copied ? (
@@ -158,6 +170,35 @@ export default function MessageFeedbackBar({
 
         <IconTooltip label="Not helpful" />
       </div>
+
+      {/* Temporary Thank You Popup */}
+      {showThankYou && (
+        <div
+          className="
+            fixed
+            bottom-6
+            left-1/2
+            z-50
+            -translate-x-1/2
+            rounded-lg
+            bg-[#A10D5A]
+            px-4
+            py-2.5
+            text-xs
+            font-semibold
+            text-white
+            shadow-lg
+            animate-in
+            fade-in
+            slide-in-from-bottom-2
+            duration-200
+            dark:bg-[#F4B8D8]
+            dark:text-[#3a1b2d]
+          "
+        >
+          Thanks for your feedback!
+        </div>
+      )}
 
       {/* Bookmark */}
       <BookmarkButton question={question} answer={answer} />

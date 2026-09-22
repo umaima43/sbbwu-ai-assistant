@@ -1,0 +1,290 @@
+[
+  {
+    "id": "gen_001",
+    "content": "SBBWU is a public women's university in Khyber Pakhtunkhwa that provides an academic environment focused on the education and development of female students. The university has a predominantly female staff and provides a friendly, supportive, and comfortable environment for students.",
+    "category": "university_overview",
+    "tags": ["women_university", "public_university", "khyber_pakhtunkhwa", "female_students", "female_staff", "campus_environment"]
+  },
+  {
+    "id": "gen_002",
+    "content": "Most BS degree programs at SBBWU consist of eight semesters. Each semester lasts approximately four months. The LLB program has a different duration.",
+    "category": "academic_system",
+    "tags": ["bs", "eight_semesters", "semester_duration", "four_months", "llb"]
+  },
+  {
+    "id": "gen_003",
+    "content": "The academic calendar is provided to students by their respective departments and contains important academic dates and examination schedules.",
+    "category": "academic_system",
+    "tags": ["academic_calendar", "departments", "exam_schedule", "academic_dates"]
+  },
+  {
+    "id": "gen_004",
+    "content": "A typical semester includes midterm and final-term examinations along with academic activities such as tests, quizzes, presentations, and assignments. The exact assessment structure may vary by department and program.",
+    "category": "academic_system",
+    "tags": ["midterm", "final_exam", "tests", "quizzes", "presentations", "assignments", "assessment"]
+  },
+  {
+    "id": "gen_005",
+    "content": "If a student is unable to appear in an examination because of a valid reason, the student may apply for a reappear examination by submitting an application and providing the reason. If the application is approved, a separate examination schedule may be provided according to university rules.",
+    "category": "examinations",
+    "tags": ["reappear_exam", "missed_exam", "exam_application", "examination_rules"]
+  },
+  {
+    "id": "gen_006",
+    "content": "Students receive a semester GPA after the completion and evaluation of their semester. Results are displayed through the university's designated result system after the relevant academic and administrative processing is completed.",
+    "category": "results_and_gpa",
+    "tags": ["gpa", "semester_gpa", "results", "result_system"]
+  },
+  {
+    "id": "gen_007",
+    "content": "For exact result dates, students should check the university's official announcements or result portal.",
+    "category": "results_and_gpa",
+    "tags": ["result_dates", "result_portal", "official_announcements"]
+  },
+  {
+    "id": "gen_008",
+    "content": "Students may be allowed to migrate during their BS program in designated semesters. The semesters mentioned for migration are the 3rd, 5th, and 7th semesters, subject to university rules, eligibility requirements, and available seats.",
+    "category": "student_affairs",
+    "tags": ["migration", "bs_migration", "third_semester", "fifth_semester", "seventh_semester"]
+  },
+  {
+    "id": "gen_009",
+    "content": "A student may be able to cancel their admission during the initial period of the first semester, particularly during the first week, subject to applicable university rules. Requests made after the permitted period may not be accepted.",
+    "category": "admissions",
+    "tags": ["admission_cancellation", "cancel_admission", "first_semester", "first_week"]
+  },
+  {
+    "id": "gen_010",
+    "content": "Students should contact the relevant university office to confirm the current admission cancellation policy and procedure.",
+    "category": "admissions",
+    "tags": ["admission_cancellation", "admission_policy", "university_office"]
+  },
+  {
+    "id": "gen_011",
+    "content": "A student may be allowed to change their department during the first or second semester, subject to university eligibility requirements and available seats. After completion of the second semester, department change is generally not permitted under the stated rule.",
+    "category": "student_affairs",
+    "tags": ["department_change", "change_department", "first_semester", "second_semester", "eligibility"]
+  },
+  {
+    "id": "gen_012",
+    "content": "Students can use their personal Student Education Portal (SEP) account to access their individual academic and financial information.",
+    "category": "sep_and_fees",
+    "tags": ["sep", "student_education_portal", "student_account", "financial_information"]
+  },
+  {
+    "id": "gen_013",
+    "content": "Each student is provided with individual SEP login credentials, including a username and password.",
+    "category": "sep_and_fees",
+    "tags": ["sep", "username", "password", "login_credentials", "student_account"]
+  },
+  {
+    "id": "gen_014",
+    "content": "After logging into their personal SEP account, students can view their applicable fee information, including admission fees, university or tuition fees, hostel fees, transport fees, sports fees, and other applicable university charges.",
+    "category": "sep_and_fees",
+    "tags": ["sep", "admission_fee", "tuition_fee", "university_fee", "hostel_fee", "transport_fee", "sports_fee", "dues"]
+  },
+  {
+    "id": "gen_015",
+    "content": "Students should use their personal SEP account to view their current fee details because fee amounts and policies may change.",
+    "category": "sep_and_fees",
+    "tags": ["sep", "fee_details", "current_fees", "fee_policy"]
+  },
+  {
+    "id": "gen_016",
+    "content": "The chatbot does not have access to individual student financial records. If a student asks about their personal semester fee, they should be directed to their personal SEP account to view the applicable fee and outstanding dues.",
+    "category": "sep_and_fees",
+    "tags": ["personal_fee", "student_fee", "sep", "individual_records", "fee_dues"]
+  },
+  {
+    "id": "gen_017",
+    "content": "If a student forgets their SEP password, they can use the account-recovery option on the SEP login page. The student may be asked to provide their email address, username, or other required information. A verification or recovery code may be sent to the student's registered email address.",
+    "category": "sep_and_fees",
+    "tags": ["sep", "forgot_password", "password_recovery", "email_verification", "username"]
+  },
+  {
+    "id": "gen_018",
+    "content": "The university provides canteen services for students within the university premises. According to the provided information, Najeeb Bhai and Muhammad Bhai provide canteen-related services for students.",
+    "category": "campus_facilities",
+    "tags": ["canteen", "food_services", "najeeb_bhai", "muhammad_bhai", "campus_facilities"]
+  },
+  {
+    "id": "gen_019",
+    "content": "Outside the university, Najeeb Bhai provides student services such as printing, ring binding, and related document services.",
+    "category": "student_services",
+    "tags": ["printing", "ring_binding", "document_services", "najeeb_bhai"]
+  },
+  {
+    "id": "gen_020",
+    "content": "SBBWU has laboratory facilities for students in science-related departments. The Biochemistry, Microbiology, Physics, and Chemistry departments have dedicated laboratory facilities for practical and academic work.",
+    "category": "campus_facilities",
+    "tags": ["laboratories", "biochemistry", "microbiology", "physics", "chemistry", "science_departments"]
+  },
+  {
+    "id": "gen_021",
+    "content": "Wi-Fi or internet connectivity is available on the university campus for students and university users, subject to the university's facilities and access policies.",
+    "category": "campus_facilities",
+    "tags": ["wifi", "internet", "campus", "student_facilities"]
+  },
+  {
+    "id": "gen_022",
+    "content": "SBBWU provides English-language and co-curricular learning opportunities for students through relevant programs and activities.",
+    "category": "student_activities",
+    "tags": ["english", "english_course", "co_curricular", "student_development"]
+  },
+  {
+    "id": "gen_023",
+    "content": "According to the provided information, an English-related course or program is offered periodically and may include English-language development, extracurricular activities, educational trips, and other student-development activities.",
+    "category": "student_activities",
+    "tags": ["english_course", "english_learning", "extracurricular", "educational_trips", "student_development"]
+  },
+  {
+    "id": "gen_024",
+    "content": "Students participating in the relevant English-related program may receive a monthly stipend, subject to the program's eligibility criteria and rules.",
+    "category": "student_activities",
+    "tags": ["english_program", "stipend", "monthly_stipend", "student_support"]
+  },
+  {
+    "id": "gen_025",
+    "content": "SBBWU organizes various events, celebrations, seminars, and student activities throughout the academic year.",
+    "category": "events_and_activities",
+    "tags": ["events", "celebrations", "seminars", "student_activities", "campus_events"]
+  },
+  {
+    "id": "gen_026",
+    "content": "University events are commonly conducted at venues such as the university auditorium and hostel halls, depending on the nature of the event.",
+    "category": "events_and_activities",
+    "tags": ["auditorium", "hostel_hall", "events", "campus_venues"]
+  },
+  {
+    "id": "gen_027",
+    "content": "SBBWU celebrates its Foundation Day every year. The celebration may extend over several days and can include student stalls, art and creative-work displays, cultural activities, exhibitions, student performances, and participation from external organizations or individuals.",
+    "category": "events_and_activities",
+    "tags": ["foundation_day", "annual_event", "student_stalls", "art", "exhibitions", "cultural_activities"]
+  },
+  {
+    "id": "gen_028",
+    "content": "SBBWU provides opportunities for students to participate in sports and physical activities. Students may receive sports training and may be selected to represent the university in competitions and games at different locations.",
+    "category": "sports",
+    "tags": ["sports", "sports_training", "competitions", "games", "student_activities"]
+  },
+  {
+    "id": "gen_029",
+    "content": "A Final-Year Project (FYP) is an academic project completed by students as part of their final-year requirements according to the requirements of their department.",
+    "category": "final_year",
+    "tags": ["final_year_project", "fyp", "final_year", "academic_project"]
+  },
+  {
+    "id": "gen_030",
+    "content": "A final-year project should normally be related to the student's academic field. For example, a Computer Science student may develop a project related to software development, artificial intelligence, databases, web development, or another relevant computing field.",
+    "category": "final_year",
+    "tags": ["fyp", "computer_science", "software_development", "artificial_intelligence", "databases", "web_development"]
+  },
+  {
+    "id": "gen_031",
+    "content": "Final-year requirements differ between departments. Depending on the program, students may have research, internships, projects, or other forms of final-year academic work.",
+    "category": "final_year",
+    "tags": ["final_year", "research", "internship", "project", "department_requirements"]
+  },
+  {
+    "id": "gen_032",
+    "content": "According to the provided information, Computer Science students are required to complete a final-year project. Students may also have opportunities to collaborate with or conduct research involving other departments where permitted by the relevant academic requirements.",
+    "category": "final_year",
+    "tags": ["computer_science", "fyp", "research", "interdisciplinary", "collaboration"]
+  },
+  {
+    "id": "gen_033",
+    "content": "The final-year viva is conducted after students have completed and submitted their required final-year thesis or project.",
+    "category": "final_year",
+    "tags": ["viva", "final_viva", "thesis", "fyp", "project_submission"]
+  },
+  {
+    "id": "gen_034",
+    "content": "After final-year project or thesis submission, the department organizes viva examinations and assigns students different viva dates according to the departmental schedule and examination arrangements.",
+    "category": "final_year",
+    "tags": ["viva", "viva_schedule", "department", "thesis_submission", "fyp"]
+  },
+  {
+    "id": "gen_035",
+    "content": "After completing final-year requirements and the viva, students may be informed by their teachers or department about the next steps for obtaining their transcript and degree.",
+    "category": "transcript_and_degree",
+    "tags": ["transcript", "degree", "viva", "graduation", "final_year"]
+  },
+  {
+    "id": "gen_036",
+    "content": "Students generally need to apply through the relevant administration section or office for their transcript or degree.",
+    "category": "transcript_and_degree",
+    "tags": ["transcript", "degree", "administration", "application"]
+  },
+  {
+    "id": "gen_037",
+    "content": "The processing time and fee for a transcript or degree may vary depending on how quickly the document is required. Different processing options may have different applicable fees.",
+    "category": "transcript_and_degree",
+    "tags": ["transcript_fee", "degree_fee", "processing_time", "administration"]
+  },
+  {
+    "id": "gen_038",
+    "content": "Students should confirm the current transcript or degree processing time and applicable fee from the administration section before submitting an application.",
+    "category": "transcript_and_degree",
+    "tags": ["transcript", "degree", "processing_time", "fee", "administration"]
+  },
+  {
+    "id": "gen_039",
+    "content": "If a student finds an error in their marks, name, personal information, or other academic records, they should contact the relevant administration or examination section.",
+    "category": "student_records",
+    "tags": ["marks_correction", "name_correction", "academic_record", "administration", "examination_section"]
+  },
+  {
+    "id": "gen_040",
+    "content": "For corrections to academic or personal records, a student may need to submit an application and supporting documents so that the university can review and correct the information according to its official procedure.",
+    "category": "student_records",
+    "tags": ["record_correction", "application", "supporting_documents", "academic_records"]
+  },
+  {
+    "id": "gen_041",
+    "content": "If a student forgets their university portal password, they should use the official password-recovery option on the relevant university portal. The student may need to enter their registered email address, username, or other requested information.",
+    "category": "student_portal",
+    "tags": ["portal", "forgot_password", "password_recovery", "username", "email"]
+  },
+  {
+    "id": "gen_042",
+    "content": "After completing the portal verification process, the student can follow the instructions sent to their registered email address to recover access to their account.",
+    "category": "student_portal",
+    "tags": ["portal", "password_recovery", "email", "verification", "account_recovery"]
+  },
+  {
+    "id": "gen_043",
+    "content": "SBBWU has an IT Park known as NUTECH that provides students with technology-oriented learning and professional development opportunities.",
+    "category": "it_park_and_opportunities",
+    "tags": ["it_park", "nutech", "technology", "student_opportunities", "professional_development"]
+  },
+  {
+    "id": "gen_044",
+    "content": "The IT Park provides students with opportunities and training related to freelancing, digital marketing, artificial intelligence, web development, internships, and other technology and professional development areas.",
+    "category": "it_park_and_opportunities",
+    "tags": ["nutech", "freelancing", "digital_marketing", "artificial_intelligence", "web_development", "internships"]
+  },
+  {
+    "id": "gen_045",
+    "content": "According to previously reported HEC-related data, SBBWU was ranked 9th among 27 nascent universities nationwide.",
+    "category": "rankings",
+    "tags": ["ranking", "hec", "nascent_universities", "national_ranking"]
+  },
+  {
+    "id": "gen_046",
+    "content": "UniversityGuru's meta-ranking placed SBBWU at number 73 among Pakistani universities in the referenced ranking.",
+    "category": "rankings",
+    "tags": ["ranking", "universityguru", "pakistan_ranking", "meta_ranking"]
+  },
+  {
+    "id": "gen_047",
+    "content": "Times Higher Education included SBBWU in its interdisciplinary science ranking, where it was reported at number 401 in the referenced ranking.",
+    "category": "rankings",
+    "tags": ["ranking", "times_higher_education", "the", "interdisciplinary_science", "international_ranking"]
+  },
+  {
+    "id": "gen_048",
+    "content": "SBBWU is a public women's university in Khyber Pakhtunkhwa and has been described as the first public women's university in Khyber Pakhtunkhwa.",
+    "category": "university_overview",
+    "tags": ["public_womens_university", "khyber_pakhtunkhwa", "first_public_womens_university", "university_history"]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "hist_001",
+    "content": "SBBWU was first established as the Frontier Women University and was later renamed Shaheed Benazir Bhutto Women University.",
+    "category": "university_history",
+    "tags": ["original_name", "frontier_women_university", "renaming", "history"]
+  },
+  {
+    "id": "hist_002",
+    "content": "The SBBWU campus was inaugurated on 1st September 2004 by Akram Khan Durrani, the then Chief Minister of Khyber Pakhtunkhwa (then called NWFP).",
+    "category": "university_history",
+    "tags": ["inauguration", "2004", "akram_khan_durrani", "nwfp", "chief_minister"]
+  },
+  {
+    "id": "hist_003",
+    "content": "SBBWU was formally created through the Frontier Women University Act 2004, which was passed by the Provincial Assembly of NWFP on 5th October 2004 and assented to by the Governor of NWFP on 7th February 2005. This is why some records list its established date as 2005.",
+    "category": "university_history",
+    "tags": ["legal_establishment", "frontier_women_university_act", "2004", "2005", "provincial_assembly", "governor_assent"]
+  },
+  {
+    "id": "hist_004",
+    "content": "SBBWU holds the significance of being the first public-sector women's university in Khyber Pakhtunkhwa (then NWFP).",
+    "category": "university_history",
+    "tags": ["significance", "first_public_sector", "women_university", "khyber_pakhtunkhwa", "nwfp"]
+  },
+  {
+    "id": "hist_005",
+    "content": "SBBWU is named in honor of Benazir Bhutto and other women who contributed to women's empowerment and the country's development.",
+    "category": "university_history",
+    "tags": ["naming", "benazir_bhutto", "womens_empowerment", "history"]
+  },
+  {
+    "id": "hist_006",
+    "content": "In 2010, SBBWU expanded with new departments — Law, Political Science, Urdu, Management Sciences, and Art & Design — along with an M.Phil program in Statistics, following the Frontier Women University (Amendment) Act, 2010.",
+    "category": "university_history",
+    "tags": ["growth", "2010", "expansion", "law", "political_science", "urdu", "management_sciences", "art_design", "mphil_statistics", "amendment_act"]
+  },
+  {
+    "id": "hist_007",
+    "content": "Today, SBBWU has campuses in both Peshawar and Swabi, and is affiliated with the Higher Education Commission (HEC) of Pakistan.",
+    "category": "university_history",
+    "tags": ["campuses", "peshawar", "swabi", "hec", "affiliation", "current_status"]
+  }
+]

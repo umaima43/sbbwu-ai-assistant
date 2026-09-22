@@ -36,7 +36,7 @@ export default function EntrancePage() {
             }}
           >
             <Image
-              src="/myuni.jpg"
+              src="/uni.jpg"
               alt=""
               fill
               className="object-cover object-bottom"

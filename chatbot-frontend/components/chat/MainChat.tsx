@@ -28,15 +28,6 @@ function getTime() {
   return `${String(displayHour).padStart(2, "0")}:${minutes} ${period}`;
 }
 
-function makeWelcome(): ChatMessage {
-  return {
-    sender: "bot",
-    message:
-      "Assalamualaikum! I'm your University AI Assistant. How can I help you today?",
-    time: getTime(),
-  };
-}
-
 export default function MainChat() {
   const searchParams = useSearchParams();
   const router = useRouter();
@@ -44,10 +35,14 @@ export default function MainChat() {
   const { registerNewConversation, bumpHistory } = useChatContext();
 
   const [sessionId, setSessionId] = useState(createSessionId);
-  const [messages, setMessages] = useState<ChatMessage[]>([
-    makeWelcome(),
-  ]);
+
+  // Start with NO automatic welcome message.
+  const [messages, setMessages] = useState<ChatMessage[]>([]);
+
   const [isLoading, setIsLoading] = useState(false);
+
+  // Controls whether the normal conversation UI is shown.
+  const [hasStarted, setHasStarted] = useState(false);
 
   const bottomRef = useRef<HTMLDivElement>(null);
   const sessionIdRef = useRef(sessionId);
@@ -72,6 +67,9 @@ export default function MainChat() {
       setSessionId(conv.sessionId);
       sessionIdRef.current = conv.sessionId;
       setMessages(conv.messages);
+
+      // Loaded conversations should use normal chat layout.
+      setHasStarted(true);
     }
 
     router.replace("/chat");
@@ -79,8 +77,8 @@ export default function MainChat() {
 
   // Save conversation history when messages change
   useEffect(() => {
-    // Don't save only the initial welcome message
-    if (messages.length <= 1) return;
+    // Don't save an empty conversation
+    if (messages.length === 0) return;
 
     // Find latest user message for conversation title
     const lastUserMessage = [...messages]
@@ -113,7 +111,11 @@ export default function MainChat() {
     setSessionId(newSessionId);
     sessionIdRef.current = newSessionId;
 
-    setMessages([makeWelcome()]);
+    // Remove the old automatic welcome message.
+    setMessages([]);
+
+    // Return to the Home/pre-chat section.
+    setHasStarted(false);
 
     // Allow a new FAQ question to be processed
     faqQuestionHandledRef.current = false;
@@ -129,16 +131,19 @@ export default function MainChat() {
     async (text: string) => {
       if (!text.trim() || isLoading) return;
 
+      // Immediately switch from Home section to normal conversation.
+      setHasStarted(true);
+
       const userMsg: ChatMessage = {
         sender: "user",
         message: text,
         time: getTime(),
       };
 
-      // Add user message immediately
+      // Add user message immediately.
       setMessages((prev) => [...prev, userMsg]);
 
-      // Show typing indicator
+      // Show typing indicator.
       setIsLoading(true);
 
       try {
@@ -155,9 +160,8 @@ export default function MainChat() {
           time: getTime(),
           messageId: data.message_id,
 
-          // IMPORTANT:
-          // Store the original question together with the bot answer.
-          // This allows the BookmarkButton to save the correct Q&A pair.
+          // Store the original question with the bot answer.
+          // This allows bookmarks/feedback to save the correct Q&A pair.
           question: text,
         };
 
@@ -205,13 +209,11 @@ export default function MainChat() {
     router.replace("/chat");
   }, [searchParams, router, handleSend]);
 
-  // Whether a real conversation has started (more than the initial welcome msg)
-  const hasConversation = messages.length > 1;
-
   return (
     <div className="flex min-h-0 flex-1 flex-col">
-      {!hasConversation ? (
-        // Pre-chat state: welcome section + input centered together
+      {!hasStarted ? (
+        // HOME / PRE-CHAT STATE
+        // This keeps your existing Home section unchanged.
         <div className="flex flex-1 items-center justify-center overflow-y-auto px-3 py-5 sm:px-6 sm:py-8">
           <div className="w-full max-w-2xl">
             <WelcomeSection onQuickAsk={handleSend} />
@@ -226,17 +228,19 @@ export default function MainChat() {
           </div>
         </div>
       ) : (
-        // Active chat state: scrollable messages, input pinned to bottom
-        // Both share the same max-w-6xl mx-auto wrapper so their edges line up
+        // NORMAL CONVERSATION STATE
         <>
           <div className="flex-1 overflow-y-auto px-3 py-4 sm:px-6 sm:py-6 md:px-10 md:py-8">
             <div className="mx-auto w-full max-w-6xl">
               <ChatContainer messages={messages} />
+
               {isLoading && <TypingIndicator />}
+
               <div ref={bottomRef} />
             </div>
           </div>
 
+          {/* Input is ALWAYS pinned to the bottom */}
           <div className="shrink-0 bg-white px-3 pb-3 pt-2 dark:bg-gray-900 sm:px-6 sm:pb-4 md:px-10">
             <div className="mx-auto w-full max-w-4xl">
               <ChatInput
@@ -250,4 +254,3 @@ export default function MainChat() {
     </div>
   );
 }
-

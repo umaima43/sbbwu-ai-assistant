@@ -1,0 +1,227 @@
+[
+  {
+    "id": "departments_all",
+    "content": "SBBWU has 35 department and academic program entries in this dataset. The complete list of names is: Biochemistry, Bioinformatics, Botany, Human Nutrition & Dietetics, Molecular Biology, Biotechnology, Health and Well Being Sciences, Microbiology, Environmental Sciences and Sustainability, Zoology, Chemistry, Computer Science, Software Engineering, Geography, Mathematics, Physics, Statistics, Communication Studies, Economics, Education, Law, Business Administration, Islamic Banking & Finance, Project Management, Political Science, Psychology, Management Science, English, Home Economics, Pakistan Studies, History, Islamiyat, Urdu, Art and Design, and Development Studies.",
+    "category": "departments_programs",
+    "tags": [
+      "all_departments",
+      "department_list",
+      "complete_department_list",
+      "department_names",
+      "academic_departments",
+      "35_entries",
+      "all_names",
+      "university_departments"
+    ]
+  },
+  {
+    "id": "dept_001",
+    "content": "SBBWU's Biochemistry department offers three degree levels: BS Biochemistry (undergraduate, Faculty of Biological Sciences), MS Biochemistry (postgraduate), and PhD Biochemistry (postgraduate).",
+    "category": "departments_programs",
+    "tags": ["biochemistry", "bs", "ms", "phd", "biological_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_002",
+    "content": "SBBWU's Bioinformatics department offers BS Bioinformatics, MS Bioinformatics, PhD Bioinformatics, and a separate 1-Year Diploma in Bio-informatics.",
+    "category": "departments_programs",
+    "tags": ["bioinformatics", "bs", "ms", "phd", "diploma", "biological_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_003",
+    "content": "SBBWU offers BS Botany under the Faculty of Biological Sciences. It is currently offered only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["botany", "bs", "biological_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_004",
+    "content": "SBBWU offers BS Human Nutrition & Dietetics under the Faculty of Biological Sciences, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["human_nutrition", "dietetics", "bs", "biological_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_005",
+    "content": "SBBWU offers BS Molecular Biology under the Faculty of Biological Sciences, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["molecular_biology", "bs", "biological_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_006",
+    "content": "SBBWU offers BS Biotechnology under the Faculty of Biological Sciences, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["biotechnology", "bs", "biological_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_007",
+    "content": "SBBWU offers BS Health and Well Being Sciences under the Faculty of Biological Sciences, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["health_and_well_being_sciences", "bs", "biological_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_008",
+    "content": "SBBWU's Microbiology department offers BS Microbiology (undergraduate) and MS Microbiology (postgraduate).",
+    "category": "departments_programs",
+    "tags": ["microbiology", "bs", "ms", "biological_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_009",
+    "content": "SBBWU offers BS Environmental Sciences and Sustainability under the Faculty of Biological Sciences, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["environmental_sciences", "sustainability", "bs", "biological_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_010",
+    "content": "SBBWU's Zoology department offers BS Zoology (undergraduate), M.Phil Zoology (postgraduate), and PhD Zoology (postgraduate).",
+    "category": "departments_programs",
+    "tags": ["zoology", "bs", "mphil", "phd", "biological_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_011",
+    "content": "SBBWU's Chemistry department offers BS Chemistry (undergraduate), M.Phil Chemistry, and PhD Chemistry (postgraduate research areas: Analytical, Inorganic, Organic, Physical).",
+    "category": "departments_programs",
+    "tags": ["chemistry", "bs", "mphil", "phd", "physical_sciences", "degree_levels", "analytical", "inorganic", "organic", "physical"]
+  },
+  {
+    "id": "dept_012",
+    "content": "SBBWU's Computer Science department offers BS Computer Science (undergraduate), MS Computer Science, and PhD Computer Science, with postgraduate research areas including Networking, Multi-Agent Systems, Software Engineering, Computer Vision, Databases, Artificial Intelligence, Semantic Web, and Data Science.",
+    "category": "departments_programs",
+    "tags": ["computer_science", "bs", "ms", "phd", "physical_sciences", "degree_levels", "ai", "data_science", "networking", "computer_vision"]
+  },
+  {
+    "id": "dept_013",
+    "content": "SBBWU offers BS Software Engineering under the Faculty of Physical & Numerical Sciences, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["software_engineering", "bs", "physical_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_014",
+    "content": "SBBWU offers BS Geography under the Faculty of Physical & Numerical Sciences, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["geography", "bs", "physical_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_015",
+    "content": "SBBWU's Mathematics department offers BS Mathematics (undergraduate, including a specialization in Artificial Intelligence) and M.Phil Mathematics (postgraduate).",
+    "category": "departments_programs",
+    "tags": ["mathematics", "bs", "mphil", "physical_sciences", "degree_levels", "artificial_intelligence_specialization"]
+  },
+  {
+    "id": "dept_016",
+    "content": "SBBWU's Physics department offers M.Phil Physics only at the postgraduate level; Physics is not listed as an undergraduate BS program.",
+    "category": "departments_programs",
+    "tags": ["physics", "mphil", "physical_sciences", "degree_levels", "postgraduate_only"]
+  },
+  {
+    "id": "dept_017",
+    "content": "SBBWU's Statistics department offers BS Statistics (with specializations in Data Sciences and Biostatistics), M.Phil Statistics, and PhD Statistics.",
+    "category": "departments_programs",
+    "tags": ["statistics", "bs", "mphil", "phd", "social_sciences", "degree_levels", "data_science", "biostatistics"]
+  },
+  {
+    "id": "dept_018",
+    "content": "SBBWU offers BS Communication Studies under the Faculty of Social Sciences, currently only at the undergraduate level. Passing the University Conducted Entry Test is mandatory for admission.",
+    "category": "departments_programs",
+    "tags": ["communication_studies", "bs", "social_sciences", "degree_levels", "entry_test_mandatory"]
+  },
+  {
+    "id": "dept_019",
+    "content": "SBBWU's Economics department offers BS Economics (undergraduate), M.Phil Economics, and PhD Economics (postgraduate).",
+    "category": "departments_programs",
+    "tags": ["economics", "bs", "mphil", "phd", "social_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_020",
+    "content": "SBBWU's Education department offers B.Ed programs at the undergraduate level in three duration tracks — B.Ed (1.5 Years), B.Ed (2.5 Years), and B.Ed (4 Years) — and M.Phil Education at the postgraduate level. There is no standalone 'BS Education' program.",
+    "category": "departments_programs",
+    "tags": ["education", "bed", "mphil", "social_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_021",
+    "content": "SBBWU offers an LLB program under the Faculty of Social Sciences. Admission requires candidates to have a valid LAT (Law Admission Test) score with at least 50% marks.",
+    "category": "departments_programs",
+    "tags": ["law", "llb", "social_sciences", "degree_levels", "lat", "eligibility"]
+  },
+  {
+    "id": "dept_022",
+    "content": "SBBWU offers a BBA (Bachelor of Business Administration) program under the Faculty of Social Sciences, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["bba", "business_administration", "social_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_023",
+    "content": "SBBWU offers BS Islamic Banking & Finance under the Faculty of Social Sciences, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["islamic_banking", "finance", "bs", "social_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_024",
+    "content": "SBBWU offers BS Project Management under the Faculty of Social Sciences, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["project_management", "bs", "social_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_025",
+    "content": "SBBWU's Political Science department offers BS Political Science (undergraduate) and M.Phil Political Science (postgraduate).",
+    "category": "departments_programs",
+    "tags": ["political_science", "bs", "mphil", "social_sciences", "degree_levels"]
+  },
+  {
+    "id": "dept_026",
+    "content": "SBBWU's Psychology department offers BS Psychology (undergraduate), M.Phil Psychology, PhD Psychology (postgraduate), and a Post Graduate Diploma in Clinical Psychology (PGDCP). Admission to PGDCP requires passing the University Conducted Entry Test.",
+    "category": "departments_programs",
+    "tags": ["psychology", "bs", "mphil", "phd", "pgdcp", "social_sciences", "degree_levels", "entry_test_mandatory"]
+  },
+  {
+    "id": "dept_027",
+    "content": "SBBWU's Management Science department offers MS Management Science and PhD Management Science at the postgraduate level, with specializations in Finance, Human Resource Management, and Marketing. It is not offered as a standalone BS program; BBA is the related undergraduate offering.",
+    "category": "departments_programs",
+    "tags": ["management_science", "ms", "phd", "finance", "hr", "marketing", "social_sciences", "degree_levels", "postgraduate_only"]
+  },
+  {
+    "id": "dept_028",
+    "content": "SBBWU offers BS English under the Faculty of Arts and Humanities, currently only at the undergraduate level. Passing the University Conducted Entry Test is mandatory for admission.",
+    "category": "departments_programs",
+    "tags": ["english", "bs", "arts_humanities", "degree_levels", "entry_test_mandatory"]
+  },
+  {
+    "id": "dept_029",
+    "content": "SBBWU offers BS Home Economics under the Faculty of Arts and Humanities, with a specialization in Human Development and Family Studies, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["home_economics", "bs", "arts_humanities", "degree_levels"]
+  },
+  {
+    "id": "dept_030",
+    "content": "SBBWU's Pakistan Studies department offers BS Pakistan Studies (undergraduate) and M.Phil Pakistan Studies (postgraduate).",
+    "category": "departments_programs",
+    "tags": ["pakistan_studies", "bs", "mphil", "arts_humanities", "degree_levels"]
+  },
+  {
+    "id": "dept_031",
+    "content": "SBBWU offers BS History under the Faculty of Arts and Humanities, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["history", "bs", "arts_humanities", "degree_levels"]
+  },
+  {
+    "id": "dept_032",
+    "content": "SBBWU's Islamiyat department offers BS Islamiyat (undergraduate), M.Phil Islamiyat, and PhD Islamiyat (postgraduate).",
+    "category": "departments_programs",
+    "tags": ["islamiyat", "bs", "mphil", "phd", "arts_humanities", "degree_levels"]
+  },
+  {
+    "id": "dept_033",
+    "content": "SBBWU's Urdu department offers BS Urdu (undergraduate), M.Phil Urdu, and PhD Urdu (postgraduate).",
+    "category": "departments_programs",
+    "tags": ["urdu", "bs", "mphil", "phd", "arts_humanities", "degree_levels"]
+  },
+  {
+    "id": "dept_034",
+    "content": "SBBWU offers BS Art and Design under the Faculty of Arts and Humanities, with specializations in Textile Design, Fashion Design, Fine Arts, and Communication Design, currently only at the undergraduate level.",
+    "category": "departments_programs",
+    "tags": ["art_and_design", "bs", "arts_humanities", "degree_levels", "textile_design", "fashion_design", "fine_arts"]
+  },
+  {
+    "id": "dept_035",
+    "content": "SBBWU offers a Diploma in Development Studies Program under the Faculty of Arts and Humanities.",
+    "category": "departments_programs",
+    "tags": ["development_studies", "diploma", "arts_humanities", "degree_levels"]
+  }
+]

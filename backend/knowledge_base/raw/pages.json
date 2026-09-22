@@ -1,0 +1,23 @@
+[
+  {
+    "id": "social_001",
+    "content": "SBBWU's official Facebook page is the main page with 20,939+ likes, used for admissions announcements and updates.",
+    "category": "social_media",
+    "tags": ["facebook", "official_page", "admissions", "updates", "social_media_link"],
+    "url": "https://www.facebook.com/sbbwu/"
+  },
+  {
+    "id": "social_002",
+    "content": "SBBWU's official X (Twitter) account is run by the University Advancement Office (Media & Publication).",
+    "category": "social_media",
+    "tags": ["x", "twitter", "official_account", "university_advancement_office", "media_publication", "social_media_link"],
+    "url": "https://x.com/sbbwup"
+  },
+  {
+    "id": "social_003",
+    "content": "SBBWU's official website provides information on admissions, departments, and university history.",
+    "category": "social_media",
+    "tags": ["website", "official_website", "admissions", "departments", "history", "social_media_link"],
+    "url": "https://sbbwu.edu.pk/"
+  }
+]

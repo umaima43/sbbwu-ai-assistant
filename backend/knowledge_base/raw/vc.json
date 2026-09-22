@@ -1,0 +1,32 @@
+[
+{
+"id": "adm_1",
+"content": "Prof. Dr. Syeda Farhana Jahangir was the first Vice Chancellor of Shaheed Benazir Bhutto Women University (SBBWU), Peshawar. She served during the university's early establishment and founding period.",
+"category": "administration",
+"tags": ["first_vc", "vice_chancellor", "founding_vc", "university_history"]
+},
+{
+"id": "adm_2",
+"content": "Prof. Dr. Razia Sultana was the second Vice Chancellor of Shaheed Benazir Bhutto Women University (SBBWU), Peshawar. She served after the university's initial founding period and contributed to its administrative and academic development.",
+"category": "administration",
+"tags": ["second_vc", "vice_chancellor", "previous_vc", "university_history"]
+},
+{
+"id": "adm_3",
+"content": "Prof. Dr. Noor Jehan was the third Vice Chancellor of Shaheed Benazir Bhutto Women University (SBBWU), Peshawar. She served as Vice Chancellor during a later administrative period.",
+"category": "administration",
+"tags": ["third_vc", "vice_chancellor", "previous_vc", "university_history"]
+},
+{
+"id": "adm_4",
+"content": "Prof. Dr. Safia Ahmed was a former Vice Chancellor of Shaheed Benazir Bhutto Women University (SBBWU), Peshawar. She served as Vice Chancellor before the current university leadership.",
+"category": "administration",
+"tags": ["former_vc", "vice_chancellor", "previous_vc", "university_history"]
+},
+{
+"id": "adm_5",
+"content": "Prof. Dr. Farhat Amin is the current Vice Chancellor of Shaheed Benazir Bhutto Women University (SBBWU), Peshawar. She is the chief executive and academic head of the university and is responsible for overall administration, academic policies, and implementation of university rules and regulations.",
+"category": "administration",
+"tags": ["current_vc", "vice_chancellor", "academic_head", "university_leadership", "current_leadership"]
+}
+]

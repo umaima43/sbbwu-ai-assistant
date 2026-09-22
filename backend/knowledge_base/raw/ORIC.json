@@ -1,0 +1,74 @@
+[
+  {
+    "id": "oric_001",
+    "content": "The Office of Research, Innovation and Commercialization (ORIC-SBBWU) at Shaheed Benazir Bhutto Women University Peshawar works to cultivate a culture of academic inquiry, research, innovation, and practical application. ORIC aims to promote long-term sustainability through research and to support research activities that address societal challenges.",
+    "category": "oric_overview",
+    "tags": ["oric", "research", "innovation", "commercialization", "academic_research", "sbbwup"]
+  },
+  {
+    "id": "oric_002",
+    "content": "ORIC-SBBWU serves as a catalyst for advancing knowledge and addressing societal challenges through rigorous research endeavours. Its objective is to create an environment where groundbreaking research is encouraged and translated into tangible solutions that benefit local communities and broader society.",
+    "category": "oric_research",
+    "tags": ["oric", "research", "academic_inquiry", "knowledge", "societal_challenges", "research_solutions"]
+  },
+  {
+    "id": "oric_003",
+    "content": "ORIC-SBBWU promotes collaboration between academia, industry, and government sectors because such collaboration is considered important for ensuring that research outcomes have practical implications, contributing to national development goals and relevant Sustainable Development Goals (SDGs).",
+    "category": "oric_collaboration",
+    "tags": ["oric", "academia", "industry", "government", "collaboration", "sdgs", "national_development"]
+  },
+  {
+    "id": "oric_004",
+    "content": "ORIC-SBBWU works to bridge the gap between academia and industry by establishing joint research projects with industry partners, facilitating internships and industrial placements for students, and organizing industry-focused workshops and seminars.",
+    "category": "oric_industry_linkages",
+    "tags": ["oric", "industry", "academia_industry", "joint_research", "internships", "industrial_placements", "workshops", "seminars"]
+  },
+  {
+    "id": "oric_005",
+    "content": "ORIC-SBBWU works to enhance the research capabilities of faculty members, researchers, and students by providing resources, funding opportunities, and strategic guidance to support research activities and development.",
+    "category": "oric_research_support",
+    "tags": ["oric", "research_support", "faculty", "researchers", "students", "funding", "resources", "strategic_guidance"]
+  },
+  {
+    "id": "oric_006",
+    "content": "ORIC-SBBWU is committed to promoting innovation and entrepreneurship and to supporting technology transfer and commercialization of research. Its broader goal is to shape a future where research contributes to positive change and sustainable development.",
+    "category": "oric_innovation_commercialization",
+    "tags": ["oric", "innovation", "entrepreneurship", "technology_transfer", "commercialization", "sustainable_development"]
+  },
+  {
+    "id": "oric_007",
+    "content": "Ms. Zohra Shahzad is the Manager University Linkages at the Office of Research, Innovation and Commercialization (ORIC-SBBWU). Her listed email address is qazizohra2480@gmail.com and her phone number is 091-9224818.",
+    "category": "oric_staff",
+    "tags": ["oric", "staff", "zohra_shahzad", "manager", "university_linkages", "contact"]
+  },
+  {
+    "id": "oric_008",
+    "content": "Ms. Sana Jamil is the Deputy Director ORIC at Shaheed Benazir Bhutto Women University Peshawar. Her university email address is sanajamil@sbbwu.edu.pk and her phone number is 091-9224794.",
+    "category": "oric_staff",
+    "tags": ["oric", "staff", "sana_jamil", "deputy_director", "contact"]
+  },
+  {
+    "id": "oric_009",
+    "content": "Ms. Sadaf Ijaz is the Office Assistant at the Office of Research, Innovation and Commercialization (ORIC-SBBWU). The listed ORIC office email address is oric@sbbwu.edu.pk and the office phone number is 091-9224794.",
+    "category": "oric_staff",
+    "tags": ["oric", "staff", "sadaf_ijaz", "office_assistant", "contact"]
+  },
+  {
+    "id": "oric_010",
+    "content": "The Office of Research, Innovation and Commercialization (ORIC-SBBWU) is located at Shaheed Benazir Bhutto Women University, LARAMA, Charsadda Road, Peshawar.",
+    "category": "oric_location",
+    "tags": ["oric", "location", "address", "sbbwup", "larama", "charsadda_road", "peshawar"]
+  },
+  {
+    "id": "oric_011",
+    "content": "The main contact details listed for ORIC-SBBWU are phone number +92-91-9224794 and email address oric@sbbwu.edu.pk.",
+    "category": "oric_contact",
+    "tags": ["oric", "contact", "phone", "email", "oric_email", "oric_phone"]
+  },
+  {
+    "id": "oric_012",
+    "content": "ORIC-SBBWU can be contacted through its official ORIC website for further information and contact details.",
+    "category": "oric_website",
+    "tags": ["oric", "website", "official_website", "contact", "sbbwup"]
+  }
+]

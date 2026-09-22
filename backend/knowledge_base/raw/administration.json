@@ -1,0 +1,110 @@
+[
+  {
+    "id": "academic_section_001",
+    "content": "The Academic Section functions under the direction and control of the Registrar of the University and operates in accordance with the Khyber Pakhtunkhwa Universities Act 2012, Statutes, and Rules in force.",
+    "category": "academic_section",
+    "tags": ["overview", "administration", "governance"]
+  },
+  {
+    "id": "academic_section_002",
+    "content": "The Academic Section is responsible for formation of university authorities such as Senate, Syndicate, and Academic Council; formation of statutory bodies including Boards of Faculties, Boards of Studies, Affiliation Committee, Discipline Committee, Advanced Studies and Research Board, Finance and Planning Committee, and Selection Board; conduct of Senate and Academic Council meetings; processing appointments of Deans and Chairpersons; conducting elections for university bodies; framing and amendment of statutes and regulations; approval of academic schemes of study; notification of academic calendar including holidays and vacations; performance evaluation of faculty under Tenure Track System; and disbursement of laptops under government schemes.",
+    "category": "academic_section",
+    "tags": ["responsibilities", "governance", "academic_management"]
+  },
+  {
+    "id": "academic_section_003",
+    "content": "Ms. Fehmeeda Yasmin serves as Deputy Registrar in the Academic Section. Email: dracad@sbbwu.edu.pk, Phone: 091-9224708.",
+    "category": "academic_staff",
+    "tags": ["deputy_registrar", "contact", "staff"]
+  },
+  {
+    "id": "academic_section_004",
+    "content": "Ms. Sumayya Shahid serves as Assistant Registrar in the Academic Section. Email: sumayyashahid@sbbwu.edu.pk, Phone: 091-9224708.",
+    "category": "academic_staff",
+    "tags": ["assistant_registrar", "contact", "staff"]
+  },
+  {
+    "id": "affiliation_section_001",
+    "content": "The Affiliations & Monitoring Section of Shaheed Benazir Bhutto Women University, Peshawar is responsible for quality assurance, regulatory compliance, monitoring of affiliated colleges, and coordination with Higher Education Commission (HEC) and Higher Education Department. It ensures implementation of academic standards and manages affiliation, renewal, and inspection processes.",
+    "category": "affiliation_section",
+    "tags": ["overview", "quality_assurance", "monitoring"]
+  },
+  {
+    "id": "affiliation_section_002",
+    "content": "Affiliations & Monitoring Section contact details: Shaheed Benazir Bhutto Women University, Larama, Peshawar, Pakistan. Email: ar2.affiliations@sbbwu.edu.pk.",
+    "category": "affiliation_section",
+    "tags": ["contact", "address", "email"]
+  },
+  {
+    "id": "affiliation_section_003",
+    "content": "Affiliated colleges include Abaseen Foundation Degree College; Alamzeb Shaheed Government Girls College of Commerce & Management Peshawar; City District Government Degree College for Women Peshawar; Government City College Gulbahar Peshawar; Government Frontier College for Women Peshawar; and multiple other government and private colleges across Khyber Pakhtunkhwa.",
+    "category": "affiliated_colleges",
+    "tags": ["colleges", "list", "affiliation"]
+  },
+  {
+    "id": "affiliation_section_004",
+    "content": "Affiliations & Monitoring Section staff includes Tashfeen Zia (Deputy Registrar), Ayesha Maqsood (Assistant Registrar), Nagina Parveen (Office Assistant), Neelam Pari (Junior Clerk), and Brikhna (Junior Clerk). All can be contacted via ar2.affiliations@sbbwu.edu.pk or phone 091-9224723.",
+    "category": "affiliation_staff",
+    "tags": ["staff", "contact", "administration"]
+  },
+  {
+    "id": "curriculum_001",
+    "content": "The curriculum for undergraduate programs (Associate Degree and BS) is standardized and verified by respective university departments. It includes disciplines such as Botany, Chemistry, Computer Science, Economics, English, Geography, History, Islamiyat, Mathematics, Physics, Political Science, Statistics, Urdu, Zoology, Psychology, Home Economics, Microbiology, HPE, and others.",
+    "category": "curriculum",
+    "tags": ["undergraduate", "programs", "subjects"]
+  },
+  {
+    "id": "registrar_office_001",
+    "content": "The Registrar Office manages administrative communication and academic governance of the university.",
+    "category": "registrar_office",
+    "tags": ["administration", "office"]
+  },
+  {
+    "id": "registrar_office_002",
+    "content": "Registrar Office contact information: Email addresses include registrar@sbbwu.edu.pk and d.registrar@sbbwu.edu.pk. Phone: +92-91-9224721.",
+    "category": "registrar_office",
+    "tags": ["contact", "email", "phone"]
+  },
+  {
+    "id": "registrar_staff_001",
+    "content": "Ms. Amna Shaheen serves as Assistant Registrar in the Registrar Office. Email: establishment@sbbwu.edu.pk, Phone: +92 91 9224791.",
+    "category": "registrar_staff",
+    "tags": ["assistant_registrar", "contact", "staff"]
+  },
+  {
+    "id": "registrar_staff_002",
+    "content": "Ms. Fehmeeda Yasmin serves as Registrar. Email: registrar@sbbwu.edu.pk, Phone: 091-9224700.",
+    "category": "registrar_staff",
+    "tags": ["registrar", "contact", "leadership"]
+  },
+  {
+    "id": "student_affairs_001",
+    "content": "The Director Student Affairs oversees student-related academic and administrative matters at the university.",
+    "category": "student_affairs",
+    "tags": ["administration", "students"]
+  },
+  {
+    "id": "student_affairs_002",
+    "content": "Dr. Farhat Amin serves as Director Student Affairs. Email: bioinformatics@sbbwu.edu.pk, Phone: +92-91-9224790.",
+    "category": "student_affairs_staff",
+    "tags": ["director", "contact", "staff"]
+  },
+  {
+    "id": "vc_office_001",
+    "content": "The Vice Chancellor Office is responsible for overall academic and administrative leadership of the university.",
+    "category": "vc_office",
+    "tags": ["leadership", "administration"]
+  },
+  {
+    "id": "vc_office_002",
+    "content": "Prof. Dr. Farhat Amin serves  as current Vice Chancellor. Email: vc@sbbwu.edu.pk, Phone: 091-9224777.",
+    "category": "vc_office_staff",
+    "tags": ["vice_chancellor", "leadership", "contact"]
+  },
+  {
+    "id": "vc_office_003",
+    "content": "Vice Chancellor Office staff includes Miss Kopal (Assistant Research Investigator), Ms. Shehnaz (PS to VC), and Miss Hina Naz (PA to Vice Chancellor). All are contactable via 091-9224777.",
+    "category": "vc_office_staff",
+    "tags": ["staff", "administration", "support"]
+  }
+]

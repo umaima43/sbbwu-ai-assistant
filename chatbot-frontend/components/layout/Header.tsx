@@ -1,3 +1,4 @@
+
 "use client";
 
 import Image from "next/image";
@@ -139,16 +140,10 @@ export default function Header({ onMenuOpen }: HeaderProps) {
       }
     }
 
-    window.addEventListener(
-      "chatbot-user-changed",
-      handleUserChanged
-    );
+    window.addEventListener("chatbot-user-changed", handleUserChanged);
 
     return () => {
-      window.removeEventListener(
-        "chatbot-user-changed",
-        handleUserChanged
-      );
+      window.removeEventListener("chatbot-user-changed", handleUserChanged);
     };
   }, []);
 
@@ -158,24 +153,15 @@ export default function Header({ onMenuOpen }: HeaderProps) {
 
   useEffect(() => {
     function handleClickOutside(event: MouseEvent) {
-      if (
-        menuRef.current &&
-        !menuRef.current.contains(event.target as Node)
-      ) {
+      if (menuRef.current && !menuRef.current.contains(event.target as Node)) {
         setMenuOpen(false);
       }
     }
 
-    document.addEventListener(
-      "mousedown",
-      handleClickOutside
-    );
+    document.addEventListener("mousedown", handleClickOutside);
 
     return () => {
-      document.removeEventListener(
-        "mousedown",
-        handleClickOutside
-      );
+      document.removeEventListener("mousedown", handleClickOutside);
     };
   }, []);
 
@@ -189,9 +175,7 @@ export default function Header({ onMenuOpen }: HeaderProps) {
     setUser(null);
     setMenuOpen(false);
 
-    window.dispatchEvent(
-      new Event("chatbot-user-changed")
-    );
+    window.dispatchEvent(new Event("chatbot-user-changed"));
 
     window.location.href = "/auth";
   }
@@ -267,21 +251,19 @@ export default function Header({ onMenuOpen }: HeaderProps) {
             {/* More Button */}
             <button
               type="button"
-              onClick={() =>
-                setMenuOpen((prev) => !prev)
-              }
+              onClick={() => setMenuOpen((prev) => !prev)}
               aria-expanded={menuOpen}
               aria-haspopup="menu"
               className={`flex h-10 items-center gap-2 rounded-md border px-4 text-sm font-semibold transition-all duration-200 ${
                 menuOpen
-                  ? "border-[#A10D5A] bg-[#A10D5A] text-white shadow-sm shadow-[#A10D5A]/20"
-                  : "border-[#E7E1E4] text-gray-700 hover:border-[#A10D5A] hover:text-[#A10D5A] dark:border-white/15 dark:text-gray-200"
+                  ? "border-[#A10D5A] bg-white text-[#A10D5A] shadow-sm shadow-[#A10D5A]/15 dark:border-[#E85C9C] dark:bg-[#1B1420] dark:text-[#E85C9C]"
+                  : "border-[#A10D5A] bg-[#A10D5A] text-white shadow-sm shadow-[#A10D5A]/25 hover:border-[#A10D5A] hover:bg-white hover:text-[#A10D5A] hover:shadow-md hover:shadow-[#A10D5A]/15 dark:border-[#A10D5A] dark:bg-[#A10D5A] dark:text-white dark:hover:border-[#E85C9C] dark:hover:bg-[#1B1420] dark:hover:text-[#E85C9C]"
               }`}
             >
               {menuOpen ? (
-                <X size={16} />
+                <X size={16} strokeWidth={2.2} />
               ) : (
-                <Menu size={16} />
+                <Menu size={16} strokeWidth={2.2} />
               )}
 
               <span className="tracking-wide">
@@ -299,10 +281,7 @@ export default function Header({ onMenuOpen }: HeaderProps) {
                   <div className="flex flex-col items-center text-center">
 
                     <div className="mb-2 flex h-9 w-9 items-center justify-center rounded-xl bg-[#FCE4EF] text-[#A10D5A] dark:bg-[#A10D5A]/15 dark:text-[#E85C9C]">
-                      <Sparkles
-                        size={17}
-                        strokeWidth={2.1}
-                      />
+                      <Sparkles size={17} strokeWidth={2.1} />
                     </div>
 
                     <h3 className="text-[17px] font-bold tracking-tight text-[#A10D5A]">
@@ -320,84 +299,53 @@ export default function Header({ onMenuOpen }: HeaderProps) {
                 </div>
 
                 {/* Menu Items */}
-                <div
-                  className="menu-scroll max-h-[420px] overflow-y-auto"
-                  role="menu"
-                >
+                <div className="menu-scroll max-h-[420px] overflow-y-auto" role="menu">
 
-                  {menuItems.map(
-                    ({
-                      href,
-                      label,
-                      icon: Icon,
-                      desc,
-                    }) => (
-                      <Link
-                        key={href}
-                        href={href}
-                        role="menuitem"
-                        onClick={() => {
-                          setActiveItem(href);
+                  {menuItems.map(({ href, label, icon: Icon, desc }) => (
+                    <Link
+                      key={href}
+                      href={href}
+                      role="menuitem"
+                      onClick={() => {
+                        setActiveItem(href);
 
-                          setTimeout(() => {
-                            setMenuOpen(false);
-                          }, 150);
-                        }}
-                        className={`
-                          group
-                          flex
-                          items-center
-                          gap-4
-                          border-b
-                          border-[#F0EBEE]
-                          px-6
-                          py-4
-                          transition-all
-                          duration-200
-                          last:border-b-0
+                        setTimeout(() => {
+                          setMenuOpen(false);
+                        }, 150);
+                      }}
+                      className={`group flex items-center gap-4 border-b border-[#F0EBEE] px-6 py-4 transition-all duration-200 last:border-b-0 dark:border-white/5 ${
+                        activeItem === href
+                          ? "bg-[#FAF3F7] dark:bg-white/5"
+                          : "hover:bg-[#FAF3F7] dark:hover:bg-white/5"
+                      }`}
+                    >
 
-                          dark:border-white/5
+                      {/* Item Icon */}
+                      <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border border-[#F0DCE6] bg-[#FFF8FB] text-[#D0166F] transition-all duration-200 group-hover:border-[#A10D5A] group-hover:bg-[#FCE4EF] group-hover:text-[#7A0A45] dark:border-white/10 dark:bg-white/5 dark:text-[#E85C9C] dark:group-hover:border-[#A10D5A] dark:group-hover:bg-[#A10D5A]/10 dark:group-hover:text-[#E85C9C]">
+                        <Icon size={17} strokeWidth={2} />
+                      </div>
 
-                          ${
-                            activeItem === href
-                              ? "bg-[#FAF3F7] dark:bg-white/5"
-                              : "hover:bg-[#FAF3F7] dark:hover:bg-white/5"
-                          }
-                        `}
-                      >
+                      {/* Item Content */}
+                      <div className="min-w-0 flex-1">
 
-                        {/* Item Icon */}
-                        <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl border border-[#F0DCE6] bg-[#FFF8FB] text-[#D0166F] transition-all duration-200 group-hover:border-[#A10D5A] group-hover:bg-[#FCE4EF] group-hover:text-[#7A0A45] dark:border-white/10 dark:bg-white/5 dark:text-[#E85C9C] dark:group-hover:border-[#A10D5A] dark:group-hover:bg-[#A10D5A]/10 dark:group-hover:text-[#E85C9C]">
-                          <Icon
-                            size={17}
-                            strokeWidth={2}
-                          />
-                        </div>
+                        <h4 className="text-[14px] font-semibold text-[#1B1420] dark:text-white">
+                          {label}
+                        </h4>
 
+                        <p className="mt-0.5 truncate text-[12px] text-gray-500 dark:text-gray-400">
+                          {desc}
+                        </p>
 
-                        {/* Item Content */}
-                        <div className="min-w-0 flex-1">
+                      </div>
 
-                          <h4 className="text-[14px] font-semibold text-[#1B1420] dark:text-white">
-                            {label}
-                          </h4>
+                      {/* Arrow */}
+                      <ArrowUpRight
+                        size={15}
+                        className="shrink-0 text-gray-300 transition-all duration-200 group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-[#A10D5A] dark:text-gray-600"
+                      />
 
-                          <p className="mt-0.5 truncate text-[12px] text-gray-500 dark:text-gray-400">
-                            {desc}
-                          </p>
-
-                        </div>
-
-
-                        {/* Arrow */}
-                        <ArrowUpRight
-                          size={15}
-                          className="shrink-0 text-gray-300 transition-all duration-200 group-hover:-translate-y-0.5 group-hover:translate-x-0.5 group-hover:text-[#A10D5A] dark:text-gray-600"
-                        />
-
-                      </Link>
-                    )
-                  )}
+                    </Link>
+                  ))}
 
                 </div>
 
@@ -425,7 +373,6 @@ export default function Header({ onMenuOpen }: HeaderProps) {
 
           </div>
 
-
           {/* =================================================
               THEME BUTTON
           ================================================== */}
@@ -440,19 +387,18 @@ export default function Header({ onMenuOpen }: HeaderProps) {
                   : "light"
               )
             }
-            className="flex h-10 w-10 items-center justify-center rounded-md border border-[#E7E1E4] text-gray-600 transition-colors duration-200 hover:border-[#A10D5A] hover:text-[#A10D5A] dark:border-white/15 dark:text-gray-300 dark:hover:border-[#B98A2E] dark:hover:text-[#B98A2E]"
+            className="flex h-10 w-10 items-center justify-center rounded-md border border-[#A10D5A] bg-[#A10D5A] text-white shadow-sm shadow-[#A10D5A]/20 transition-all duration-200 hover:border-[#A10D5A] hover:bg-white hover:text-[#A10D5A] hover:shadow-md hover:shadow-[#A10D5A]/15 dark:border-[#A10D5A] dark:bg-[#A10D5A] dark:text-white dark:hover:border-[#E85C9C] dark:hover:bg-[#1B1420] dark:hover:text-[#E85C9C]"
           >
 
             {!mounted ? (
               <div className="h-4 w-4" />
             ) : resolvedTheme === "light" ? (
-              <Moon size={17} />
+              <Moon size={17} strokeWidth={2.2} />
             ) : (
-              <Sun size={17} />
+              <Sun size={17} strokeWidth={2.2} />
             )}
 
           </button>
-
 
           {/* =================================================
               LOGGED-IN USER
@@ -465,7 +411,6 @@ export default function Header({ onMenuOpen }: HeaderProps) {
               <div className="flex h-9 w-9 items-center justify-center rounded-full bg-[#FCE4EF] text-sm font-bold text-[#A10D5A] dark:bg-[#A10D5A]/15 dark:text-[#E85C9C]">
                 {userInitial}
               </div>
-
 
               {/* Name + Email */}
               <div className="max-w-[180px]">
@@ -482,21 +427,19 @@ export default function Header({ onMenuOpen }: HeaderProps) {
 
               </div>
 
-
               {/* Logout */}
-              <button
-                type="button"
-                onClick={handleLogout}
-                title="Logout"
-                aria-label="Logout"
-                className="flex h-9 w-9 items-center justify-center rounded-md border border-[#E7E1E4] text-gray-500 transition-colors hover:border-[#A10D5A] hover:text-[#A10D5A] dark:border-white/15 dark:text-gray-300 dark:hover:border-[#E85C9C] dark:hover:text-[#E85C9C]"
-              >
-                <LogOut size={16} />
-              </button>
+             <button 
+            type="button" 
+            onClick={handleLogout} 
+            title="Logout" 
+            aria-label="Logout" 
+            className="flex h-9 w-9 items-center justify-center rounded-md border border-[#A10D5A] bg-[#A10D5A] text-white shadow-sm shadow-[#A10D5A]/20 transition-all duration-200 hover:border-[#A10D5A] hover:bg-white hover:text-[#A10D5A] hover:shadow-md hover:shadow-[#A10D5A]/15 dark:border-[#A10D5A] dark:bg-[#A10D5A] dark:text-white dark:hover:border-[#E85C9C] dark:hover:bg-[#1B1420] dark:hover:text-[#E85C9C]"
+             >
+  <LogOut size={16} />
+</button>
 
             </div>
           )}
-
 
           {/* =================================================
               ONLINE STATUS

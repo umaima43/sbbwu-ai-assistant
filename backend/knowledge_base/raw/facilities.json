@@ -1,0 +1,206 @@
+[
+  {
+    "id": "fac_001",
+    "content": "SBBWU is ranked 1296th position worldwide in the Green Metric World University Ranking and is recognized as a Most Sustainable University.",
+    "category": "rankings",
+    "tags": ["ranking", "green_metric", "sustainability", "world_ranking"]
+  },
+  {
+    "id": "fac_002",
+    "content": "In the KP University Ranking 2026, SBBWU is ranked 15th among KP Universities and 7th among General Universities.",
+    "category": "rankings",
+    "tags": ["ranking", "kp_ranking", "khyber_pakhtunkhwa", "university_ranking"]
+  },
+  {
+    "id": "fac_003",
+    "content": "SBBWU is ranked 51st Worldwide and 1st in Pakistan in the WURI World University Rankings for Innovation, under the category of Student Mobility and Openness.",
+    "category": "rankings",
+    "tags": ["ranking", "wuri", "innovation", "student_mobility", "world_ranking", "pakistan_ranking"]
+  },
+  {
+    "id": "fac_004",
+    "content": "SBBWU has 24 Affiliated Public Sector Colleges in Khyber Pakhtunkhwa (KP).",
+    "category": "university_overview",
+    "tags": ["affiliated_colleges", "kp", "overview"]
+  },
+  {
+    "id": "fac_005",
+    "content": "SBBWU has 100 PhD faculty members on staff.",
+    "category": "university_overview",
+    "tags": ["faculty", "phd_faculty", "overview"]
+  },
+  {
+    "id": "fac_006",
+    "content": "SBBWU's Office of Research, Innovation and Commercialization (ORIC) is registered with HEC under Category 1.",
+    "category": "university_overview",
+    "tags": ["oric", "hec", "research", "category_1", "overview"]
+  },
+  {
+    "id": "fac_007",
+    "content": "SBBWU has 11 HEC-recognized journals available for students.",
+    "category": "university_overview",
+    "tags": ["journals", "hec_recognized", "research", "overview"]
+  },
+  {
+    "id": "fac_008",
+    "content": "SBBWU's research output includes national research projects worth Rs 57.708 Million and international research projects worth $8.87 Million.",
+    "category": "university_overview",
+    "tags": ["research", "research_funding", "national_projects", "international_projects"]
+  },
+  {
+    "id": "fac_009",
+    "content": "SBBWU offers the University Merit and Need Based Scholarship, awarded based on academic merit and financial need.",
+    "category": "scholarships",
+    "tags": ["scholarship", "merit_scholarship", "need_based", "financial_aid"]
+  },
+  {
+    "id": "fac_010",
+    "content": "SBBWU offers a Fee Waiver for Disabled Students, applicable if the student is also financially needy.",
+    "category": "scholarships",
+    "tags": ["scholarship", "fee_waiver", "disabled_students", "financial_aid"]
+  },
+  {
+    "id": "fac_011",
+    "content": "SBBWU offers a Sisters Fee Concession for students who have sisters also enrolled at the university.",
+    "category": "scholarships",
+    "tags": ["scholarship", "sisters_fee_concession", "financial_aid"]
+  },
+  {
+    "id": "fac_012",
+    "content": "SBBWU offers the Honhaar Scholarship, a merit-based scholarship program for students.",
+    "category": "scholarships",
+    "tags": ["scholarship", "honhaar", "merit_based", "financial_aid"]
+  },
+  {
+    "id": "fac_013",
+    "content": "SBBWU offers the Tabeer Scholarship Programme through the Pakistan Development Foundation, awarded via a Talent Test.",
+    "category": "scholarships",
+    "tags": ["scholarship", "tabeer", "pakistan_development_foundation", "talent_test", "financial_aid"]
+  },
+  {
+    "id": "fac_014",
+    "content": "SBBWU offers the KP Education Scholarship Programme to eligible students.",
+    "category": "scholarships",
+    "tags": ["scholarship", "kp_education", "financial_aid"]
+  },
+  {
+    "id": "fac_015",
+    "content": "SBBWU offers financial assistance through Pakistan Bait Ul Maal for needy students.",
+    "category": "scholarships",
+    "tags": ["scholarship", "bait_ul_maal", "financial_aid"]
+  },
+  {
+    "id": "fac_016",
+    "content": "SBBWU offers the Albert Einstein German Academic Refugee Initiative Fund (DAFI) scholarship for Afghan Refugee Students.",
+    "category": "scholarships",
+    "tags": ["scholarship", "dafi", "afghan_refugee", "financial_aid"]
+  },
+  {
+    "id": "fac_017",
+    "content": "SBBWU offers the HEC Undergraduate Scholarship Program for students from Gilgit-Baltistan, Ex-Tribal Areas, and affiliated institutions.",
+    "category": "scholarships",
+    "tags": ["scholarship", "hec_scholarship", "gilgit_baltistan", "tribal_areas", "financial_aid"]
+  },
+  {
+    "id": "fac_018",
+    "content": "SBBWU offers a Zakat Educational Stipend, disbursed through the Zakat fund for eligible students.",
+    "category": "scholarships",
+    "tags": ["scholarship", "zakat", "stipend", "financial_aid"]
+  },
+  {
+    "id": "fac_019",
+    "content": "SBBWU offers the Shohada Quota Scholarship for children of Police Officials and civil servants of the Provincial Government.",
+    "category": "scholarships",
+    "tags": ["scholarship", "shohada_quota", "police_officials", "civil_servants", "financial_aid"]
+  },
+  {
+    "id": "fac_020",
+    "content": "SBBWU runs the Eleanor Roosevelt Corner Peshawar (ERCP) as one of its student initiatives.",
+    "category": "student_initiatives",
+    "tags": ["initiative", "eleanor_roosevelt_corner", "ercp"]
+  },
+  {
+    "id": "fac_021",
+    "content": "SBBWU runs a Climate Change Cell (SBBWUP) as one of its student initiatives.",
+    "category": "student_initiatives",
+    "tags": ["initiative", "climate_change_cell", "sustainability"]
+  },
+  {
+    "id": "fac_022",
+    "content": "SBBWU runs a Youth Development Centre (YDC) as one of its student initiatives.",
+    "category": "student_initiatives",
+    "tags": ["initiative", "youth_development_centre", "ydc"]
+  },
+  {
+    "id": "fac_023",
+    "content": "SBBWU runs a Green Youth Movement Club (GYM) as one of its student initiatives.",
+    "category": "student_initiatives",
+    "tags": ["initiative", "green_youth_movement", "gym", "club"]
+  },
+  {
+    "id": "fac_024",
+    "content": "SBBWU runs the English Works Program, initiated by NELO Islamabad, as one of its student initiatives.",
+    "category": "student_initiatives",
+    "tags": ["initiative", "english_works_program", "nelo_islamabad"]
+  },
+  {
+    "id": "fac_025",
+    "content": "SBBWU has a Psycho Therapeutic Center offering on-campus psychological/therapeutic support for students.",
+    "category": "student_initiatives",
+    "tags": ["initiative", "psycho_therapeutic_center", "mental_health_support"]
+  },
+  {
+    "id": "fac_026",
+    "content": "SBBWU has a Seenat un Nabvi (PBUH) Corner as one of its student initiatives.",
+    "category": "student_initiatives",
+    "tags": ["initiative", "seenat_un_nabvi", "religious_corner"]
+  },
+  {
+    "id": "fac_027",
+    "content": "SBBWU provides Smart Classrooms for students as part of its campus initiatives.",
+    "category": "student_initiatives",
+    "tags": ["initiative", "smart_classrooms", "technology"]
+  },
+  {
+    "id": "fac_028",
+    "content": "SBBWU runs an Alumni Facilitation program offering support and engagement for alumni.",
+    "category": "student_initiatives",
+    "tags": ["initiative", "alumni_facilitation", "alumni"]
+  },
+  {
+    "id": "fac_029",
+    "content": "SBBWU's hostel is well-equipped with enhanced security for residents, including restricting male staff from entering the premises. No hostel resident is allowed to leave without permission of her father or guardian, other than on weekends.",
+    "category": "campus_facilities",
+    "tags": ["hostel", "facilities", "accommodation", "security", "residence"]
+  },
+  {
+    "id": "fac_030",
+    "content": "SBBWU's Central Library holds 18,000 books available to students.",
+    "category": "campus_facilities",
+    "tags": ["library", "central_library", "books", "facilities"]
+  },
+  {
+    "id": "fac_031",
+    "content": "SBBWU has a digital lab connected with the Higher Education Commission's (HEC) Digital Library, giving students access to e-journals and e-books.",
+    "category": "campus_facilities",
+    "tags": ["digital_library", "hec", "e-journals", "e-books", "facilities"]
+  },
+  {
+    "id": "fac_032",
+    "content": "SBBWU provides a transport facility for students within Peshawar, extended also to students from Charsadda, Tangi, and Nowshera (including Nowshera Cantt).",
+    "category": "campus_facilities",
+    "tags": ["transport", "facilities", "peshawar", "charsadda", "nowshera", "commute"]
+  },
+  {
+    "id": "fac_033",
+    "content": "SBBWU students participate in national-level sports including Cricket, Volleyball, Football, Judo, and Badminton, and the university also hosts various sports championships.",
+    "category": "campus_facilities",
+    "tags": ["sports", "facilities", "cricket", "volleyball", "football", "judo", "badminton", "championships"]
+  },
+  {
+    "id": "fac_034",
+    "content": "SBBWU provides campus-wide WiFi connectivity available to all students.",
+    "category": "campus_facilities",
+    "tags": ["wifi", "campus_connectivity", "facilities"]
+  }
+]

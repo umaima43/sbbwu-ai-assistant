@@ -1,0 +1,1116 @@
+[
+  {
+    "id": "chem_curr_sem1",
+    "content": "BS Chemistry Semester 1 courses: Functional English-I (EN-101, 3 Cr), Introduction to Pakistan Studies (PS-101, 2 Cr), Introductory Mechanics and Waves (PH-101, 2+1 Cr), Basic Mathematics/Calculus & Analytical Geometry-I (MA-100/101, 3 Cr), Introduction to Computing (CS-101, 3 Cr), Chemistry-I (CH-101, 3+1 Cr). Total credit hours: 18.",
+    "category": "chemistry",
+    "tags": ["curriculum", "semester_1", "chemistry", "credit_hours", "bs_chemistry"]
+  },
+  {
+    "id": "chem_curr_sem2",
+    "content": "BS Chemistry Semester 2 courses: Functional English-II (EN-102, 3 Cr), Islamic Studies/Ethics (IS-101, 2 Cr), Electricity, Magnetism & Thermal Physics (PH-103, 2+1 Cr), Mathematics-I/II (MA-101/102, 3 Cr), Introduction to Programming (CS-102, 3 Cr), Chemistry-II (CH-102, 3+1 Cr). Total credit hours: 18.",
+    "category": "chemistry",
+    "tags": ["curriculum", "semester_2", "chemistry", "credit_hours", "bs_chemistry"]
+  },
+  {
+    "id": "chem_curr_sem3",
+    "content": "BS Chemistry Semester 3 courses: Applied Statistics (ST-201, 3 Cr), English-III/Report Writing (EN-201, 3 Cr), Economics (EC-201, 3 Cr), Chemistry-III (CH-201, 3+1 Cr), Environmental Chemistry (CH-202, 4 Cr). Total credit hours: 17.",
+    "category": "chemistry",
+    "tags": ["curriculum", "semester_3", "chemistry", "credit_hours", "bs_chemistry"]
+  },
+  {
+    "id": "chem_curr_sem4",
+    "content": "BS Chemistry Semester 4 courses: Introductory Biology (BY-201, 3 Cr), Elective Social Sciences-I (GEN-400, 3 Cr), Chemistry-IV (CH-203, 3+1 Cr), Industrial Chemistry (CH-204, 4 Cr), Geo-tectonics (ES-202, 3 Cr). Total credit hours: 17.",
+    "category": "chemistry",
+    "tags": ["curriculum", "semester_4", "chemistry", "credit_hours", "bs_chemistry"]
+  },
+  {
+    "id": "chem_curr_sem5",
+    "content": "BS Chemistry Semester 5 courses: Analytical Chemistry-I (CH-301, 3+1 Cr), Inorganic Chemistry-I (CH-302, 3+1 Cr), Organic Chemistry-I (CH-303, 3+1 Cr), Physical Chemistry-I (CH-304, 3+1 Cr). Total credit hours: 16.",
+    "category": "chemistry",
+    "tags": ["curriculum", "semester_5", "chemistry", "credit_hours", "bs_chemistry"]
+  },
+  {
+    "id": "chem_curr_sem6",
+    "content": "BS Chemistry Semester 6 courses: Analytical Chemistry-II (CH-311, 3+1 Cr), Inorganic Chemistry-II (CH-312, 3+1 Cr), Organic Chemistry-II (CH-313, 3+1 Cr), Physical Chemistry-II (CH-314, 3+1 Cr). Total credit hours: 16.",
+    "category": "chemistry",
+    "tags": ["curriculum", "semester_6", "chemistry", "credit_hours", "bs_chemistry"]
+  },
+  {
+    "id": "chem_curr_sem7_8",
+    "content": "BS Chemistry Semesters 7-8: students choose one specialization track - Inorganic/Analytical Chemistry, Organic Chemistry, or Physical Chemistry - each with 10-14 courses (3 Cr each) plus lab/thesis option (3 Cr) per semester.",
+    "category": "chemistry",
+    "tags": ["curriculum", "semester_7", "semester_8", "chemistry", "specialization", "bs_chemistry"]
+  },
+
+  {
+    "id": "cs_curr_sem1",
+    "content": "BS Computer Science Semester 1 courses: Art & Humanities GER (AH-301, 2 Cr), Islamic Studies GER (ISL-301, 2 Cr), Quantitative Reasoning-I (MTH-401, 3 Cr), Functional English GER (ENG-303, 3 Cr), Programming Fundamentals (CSC-302, 4 Cr), Applications of ICT GER (CSC-308, 3 Cr). Total credit hours: 17.",
+    "category": "computer_science",
+    "tags": ["curriculum", "semester_1", "computer_science", "credit_hours", "bscs"]
+  },
+  {
+    "id": "cs_curr_sem2",
+    "content": "BS Computer Science Semester 2 courses: Natural Science GER (3 Cr), Expository Writing GER (ENG-304, 3 Cr), Linear Algebra (MTH-317, 3 Cr), Ideology & Constitution of Pakistan (PST-313, 2 Cr), Object Oriented Programming (CSC-312, 4 Cr), Digital Logic and Design (CSC-305, 3 Cr). Total credit hours: 18.",
+    "category": "computer_science",
+    "tags": ["curriculum", "semester_2", "computer_science", "credit_hours", "bscs"]
+  },
+  {
+    "id": "cs_curr_sem3",
+    "content": "BS Computer Science Semester 3 courses: Civics and Community Management (PSC-418, 2 Cr), Human Computer Interaction & Computer Graphics (CSC-417, 3 Cr), Multivariate Calculus (MTH-410, 3 Cr), Introduction to Entrepreneurship (MS-309, 2 Cr), Data Structures (CSC-423, 4 Cr), Computer Organization & Assembly Language (CSC-431, 3 Cr). Total credit hours: 17.",
+    "category": "computer_science",
+    "tags": ["curriculum", "semester_3", "computer_science", "credit_hours", "bscs"]
+  },
+  {
+    "id": "cs_curr_sem4",
+    "content": "BS Computer Science Semester 4 courses: Social Science GER (2 Cr), Quantitative Reasoning-II (MTH-402, 3 Cr), Computer Architecture (CSC-428, 3 Cr), Operating Systems (CSC-432, 3 Cr), Domain Elective-I Web Technologies (CSC-426, 3 Cr), Domain Elective-II Cyber Security (CSC-429, 3 Cr). Total credit hours: 17.",
+    "category": "computer_science",
+    "tags": ["curriculum", "semester_4", "computer_science", "credit_hours", "bscs"]
+  },
+  {
+    "id": "cs_curr_sem5",
+    "content": "BS Computer Science Semester 5 courses: Probability and Statistics (STATS-402, 3 Cr), Theory of Automata (CSC-502, 3 Cr), Database Systems (CSC-524, 4 Cr), Computer Networks (CSC-515, 3 Cr), Software Engineering (CSC-533, 3 Cr). Total credit hours: 16.",
+    "category": "computer_science",
+    "tags": ["curriculum", "semester_5", "computer_science", "credit_hours", "bscs"]
+  },
+  {
+    "id": "cs_curr_sem6",
+    "content": "BS Computer Science Semester 6 courses: Internship mandatory summer (CSC-698, 3 Cr), Basics of Marketing/Financial Accounting-I (MS-402/305, 3 Cr), Business Communication (ENG-402, 3 Cr), Parallel and Distributed Computing (CSC-517, 3 Cr), Information Security (CSC-521, 3 Cr), Artificial Intelligence (CSC-543, 3 Cr). Total credit hours: 18.",
+    "category": "computer_science",
+    "tags": ["curriculum", "semester_6", "computer_science", "credit_hours", "bscs"]
+  },
+  {
+    "id": "cs_curr_sem7",
+    "content": "BS Computer Science Semester 7 courses: Domain Elective III (3 Cr), Domain Elective IV (3 Cr), Compiler Construction (CSC-629, 3 Cr), Analysis of Algorithm (CSC-672, 3 Cr), Capstone Research Project (CSC-699, 3 Cr). Total credit hours: 15.",
+    "category": "computer_science",
+    "tags": ["curriculum", "semester_7", "computer_science", "credit_hours", "bscs"]
+  },
+  {
+    "id": "cs_curr_sem8",
+    "content": "BS Computer Science Semester 8 courses: Advance Database Management System (CSC-628, 3 Cr), Domain Elective V, VI, VII (3+3+3 Cr), Capstone Research Project continued (CSC-699, 3 Cr). Total credit hours: 15. Total BSCS program credit hours: 133.",
+    "category": "computer_science",
+    "tags": ["curriculum", "semester_8", "computer_science", "credit_hours", "bscs"]
+  },
+
+  {
+    "id": "math_curr_sem1",
+    "content": "BS Mathematics Semester 1 courses: Art & Humanities (AH-301, 2 Cr), Islamic Studies/Religious Studies (ISL-301, 2 Cr), Mechanics (PHY-301, 3 Cr), Functional English (ENG-303, 3 Cr), Calculus-I (MTH-311, 4 Cr), Elements of Set Theory and Mathematical Logic (MTH-312, 3 Cr). Total credit hours: 17.",
+    "category": "mathematics",
+    "tags": ["curriculum", "semester_1", "mathematics", "credit_hours", "bs_math"]
+  },
+  {
+    "id": "math_curr_sem2",
+    "content": "BS Mathematics Semester 2 courses: Social Science (2 Cr), Expository Writing (ENG-304, 3 Cr), Introductory Electricity & Magnetism (PHY-307, 3 Cr), Ideology and Constitution of Pakistan (PST-313, 2 Cr), Calculus-II (MTH-321, 4 Cr), Discrete Mathematics (MTH-322, 3 Cr). Total credit hours: 17.",
+    "category": "mathematics",
+    "tags": ["curriculum", "semester_2", "mathematics", "credit_hours", "bs_math"]
+  },
+  {
+    "id": "math_curr_sem3",
+    "content": "BS Mathematics Semester 3 courses: Quantitative Reasoning-I (MTH-401, 3 Cr), Applications of ICT (CSC-308, 3 Cr), Natural Science (3 Cr), Introduction to Entrepreneurship (MS-309, 2 Cr), Calculus-III (MTH-411, 4 Cr), Group Theory (MTH-412, 3 Cr). Total credit hours: 18.",
+    "category": "mathematics",
+    "tags": ["curriculum", "semester_3", "mathematics", "credit_hours", "bs_math"]
+  },
+  {
+    "id": "math_curr_sem4",
+    "content": "BS Mathematics Semester 4 courses: Civic and Community Engagement (PSC-418, 2-3 Cr), Quantitative Reasoning-II (MTH-402, 3 Cr), Computing Tools (MTH-421, 3 Cr), Linear Algebra (MTH-422, 3 Cr), Number Theory (MTH-423, 3 Cr), Probability Theory (STAT-403, 3 Cr). Total credit hours: 18.",
+    "category": "mathematics",
+    "tags": ["curriculum", "semester_4", "mathematics", "credit_hours", "bs_math"]
+  },
+  {
+    "id": "math_curr_sem5",
+    "content": "BS Mathematics Semester 5 courses: Topology (MTH-511, 3 Cr), Complex Analysis (MTH-512, 3 Cr), Ordinary Differential Equations (MTH-513, 3 Cr), Real Analysis-I (MTH-514, 3 Cr), Numerical Analysis (MTH-515, 3 Cr). Total credit hours: 15.",
+    "category": "mathematics",
+    "tags": ["curriculum", "semester_5", "mathematics", "credit_hours", "bs_math"]
+  },
+  {
+    "id": "math_curr_sem6",
+    "content": "BS Mathematics Semester 6 courses: Classical Mechanics (PHY-513, 3 Cr), Partial Differential Equations (MTH-521, 3 Cr), Real Analysis-II (MTH-522, 3 Cr), Rings and Fields (MTH-523, 3 Cr), Affine and Euclidean Geometry (MTH-524, 3 Cr). Total credit hours: 15.",
+    "category": "mathematics",
+    "tags": ["curriculum", "semester_6", "mathematics", "credit_hours", "bs_math"]
+  },
+  {
+    "id": "math_curr_sem7",
+    "content": "BS Mathematics Semester 7 courses: Internship mandatory (MTH-698, 3 Cr), Measure Theory-I (MTH-611, 3 Cr), Mathematical Methods (MTH-612, 3 Cr), Graph Theory elective (MTH-613, 3 Cr), Integral Equations (MTH-614, 3 Cr), Capstone Research Project/Optional (MTH-699/697, 3 Cr). Total credit hours: 18.",
+    "category": "mathematics",
+    "tags": ["curriculum", "semester_7", "mathematics", "credit_hours", "bs_math"]
+  },
+  {
+    "id": "math_curr_sem8",
+    "content": "BS Mathematics Semester 8 courses: Fluid Mechanics elective (MTH-621, 3 Cr), Measure Theory-II (MTH-622, 3 Cr), Mathematical Statistics (MTH-623, 3 Cr), Functional Analysis (MTH-624, 3 Cr), Capstone Research Project/Optional continued (MTH-699/697, 3 Cr). Total credit hours: 15. Electives include Differential Geometry, Optimization Theory, Algebraic Topology, Galois Theory, Quantum Mechanics, Dynamical Systems.",
+    "category": "mathematics",
+    "tags": ["curriculum", "semester_8", "mathematics", "credit_hours", "bs_math", "electives"]
+  },
+
+  {
+    "id": "phy_curr_sem1",
+    "content": "BS Physics Semester 1 courses: English-I (PH-311, 3 Cr), Calculus-I (PH-312, 3 Cr), Introduction to Computers (PH-313, 3 Cr), Mechanics (PH-314, 4 Cr), Sociology (PH-315, 3 Cr), Lab-I (PH-316, 1 Cr). Total credit hours: 17.",
+    "category": "physics",
+    "tags": ["curriculum", "semester_1", "physics", "credit_hours", "bs_physics"]
+  },
+  {
+    "id": "phy_curr_sem2",
+    "content": "BS Physics Semester 2 courses: English-II (PH-321, 3 Cr), Calculus-II (PH-322, 3 Cr), Electricity & Magnetism (PH-323, 4 Cr), Heat & Thermodynamics (PH-324, 3 Cr), Educational Psychology (PH-325, 3 Cr), Lab-II (PH-326, 1 Cr). Total credit hours: 17.",
+    "category": "physics",
+    "tags": ["curriculum", "semester_2", "physics", "credit_hours", "bs_physics"]
+  },
+  {
+    "id": "phy_curr_sem3",
+    "content": "BS Physics Semester 3 courses: English-III (PH-431, 3 Cr), Linear Algebra (PH-432, 3 Cr), Waves & Oscillations (PH-433, 3 Cr), Modern Physics (PH-434, 3 Cr), Computer Graphics-I (PH-435, 3 Cr), Lab-III (PH-436, 1 Cr). Total credit hours: 16.",
+    "category": "physics",
+    "tags": ["curriculum", "semester_3", "physics", "credit_hours", "bs_physics"]
+  },
+  {
+    "id": "phy_curr_sem4",
+    "content": "BS Physics Semester 4 courses: Islamic Studies (PH-441, 2 Cr), Statistics (PH-442, 3 Cr), Differential Equations (PH-443, 3 Cr), Programming Fundamentals (PH-444, 3 Cr), Optics (PH-445, 3 Cr), Introduction to Softwares (PH-446, 3 Cr), Lab-IV (PH-447, 1 Cr). Total credit hours: 18.",
+    "category": "physics",
+    "tags": ["curriculum", "semester_4", "physics", "credit_hours", "bs_physics"]
+  },
+  {
+    "id": "phy_curr_sem5",
+    "content": "BS Physics Semester 5 courses: Mathematical Methods of Physics-I (PH-551, 3 Cr), Electrodynamics-I (PH-552, 3 Cr), Classical Mechanics (PH-553, 3 Cr), Electronics-I (PH-554, 3 Cr), Pakistan Studies (PH-555, 2 Cr), Lab-V (PH-556, 2 Cr). Total credit hours: 16.",
+    "category": "physics",
+    "tags": ["curriculum", "semester_5", "physics", "credit_hours", "bs_physics"]
+  },
+  {
+    "id": "phy_curr_sem6",
+    "content": "BS Physics Semester 6 courses: Mathematical Methods of Physics-II (PH-561, 3 Cr), Quantum Mechanics-I (PH-562, 3 Cr), Electrodynamics-II (PH-563, 3 Cr), Electronics-II (PH-564, 3 Cr), Statistical Physics (PH-565, 3 Cr), Lab-VI (PH-566, 2 Cr). Total credit hours: 17.",
+    "category": "physics",
+    "tags": ["curriculum", "semester_6", "physics", "credit_hours", "bs_physics"]
+  },
+  {
+    "id": "phy_curr_sem7",
+    "content": "BS Physics Semester 7 courses: Quantum Mechanics-II (PH-671, 3 Cr), Atomic & Molecular Physics (PH-672, 3 Cr), Solid State Physics-I (PH-673, 3 Cr), Elective-I (3 Cr), Research Project/Elective (3 Cr), Lab-VII (PH-674, 2 Cr). Total credit hours: 17.",
+    "category": "physics",
+    "tags": ["curriculum", "semester_7", "physics", "credit_hours", "bs_physics"]
+  },
+  {
+    "id": "phy_curr_sem8",
+    "content": "BS Physics Semester 8 courses: Nuclear Physics (PH-681, 3 Cr), Solid State Physics-II (PH-682, 3 Cr), Elective-II, Elective-III (3+3 Cr), Research Project/Elective (3 Cr). Total credit hours: 15. Electives include Plasma Physics, Material Science, Laser Physics, Nanoscience & Nanotechnology.",
+    "category": "physics",
+    "tags": ["curriculum", "semester_8", "physics", "credit_hours", "bs_physics", "electives"]
+  },
+
+  {
+    "id": "stat_curr_sem1",
+    "content": "BS Statistics Semester 1 (Year 1) courses: Introduction to Statistics (STAT-306, 3 Cr), Basic Mathematics (MTH-303, 3 Cr), Introduction to ICT (CSC-301, 3 Cr), English-I (ENG-301, 3 Cr), Islamic Studies (ISL-320, 2 Cr), General-I (3 Cr). Total credit hours: 17.",
+    "category": "statistics",
+    "tags": ["curriculum", "semester_1", "statistics", "credit_hours", "bs_statistics"]
+  },
+  {
+    "id": "stat_curr_sem2",
+    "content": "BS Statistics Semester 2 courses: Fundamentals of Probability & Probability Distributions (STAT-307, 3 Cr), Basic Calculus (MTH-307, 3 Cr), English-II (ENG-302, 3 Cr), Pakistan Studies (PST-323, 2 Cr), General-II, General-III (3+3 Cr). Total credit hours: 17.",
+    "category": "statistics",
+    "tags": ["curriculum", "semester_2", "statistics", "credit_hours", "bs_statistics"]
+  },
+  {
+    "id": "stat_curr_sem3",
+    "content": "BS Statistics Semester 3 (Year 2) courses: Exploratory Data Analysis & Visualization (STAT-405, 3 Cr), Basic Statistical Inference (STAT-406, 3 Cr), Mathematics-II (MTH-305, 3 Cr), Programming Fundamentals (CSC-302, 3 Cr), English-III (ENG-410, 3 Cr), General-IV (3 Cr). Total credit hours: 18.",
+    "category": "statistics",
+    "tags": ["curriculum", "semester_3", "statistics", "credit_hours", "bs_statistics"]
+  },
+  {
+    "id": "stat_curr_sem4",
+    "content": "BS Statistics Semester 4 courses: Intro to Regression & ANOVA (STAT-407, 3 Cr), Statistical Packages (STAT-408, 3 Cr), Linear Algebra (STAT-409, 3 Cr), General-V, General-VI (3+3 Cr). Total credit hours: 15.",
+    "category": "statistics",
+    "tags": ["curriculum", "semester_4", "statistics", "credit_hours", "bs_statistics"]
+  },
+  {
+    "id": "stat_curr_sem5",
+    "content": "BS Statistics Semester 5 (Year 3) courses: Random Variables & Probability Distributions (STAT-511, 3 Cr), Sampling Fundamentals & Techniques (STAT-512, 3 Cr), Experimental Designs (STAT-513, 3 Cr), Regression Analysis (STAT-514, 3 Cr), Nonparametric Methods (STAT-506, 3 Cr). Total credit hours: 15.",
+    "category": "statistics",
+    "tags": ["curriculum", "semester_5", "statistics", "credit_hours", "bs_statistics"]
+  },
+  {
+    "id": "stat_curr_sem6",
+    "content": "BS Statistics Semester 6 courses: Continuous Probability Distributions (STAT-521, 3 Cr), Sampling Techniques & Survey Methods (STAT-522, 3 Cr), Experimental Designs & Analysis (STAT-523, 3 Cr), Econometrics (STAT-524, 3 Cr), Population Studies (STAT-507, 3 Cr). Total credit hours: 15.",
+    "category": "statistics",
+    "tags": ["curriculum", "semester_6", "statistics", "credit_hours", "bs_statistics"]
+  },
+  {
+    "id": "stat_curr_sem7",
+    "content": "BS Statistics Semester 7 (Year 4) courses: Statistical Inference: Estimation of Parameters (STAT-611, 3 Cr), Multivariate Methods (STAT-612, 3 Cr), Survey and Research Methods (STAT-606, 3 Cr), Elective-I, Elective-II (3+3 Cr). Total credit hours: 15.",
+    "category": "statistics",
+    "tags": ["curriculum", "semester_7", "statistics", "credit_hours", "bs_statistics"]
+  },
+  {
+    "id": "stat_curr_sem8",
+    "content": "BS Statistics Semester 8 courses: Statistical Inference: Hypothesis Testing (STAT-621, 3 Cr), Applied Multivariate Analysis (STAT-622, 3 Cr), Project/Internship + Optional (STAT-699, 6 Cr), Elective-III, Elective-IV (3+3 Cr). Total credit hours: 18. Electives include Time Series Analysis, Data Mining, Bayesian Analysis, Survival Analysis, Actuarial Statistics.",
+    "category": "statistics",
+    "tags": ["curriculum", "semester_8", "statistics", "credit_hours", "bs_statistics", "electives"]
+  },
+
+  {
+    "id": "zool_curr_sem1",
+    "content": "BS Zoology Semester 1 courses: English-I (ENG-301, 3 Cr), Islamic Studies (ISL-301, 2 Cr), Basic Calculus (MTH-307, 3 Cr), Plant Diversity (BOT-301, 3 Cr), Understanding Psychology (PSY-301, 3 Cr), Diversity of Invertebrates (ZOL-311, 4 Cr). Total credit hours: 18.",
+    "category": "zoology",
+    "tags": ["curriculum", "semester_1", "zoology", "credit_hours", "bs_zoology"]
+  },
+  {
+    "id": "zool_curr_sem2",
+    "content": "BS Zoology Semester 2 courses: English-II (ENG-302, 3 Cr), Pakistan Studies (PST-323, 2 Cr), Intro to ICT (CSC-301, 3 Cr), Plant Physiology (BOT-302, 3 Cr), Fundamental Inorganic Chemistry (CHM-301, 4 Cr), Diversity of Chordates (ZOL-321, 4 Cr). Total credit hours: 19.",
+    "category": "zoology",
+    "tags": ["curriculum", "semester_2", "zoology", "credit_hours", "bs_zoology"]
+  },
+  {
+    "id": "zool_curr_sem3",
+    "content": "BS Zoology Semester 3 courses: English-III (ENG-410, 3 Cr), Cell Biology (ZOL-411, 3 Cr), Systematic Botany & Cytogenetics (BOT-401, 3 Cr), Fundamental Organic Chemistry (CHM-401, 4 Cr), Principles of Sociology (PSC-404, 3 Cr), Principles of Biochemistry (BCHM-401, 3 Cr). Total credit hours: 19.",
+    "category": "zoology",
+    "tags": ["curriculum", "semester_3", "zoology", "credit_hours", "bs_zoology"]
+  },
+  {
+    "id": "zool_curr_sem4",
+    "content": "BS Zoology Semester 4 courses: Biostatistics (STAT-401, 3 Cr), Environmental Chemistry (CHM-402, 4 Cr), Fundamentals of Microbiology & Immunology (MB-421, 3 Cr), Anatomy & Physiology of Invertebrates (ZOL-421, 3 Cr), Principles of Biotechnology (ZOL-422, 3 Cr), Fundamentals of Bioinformatics (BI-409, 3 Cr). Total credit hours: 19.",
+    "category": "zoology",
+    "tags": ["curriculum", "semester_4", "zoology", "credit_hours", "bs_zoology"]
+  },
+  {
+    "id": "zool_curr_sem5",
+    "content": "BS Zoology Semester 5 courses: Anatomy & Physiology of Chordates (ZOL-511, 4 Cr), Economic Zoology (ZOL-512, 3 Cr), Molecular Biology (ZOL-513, 3 Cr), Evolutionary Biology (ZOL-514, 3 Cr), Animal Behavior (ZOL-515, 3 Cr). Total credit hours: 16.",
+    "category": "zoology",
+    "tags": ["curriculum", "semester_5", "zoology", "credit_hours", "bs_zoology"]
+  },
+  {
+    "id": "zool_curr_sem6",
+    "content": "BS Zoology Semester 6 courses: Biological Techniques (ZOL-521, 3 Cr), Research Planning & Report Writing (ZOL-522, 3 Cr), Animal Ecology (ZOL-523, 3 Cr), Principles of Genetics (ZOL-524, 3 Cr), Wildlife Conservation & Management (ZOL-525, 3 Cr). Total credit hours: 15.",
+    "category": "zoology",
+    "tags": ["curriculum", "semester_6", "zoology", "credit_hours", "bs_zoology"]
+  },
+  {
+    "id": "zool_curr_sem7",
+    "content": "BS Zoology Semester 7 courses: Zoogeography & Paleontology (ZOL-631, 3 Cr), Principles of Animal Systematics (ZOL-632, 3 Cr), Animal Reproductive Biology (ZOL-633, 3 Cr), Entomology (ZOL-634, 3 Cr), Optional Course-I (3 Cr), Optional Course-II/Thesis (3 Cr). Total credit hours: 18.",
+    "category": "zoology",
+    "tags": ["curriculum", "semester_7", "zoology", "credit_hours", "bs_zoology"]
+  },
+  {
+    "id": "zool_curr_sem8",
+    "content": "BS Zoology Semester 8 courses: Endocrinology (ZOL-641, 3 Cr), Developmental Biology (ZOL-642, 3 Cr), Optional Course-III, IV (3+3 Cr), Thesis/Internship (3 Cr). Total credit hours: 15. Total program credit hours: 138. Optional courses include Comparative Animal Physiology, Ornithology, Human Genetics, Wildlife of Pakistan.",
+    "category": "zoology",
+    "tags": ["curriculum", "semester_8", "zoology", "credit_hours", "bs_zoology", "electives"]
+  },
+
+  {
+    "id": "bot_curr_sem1",
+    "content": "BS Botany Semester 1 courses: Arts & Humanities (AH-301, 2 Cr), Islamic Studies/Ethics (ISL-315, 2 Cr), Cell Biology (BIT-303, 3 Cr), Functional English (ENG-303, 3 Cr), Plant Diversity (BOT-301, 3 Cr), Plant Nomenclature & Embryology (BOT-302, 4 Cr). Total credit hours: 17.",
+    "category": "botany",
+    "tags": ["curriculum", "semester_1", "botany", "credit_hours", "bs_botany"]
+  },
+  {
+    "id": "bot_curr_sem2",
+    "content": "BS Botany Semester 2 courses: Social Sciences (2 Cr), Expository Writing (ENG-304, 3 Cr), Bacteriology & Virology (MB-301, 3 Cr), Ideology & Constitution of Pakistan (PST-313, 2 Cr), Plant Anatomy (BOT-303, 3 Cr), Biodiversity & Conservation (BOT-304, 4 Cr). Total credit hours: 17.",
+    "category": "botany",
+    "tags": ["curriculum", "semester_2", "botany", "credit_hours", "bs_botany"]
+  },
+  {
+    "id": "bot_curr_sem3",
+    "content": "BS Botany Semester 3 courses: Quantitative Reasoning-I (MTH-401, 3 Cr), Applications of ICT (CSC-308, 3 Cr), Natural Science (3 Cr), Intro to Entrepreneurship (MS-309, 2 Cr), Plant Ecology (BOT-411, 4 Cr), Plant Biochemistry-I (BOT-412, 3 Cr). Total credit hours: 18.",
+    "category": "botany",
+    "tags": ["curriculum", "semester_3", "botany", "credit_hours", "bs_botany"]
+  },
+  {
+    "id": "bot_curr_sem4",
+    "content": "BS Botany Semester 4 courses: Civic & Community Engagement (PSC-418, 2 Cr), Quantitative Reasoning-II (MTH-402, 3 Cr), Genetics & Evolution (BOT-413, 4 Cr), Molecular Biology (BIT-413, 3 Cr), Environmental Pollution (BOT-414, 3 Cr), Plant Biochemistry-II (BOT-415, 3 Cr). Total credit hours: 18.",
+    "category": "botany",
+    "tags": ["curriculum", "semester_4", "botany", "credit_hours", "bs_botany"]
+  },
+  {
+    "id": "bot_curr_sem5",
+    "content": "BS Botany Semester 5 courses: Introduction to Bioinformatics (BI-401, 3 Cr), Biostatistics (STAT-401, 3 Cr), Diversity of Vascular Plants (BOT-521, 3 Cr), Plant Systematics (BOT-522, 4 Cr), Plant Physiology-I (BOT-523, 3 Cr). Total credit hours: 16.",
+    "category": "botany",
+    "tags": ["curriculum", "semester_5", "botany", "credit_hours", "bs_botany"]
+  },
+  {
+    "id": "bot_curr_sem6",
+    "content": "BS Botany Semester 6 courses: Research Planning & Writing (BOT-524, 3 Cr), Plant Physiology-II (BOT-525, 3 Cr), Climate Change & Vegetation (BOT-526, 3 Cr), Paleobotany (BOT-527, 3 Cr), Phycology & Bryology (BOT-528, 3 Cr), Plant Interactions with Microbes & Insects (BOT-529, 3 Cr). Total credit hours: 18.",
+    "category": "botany",
+    "tags": ["curriculum", "semester_6", "botany", "credit_hours", "bs_botany"]
+  },
+  {
+    "id": "bot_curr_sem7",
+    "content": "BS Botany Semester 7 courses: Internship mandatory (BOT-698, 3 Cr), Mycology (BOT-631, 3 Cr), Plant Pathology (BOT-632, 3 Cr), Elective-I (3 Cr), Capstone Research Project (BOT-697, 3 Cr). Total credit hours: 15.",
+    "category": "botany",
+    "tags": ["curriculum", "semester_7", "botany", "credit_hours", "bs_botany"]
+  },
+  {
+    "id": "bot_curr_sem8",
+    "content": "BS Botany Semester 8 courses: Ethnobotany (BOT-641, 3 Cr), Medicinal Plants (BOT-642, 3 Cr), Applied Botany (BOT-643, 3 Cr), Elective-II (3 Cr), Capstone Research Project continued (BOT-697, 3 Cr). Total credit hours: 15. Total program credit hours: 134. Electives: DNA Recombinant Technology, Plant Tissue Culture, Biofuel Technology.",
+    "category": "botany",
+    "tags": ["curriculum", "semester_8", "botany", "credit_hours", "bs_botany", "electives"]
+  },
+
+  {
+    "id": "mb_curr_sem1",
+    "content": "BS Microbiology Semester 1 courses: English-I (ENG-301, 3 Cr), Islamic Studies (ISL-301, 2 Cr), Basic Calculus (MTH-307, 3 Cr), Introduction to Microbiology (MB-301, 3 Cr), Biodiversity of Animal Life (ZOL-302, 3 Cr), General Chemistry (3 Cr). Total credit hours: 17.",
+    "category": "microbiology",
+    "tags": ["curriculum", "semester_1", "microbiology", "credit_hours", "bs_microbiology"]
+  },
+  {
+    "id": "mb_curr_sem2",
+    "content": "BS Microbiology Semester 2 courses: English-II (ENG-302, 3 Cr), Pakistan Studies (PST-323, 2 Cr), Fundamentals of Microbiology (MB-302, 4 Cr), Human Physiology (MB-303, 3 Cr), Intro to ICT (CSC-301, 3 Cr), Biochemistry (BCHM-321, 3 Cr). Total credit hours: 18.",
+    "category": "microbiology",
+    "tags": ["curriculum", "semester_2", "microbiology", "credit_hours", "bs_microbiology"]
+  },
+  {
+    "id": "mb_curr_sem3",
+    "content": "BS Microbiology Semester 3 courses: Ecology & Ecosystem (MB-401, 3 Cr), English-III (ENG-410, 3 Cr), Biostatistics (STAT-404, 3 Cr), Cell Biology (MB-402, 3 Cr), Microbial Taxonomy (MB-403, 3 Cr), Biodiversity of Plants (MB-404, 3 Cr). Total credit hours: 18.",
+    "category": "microbiology",
+    "tags": ["curriculum", "semester_3", "microbiology", "credit_hours", "bs_microbiology"]
+  },
+  {
+    "id": "mb_curr_sem4",
+    "content": "BS Microbiology Semester 4 courses: Biosafety, Bioethics & Risk Management (MB-405, 3 Cr), General Virology (MB-406, 4 Cr), Biotechnology (MB-407, 3 Cr), Mycology (MB-408, 4 Cr), Molecular Biology (MB-409, 3 Cr). Total credit hours: 17.",
+    "category": "microbiology",
+    "tags": ["curriculum", "semester_4", "microbiology", "credit_hours", "bs_microbiology"]
+  },
+  {
+    "id": "mb_curr_sem5",
+    "content": "BS Microbiology Semester 5 courses: Microbial Metabolism (MB-501, 3 Cr), Food Microbiology (MB-502, 3 Cr), General Immunology (MB-503, 4 Cr), Soil Microbiology (MB-504, 3 Cr), Clinical Bacteriology (MB-505, 3 Cr). Total credit hours: 16.",
+    "category": "microbiology",
+    "tags": ["curriculum", "semester_5", "microbiology", "credit_hours", "bs_microbiology"]
+  },
+  {
+    "id": "mb_curr_sem6",
+    "content": "BS Microbiology Semester 6 courses: Bioinformatics & Protein Structure (MB-506, 3 Cr), Microbial Genetics (MB-507, 3 Cr), Medical Microbiology (MB-508, 3 Cr), Microbial Physiology (MB-509, 3 Cr), Genetic Engineering (MB-510, 3 Cr). Total credit hours: 15.",
+    "category": "microbiology",
+    "tags": ["curriculum", "semester_6", "microbiology", "credit_hours", "bs_microbiology"]
+  },
+  {
+    "id": "mb_curr_sem7",
+    "content": "BS Microbiology Semester 7 courses: Research Methodology (MB-601, 3 Cr), Industrial Microbiology (MB-602, 3 Cr), Molecular Mechanism of Antimicrobial Drugs (MB-603, 3 Cr), Elective I (3 Cr), Environmental Microbiology & Public Health (MB-605, 3 Cr), Elective II (3 Cr). Total credit hours: 18.",
+    "category": "microbiology",
+    "tags": ["curriculum", "semester_7", "microbiology", "credit_hours", "bs_microbiology"]
+  },
+  {
+    "id": "mb_curr_sem8",
+    "content": "BS Microbiology Semester 8 courses: Veterinary Microbiology (MB-607, 3 Cr), Elective III, IV (3+3 Cr), Research/Internship + 1 course (MB-699/698, 6 Cr). Total credit hours: 15. Total program credit hours: 134. Electives include Food & Dairy Microbiology, Diagnostic Virology, Epidemiology.",
+    "category": "microbiology",
+    "tags": ["curriculum", "semester_8", "microbiology", "credit_hours", "bs_microbiology", "electives"]
+  },
+
+  {
+    "id": "bchm_curr_sem1",
+    "content": "BS Biochemistry Semester 1 courses: English-I (3 Cr), Pakistan Studies (2 Cr), Mathematics/Calculus (3 Cr), Social Science I (3 Cr), Inorganic Chemistry (3 Cr), Introductory Biochemistry (BCHM301, 4 Cr). Total credit hours: 18.",
+    "category": "biochemistry",
+    "tags": ["curriculum", "semester_1", "biochemistry", "credit_hours", "bs_biochemistry"]
+  },
+  {
+    "id": "bchm_curr_sem2",
+    "content": "BS Biochemistry Semester 2 courses: English-II (3 Cr), Islamic Studies (2 Cr), Organic Chemistry (3 Cr), Intro to ICT (CSC301, 3 Cr), Cell Biology (BCHM302, 3 Cr), Carbohydrates & Lipids (BCHM303, 4 Cr). Total credit hours: 18.",
+    "category": "biochemistry",
+    "tags": ["curriculum", "semester_2", "biochemistry", "credit_hours", "bs_biochemistry"]
+  },
+  {
+    "id": "bchm_curr_sem3",
+    "content": "BS Biochemistry Semester 3 courses: English-III Writing & Communication (3 Cr), Social Science II (3 Cr), Amino Acids & Proteins (BCHM401, 4 Cr), Physical Chemistry (3 Cr), Biosafety & Ethics (BCHM411, 2 Cr), Fundamentals of Genetics (BCHM402, 3 Cr). Total credit hours: 18.",
+    "category": "biochemistry",
+    "tags": ["curriculum", "semester_3", "biochemistry", "credit_hours", "bs_biochemistry"]
+  },
+  {
+    "id": "bchm_curr_sem4",
+    "content": "BS Biochemistry Semester 4 courses: Human Physiology (BCHM403, 3 Cr), Biophysics/Analytical Chemistry (3 Cr), Microbiology (4 Cr), Enzymes (BCHM404, 3 Cr), Bioenergetics (BCHM412, 2 Cr). Total credit hours: 15.",
+    "category": "biochemistry",
+    "tags": ["curriculum", "semester_4", "biochemistry", "credit_hours", "bs_biochemistry"]
+  },
+  {
+    "id": "bchm_curr_sem5",
+    "content": "BS Biochemistry Semester 5 courses: Metabolism I (BCHM501, ~4 Cr), Molecular Biology (BCHM502, 3 Cr), Biochemical Techniques (BCHM511, 3 Cr), Immunology (BCHM512, 3 Cr), Plant Biochemistry (BCHM513, 3 Cr), Biotechnology (BCHM514, 3 Cr). Total credit hours: 16.",
+    "category": "biochemistry",
+    "tags": ["curriculum", "semester_5", "biochemistry", "credit_hours", "bs_biochemistry"]
+  },
+  {
+    "id": "bchm_curr_sem6",
+    "content": "BS Biochemistry Semester 6 courses: Clinical Biochemistry (BCHM515, 3 Cr), Methods in Molecular Biology (BCHM516, 3 Cr), Bioinformatics (3 Cr), Metabolism II (BCHM503, 3 Cr), Biostatistics (3 Cr), Industrial Biochemistry (BCHM517, 3 Cr). Total credit hours: 18.",
+    "category": "biochemistry",
+    "tags": ["curriculum", "semester_6", "biochemistry", "credit_hours", "bs_biochemistry"]
+  },
+  {
+    "id": "bchm_curr_sem7",
+    "content": "BS Biochemistry Semester 7 courses: Research Planning & Report Writing / English-IV (BCHM611, 3 Cr), Biomembranes & Cell Signaling (BCHM612, 3 Cr), Marketing & Management / Social Sciences-III (3 Cr), Vitamins & Hormones (BCHM613, 3 Cr), Nutritional Biochemistry (BCHM614, 3 Cr), Research/Internship/Elective (BCHM699/689, 3 Cr). Total credit hours: 18.",
+    "category": "biochemistry",
+    "tags": ["curriculum", "semester_7", "biochemistry", "credit_hours", "bs_biochemistry"]
+  },
+  {
+    "id": "bchm_curr_sem8",
+    "content": "BS Biochemistry Semester 8 courses: Current Trends in Biochemistry (BCHM615, 3 Cr), Elective III (3 Cr), Elective IV (3 Cr), Research/Internship + 1 course (BCHM699/698, 6 Cr). Total credit hours: 15. Total program credit hours: 133. Electives include Cancer Biology, Genomics, Proteomics, Pharmacology, Toxicology.",
+    "category": "biochemistry",
+    "tags": ["curriculum", "semester_8", "biochemistry", "credit_hours", "bs_biochemistry", "electives"]
+  },
+
+  {
+    "id": "eco_curr_sem1",
+    "content": "BS Economics Semester 1 courses: English-I (ENG-301, 3 Cr), Principles of Microeconomics (ECO-302, 3 Cr), Islamic Studies/Ethics (ISL-301, 2 Cr), Mathematics I (MTH-304, 3 Cr), Intro to ICT (CSC-301, 3 Cr), Principles of Sociology Gen I (PSC-404, 3 Cr). Total credit hours: 17.",
+    "category": "economics",
+    "tags": ["curriculum", "semester_1", "economics", "credit_hours", "bs_economics"]
+  },
+  {
+    "id": "eco_curr_sem2",
+    "content": "BS Economics Semester 2 courses: English-II (ENG-302, 3 Cr), Pakistan Studies (PST-323, 2 Cr), Principles of Macroeconomics (ECO-303, 3 Cr), Descriptive Statistics (STAT-302, 3 Cr), Foundation of Education Gen II (EDU-506, 3 Cr), Understanding Psychology Gen III (PSY-301, 3 Cr). Total credit hours: 17.",
+    "category": "economics",
+    "tags": ["curriculum", "semester_2", "economics", "credit_hours", "bs_economics"]
+  },
+  {
+    "id": "eco_curr_sem3",
+    "content": "BS Economics Semester 3 courses: English-III (ENG-410, 3 Cr), Intermediate Microeconomics (ECO-404, 3 Cr), Mathematics II (MTH-305, 3 Cr), Basic Concepts in Political Science Gen IV (PSC-401, 3 Cr), Introduction to Law Gen V (LW-401, 3 Cr), Basic Concepts in International Relations Gen VI (PSC-402, 3 Cr). Total credit hours: 18.",
+    "category": "economics",
+    "tags": ["curriculum", "semester_3", "economics", "credit_hours", "bs_economics"]
+  },
+  {
+    "id": "eco_curr_sem4",
+    "content": "BS Economics Semester 4 courses: Introduction to Business (MS-401, 3 Cr), Intermediate Macroeconomics (ECO-406, 3 Cr), Inferential Statistics (STAT-311, 3 Cr), Issues in World Economy (ECO-417, 3 Cr), Financial Accounting Gen VII (MS-411, 3 Cr), Introduction to Management Gen VIII (MS-404, 3 Cr). Total credit hours: 18.",
+    "category": "economics",
+    "tags": ["curriculum", "semester_4", "economics", "credit_hours", "bs_economics"]
+  },
+  {
+    "id": "eco_curr_sem5",
+    "content": "BS Economics Semester 5 courses: Mathematical Economics (ECO-507, 3 Cr), Econometrics I (ECO-508, 3 Cr), Microeconomic Theory (ECO-509, 3 Cr), Managerial Economics (ECO-510, 3 Cr), Public Finance (ECO-511, 3 Cr), Optional 1 e.g. Development Policy (3 Cr). Total credit hours: 18.",
+    "category": "economics",
+    "tags": ["curriculum", "semester_5", "economics", "credit_hours", "bs_economics"]
+  },
+  {
+    "id": "eco_curr_sem6",
+    "content": "BS Economics Semester 6 courses: Macroeconomic Theory (ECO-512, 3 Cr), International Trade Theory (ECO-518, 3 Cr), Development Economics (ECO-514, 3 Cr), Monetary Economics (ECO-516, 3 Cr), Research Methodology (ECO-521, 3 Cr). Total credit hours: 15.",
+    "category": "economics",
+    "tags": ["curriculum", "semester_6", "economics", "credit_hours", "bs_economics"]
+  },
+  {
+    "id": "eco_curr_sem7",
+    "content": "BS Economics Semester 7 courses: Econometrics-II (ECO-613, 3 Cr), International Trade in Practice (ECO-619, 3 Cr), Islamic Economics (ECO-615, 3 Cr), Optional 2 Entrepreneurial Economics (3 Cr), Optional 3 Financial Institutions & Markets (3 Cr). Total credit hours: 15.",
+    "category": "economics",
+    "tags": ["curriculum", "semester_7", "economics", "credit_hours", "bs_economics"]
+  },
+  {
+    "id": "eco_curr_sem8",
+    "content": "BS Economics Semester 8 courses: General Equilibrium & Welfare Economics (ECO-625, 3 Cr), Economic Growth/Regional Economics (ECO-622/36, 3 Cr), Major Issues in Pakistan Economy (ECO-620, 3 Cr), Optional 4/Research Project/Thesis (ECO-699, 3 Cr), Optional 5 (3 Cr). Total credit hours: 15. Total program: 133 credit hours. Minimum CGPA 2.5 required for degree.",
+    "category": "economics",
+    "tags": ["curriculum", "semester_8", "economics", "credit_hours", "bs_economics", "electives"]
+  },
+
+  {
+    "id": "polsci_curr_sem1",
+    "content": "BS Political Science Semester 1 courses: English-I (3 Cr), Islamic Studies (3 Cr), Introduction to Political Science-I (3 Cr), Mathematics-I (3 Cr), General-I (3 Cr), General-II (3 Cr). Total credit hours: 18.",
+    "category": "political_science",
+    "tags": ["curriculum", "semester_1", "political_science", "credit_hours", "bs_political_science"]
+  },
+  {
+    "id": "polsci_curr_sem2",
+    "content": "BS Political Science Semester 2 courses: English-II (3 Cr), Pakistan Studies (3 Cr), Introduction to Political Science-II (3 Cr), Introduction to Political Science-III (3 Cr), General-III (3 Cr), General-IV (3 Cr). Total credit hours: 18.",
+    "category": "political_science",
+    "tags": ["curriculum", "semester_2", "political_science", "credit_hours", "bs_political_science"]
+  },
+  {
+    "id": "polsci_curr_sem3",
+    "content": "BS Political Science Semester 3 courses: English-III (3 Cr), Introduction to Basics in Computer (3 Cr), Comparative Governments Developed (3 Cr), General-V (3 Cr), General-VI (3 Cr). Total credit hours: 15.",
+    "category": "political_science",
+    "tags": ["curriculum", "semester_3", "political_science", "credit_hours", "bs_political_science"]
+  },
+  {
+    "id": "polsci_curr_sem4",
+    "content": "BS Political Science Semester 4 courses: English-IV (3 Cr), Comparative Governments Developing (3 Cr), Government and Politics in Pakistan-I (3 Cr), International Relations: Concepts and Theories (3 Cr), General-VII (3 Cr). Total credit hours: 15.",
+    "category": "political_science",
+    "tags": ["curriculum", "semester_4", "political_science", "credit_hours", "bs_political_science"]
+  },
+  {
+    "id": "polsci_curr_sem5",
+    "content": "BS Political Science Semester 5 courses: Western Political Philosophy-I (3 Cr), Muslim Political Philosophy-I (3 Cr), Developmental Politics-I (3 Cr), Diplomacy/Public Administration (3 Cr), History of International Relations (3 Cr), International Law-I (3 Cr). Total credit hours: 18.",
+    "category": "political_science",
+    "tags": ["curriculum", "semester_5", "political_science", "credit_hours", "bs_political_science"]
+  },
+  {
+    "id": "polsci_curr_sem6",
+    "content": "BS Political Science Semester 6 courses: Western Political Philosophy-II (3 Cr), Muslim Political Philosophy-II (3 Cr), Developmental Politics-II (3 Cr), Foreign Policy Analysis (3 Cr), Introduction to Local Government (3 Cr), International Law-II (3 Cr). Total credit hours: 18.",
+    "category": "political_science",
+    "tags": ["curriculum", "semester_6", "political_science", "credit_hours", "bs_political_science"]
+  },
+  {
+    "id": "polsci_curr_sem7",
+    "content": "BS Political Science Semester 7 courses: Research Methodology (3 Cr), Women Empowerment in Pakistan/Conflict Resolution (3 Cr), Elective-I Govt. & Politics in Pakistan-II (3 Cr), Elective-II Local Government in Pakistan (3 Cr), Elective-III Foreign Policies of UK, USA & China (3 Cr). Total credit hours: 15.",
+    "category": "political_science",
+    "tags": ["curriculum", "semester_7", "political_science", "credit_hours", "bs_political_science"]
+  },
+  {
+    "id": "polsci_curr_sem8",
+    "content": "BS Political Science Semester 8 courses: Political Economy of Pakistan (3 Cr), Analysis of Foreign Policy of Pakistan (3 Cr), Regional and International Organizations (3 Cr), Elective-IV Constitutional Development in Pakistan (3 Cr), Research Report/Internship (3 Cr). Total credit hours: 15. Total program: 132 credit hours.",
+    "category": "political_science",
+    "tags": ["curriculum", "semester_8", "political_science", "credit_hours", "bs_political_science"]
+  },
+
+  {
+    "id": "llb_curr_sem1",
+    "content": "LLB Semester 1 (5-Year program) courses: Arts & Humanities, Islamic Studies, Introduction to Political Science, Functional English, Introduction to Law, Islamic Jurisprudence-I. Total credit hours: 16.",
+    "category": "law",
+    "tags": ["curriculum", "semester_1", "law", "credit_hours", "llb"]
+  },
+  {
+    "id": "llb_curr_sem2",
+    "content": "LLB Semester 2 courses: Social Science, Expository Writing, Intro to Economics, Ideology & Constitution of Pakistan, Islamic Jurisprudence-II, Legal System of Pakistan. Total credit hours: 16.",
+    "category": "law",
+    "tags": ["curriculum", "semester_2", "law", "credit_hours", "llb"]
+  },
+  {
+    "id": "llb_curr_sem3",
+    "content": "LLB Semester 3 courses: Quantitative Reasoning-I, ICT Applications, Natural Science, Entrepreneurship, Jurisprudence-I, Law of Contract-I. Total credit hours: 17.",
+    "category": "law",
+    "tags": ["curriculum", "semester_3", "law", "credit_hours", "llb"]
+  },
+  {
+    "id": "llb_curr_sem4",
+    "content": "LLB Semester 4 courses: Civic & Community Engagement, Quantitative Reasoning-II, Jurisprudence-II, Law of Contract-II, Constitutional Law-I, Human Rights Law. Total credit hours: 17.",
+    "category": "law",
+    "tags": ["curriculum", "semester_4", "law", "credit_hours", "llb"]
+  },
+  {
+    "id": "llb_curr_sem5",
+    "content": "LLB Semester 5 courses: Constitutional Development in Pakistan, Law of Property, Islamic Personal Law-I, Constitutional Law-II, Criminal Law-I, Law of Torts. Total credit hours: 18.",
+    "category": "law",
+    "tags": ["curriculum", "semester_5", "law", "credit_hours", "llb"]
+  },
+  {
+    "id": "llb_curr_sem6",
+    "content": "LLB Semester 6 courses: Labor Laws, Criminal Law-II, Islamic Personal Law-II, Law of Business Organizations, Land Laws, Alternate Dispute Resolution. Total credit hours: 18.",
+    "category": "law",
+    "tags": ["curriculum", "semester_6", "law", "credit_hours", "llb"]
+  },
+  {
+    "id": "llb_curr_sem7",
+    "content": "LLB Semester 7 courses: Public International Law-I, Equity & Specific Relief Act, Civil Procedure-I, Criminal Procedure-I, Law of Evidence-I, Legal Drafting-I. Total credit hours: 18.",
+    "category": "law",
+    "tags": ["curriculum", "semester_7", "law", "credit_hours", "llb"]
+  },
+  {
+    "id": "llb_curr_sem8",
+    "content": "LLB Semester 8 courses: Law of Evidence-II, Public International Law-II, Criminal Procedure-II, Civil Procedure-II, Legal Drafting-II, Election Laws. Total credit hours: 18.",
+    "category": "law",
+    "tags": ["curriculum", "semester_8", "law", "credit_hours", "llb"]
+  },
+  {
+    "id": "llb_curr_sem9",
+    "content": "LLB Semester 9 courses: Internship compulsory, Environmental Laws & Policies, Research Methods, Moot Cases & Professional Ethics, Optional-I, Optional-II. Total credit hours: 18.",
+    "category": "law",
+    "tags": ["curriculum", "semester_9", "law", "credit_hours", "llb"]
+  },
+  {
+    "id": "llb_curr_sem10",
+    "content": "LLB Semester 10 courses: Interpretation of Statutes & Legislative Drafting, Administrative Law, Optional-III, Optional-IV, Capstone Research Project 6 Cr. Total credit hours: 18. Total program: 174 credit hours across 10 semesters (5 years). Minimum CGPA 2.5 required. 10-12 week internship compulsory after Semester VIII; 10,000-word research dissertation required after Semester IX.",
+    "category": "law",
+    "tags": ["curriculum", "semester_10", "law", "credit_hours", "llb"]
+  },
+
+  {
+    "id": "psy_curr_sem1",
+    "content": "BS Psychology Semester 1 courses: Arts & Humanities (AH-301, 2 Cr), Islamic Studies (ISL-301, 2 Cr), Introduction to Management (MS-304, 3 Cr), Functional English (ENG-303, 3 Cr), Introduction to Psychology (PSY-302, 3 Cr), History of Psychology (PSY-303, 3 Cr). Total credit hours: 16.",
+    "category": "psychology",
+    "tags": ["curriculum", "semester_1", "psychology", "credit_hours", "bs_psychology"]
+  },
+  {
+    "id": "psy_curr_sem2",
+    "content": "BS Psychology Semester 2 courses: Social Sciences (2 Cr), Expository Writing (ENG-304, 3 Cr), Human Rights Law (3 Cr), Ideology & Constitution of Pakistan (PST-313, 2 Cr), Experimental Psychology (PSY-304, 3 Cr), Introduction to Social Psychology (PSY-305, 3 Cr). Total credit hours: 16.",
+    "category": "psychology",
+    "tags": ["curriculum", "semester_2", "psychology", "credit_hours", "bs_psychology"]
+  },
+  {
+    "id": "psy_curr_sem3",
+    "content": "BS Psychology Semester 3 courses: Quantitative Reasoning-I (MTH-401, 3 Cr), ICT Applications (CSC-308, 3 Cr), Natural Science (3 Cr), Intro to Entrepreneurship (MS-309, 2 Cr), Historical Perspectives in Theories of Personality (PSY-406, 3 Cr), Cognitive Psychology (PSY-407, 3 Cr). Total credit hours: 17.",
+    "category": "psychology",
+    "tags": ["curriculum", "semester_3", "psychology", "credit_hours", "bs_psychology"]
+  },
+  {
+    "id": "psy_curr_sem4",
+    "content": "BS Psychology Semester 4 courses: Civic & Community Engagement (PSC-418, 2 Cr), Quantitative Reasoning-II (MTH-402, 3 Cr), Biological Psychology (PSY-408, 3 Cr), Psychology of Mass Media & Communication (PSY-409, 3 Cr), Modern Perspectives in Theories of Personality (PSY-410, 3 Cr), Educational Psychology (PSY-411, 3 Cr). Total credit hours: 17.",
+    "category": "psychology",
+    "tags": ["curriculum", "semester_4", "psychology", "credit_hours", "bs_psychology"]
+  },
+  {
+    "id": "psy_curr_sem5",
+    "content": "BS Psychology Semester 5 courses: Sports Psychology (HPE-518, 3 Cr), Psychopathology-I (PSY-512, 3 Cr), Basic Concepts of Psychological Testing (PSY-513, 3 Cr), Basic Research Methods (PSY-514, 3 Cr), Forensic Psychology (PSY-515, 3 Cr). Total credit hours: 15.",
+    "category": "psychology",
+    "tags": ["curriculum", "semester_5", "psychology", "credit_hours", "bs_psychology"]
+  },
+  {
+    "id": "psy_curr_sem6",
+    "content": "BS Psychology Semester 6 courses: Nutritional Psychology (HND-512, 3 Cr), Psychopathology-II (PSY-516, 3 Cr), Applied Psychological Testing (PSY-517, 3 Cr), Applied Research Methods (PSY-518, 3 Cr), Applied Statistics in Psychology (PSY-519, 3 Cr). Total credit hours: 15.",
+    "category": "psychology",
+    "tags": ["curriculum", "semester_6", "psychology", "credit_hours", "bs_psychology"]
+  },
+  {
+    "id": "psy_curr_sem7",
+    "content": "BS Psychology Semester 7 courses: Internship mandatory (PSY-647, 3 Cr), Developmental Psychology (PSY-620, 3 Cr), Assessment in Psychology (PSY-621, 3 Cr), Advanced Social Psychology (PSY-622, 3 Cr), Theories of Learning elective (PSY-623, 3 Cr), Capstone Research Project (PSY-649/648, 3 Cr). Total credit hours: 18.",
+    "category": "psychology",
+    "tags": ["curriculum", "semester_7", "psychology", "credit_hours", "bs_psychology"]
+  },
+  {
+    "id": "psy_curr_sem8",
+    "content": "BS Psychology Semester 8 courses: Therapies in Clinical Psychology (PSY-624, 3 Cr), Cross Cultural Psychology (PSY-625, 3 Cr), Positive Psychology (PSY-626, 3 Cr), Counseling Psychology elective (PSY-627, 3 Cr), Capstone Research Project (PSY-649, 3 Cr). Total credit hours: 15. Total program: 129 credit hours. Minimum CGPA 2.5 required.",
+    "category": "psychology",
+    "tags": ["curriculum", "semester_8", "psychology", "credit_hours", "bs_psychology"]
+  },
+
+  {
+    "id": "edu_bed_curr_sem1",
+    "content": "B.Ed (Hons) 4-Year Elementary Semester 1 courses: Functional English-I (3 Cr), Islamic Studies/Ethics (3 Cr), Child Development Foundation (3 Cr), Urdu/Regional Languages Content (3 Cr), General Science Content (3 Cr), General Methods of Teaching Foundation (3 Cr). Total credit hours: 17.",
+    "category": "education",
+    "tags": ["curriculum", "semester_1", "education", "credit_hours", "bed_hons"]
+  },
+  {
+    "id": "edu_bed_curr_sem2",
+    "content": "B.Ed (Hons) Semester 2 courses: English-II Communication Skills (3 Cr), Computer Literacy (3 Cr), Classroom Management (3 Cr), General Mathematics (3 Cr), Pakistan Studies (2 Cr), Methods of Teaching Islamic Studies (3 Cr). Total credit hours: 17.",
+    "category": "education",
+    "tags": ["curriculum", "semester_2", "education", "credit_hours", "bed_hons"]
+  },
+  {
+    "id": "edu_bed_curr_sem3",
+    "content": "B.Ed (Hons) Semester 3 courses: Teaching Literacy Skills (3 Cr), Art, Crafts & Calligraphy (3 Cr), Teaching of Urdu/Regional Languages (3 Cr), Teaching of General Science (3 Cr), ICT in Education (2 Cr), Teaching Practice Short Term (3 Cr). Total credit hours: 17.",
+    "category": "education",
+    "tags": ["curriculum", "semester_3", "education", "credit_hours", "bed_hons"]
+  },
+  {
+    "id": "edu_bed_curr_sem4",
+    "content": "B.Ed (Hons) Semester 4 courses: Classroom Assessment (3 Cr), Teaching of English (3 Cr), Teaching of Mathematics (3 Cr), School, Community & Teacher (3 Cr), Teaching of Social Studies (2 Cr), Teaching Practice (3 Cr). Total credit hours: 17.",
+    "category": "education",
+    "tags": ["curriculum", "semester_4", "education", "credit_hours", "bed_hons"]
+  },
+  {
+    "id": "edu_bed_curr_sem5",
+    "content": "B.Ed (Hons) Semester 5 courses: English-III Technical Writing & Presentation (3 Cr), Foundations of Education (3 Cr), Content Course-I Discipline I (3 Cr), Content Course-I Discipline II (3 Cr), Curriculum Development (3 Cr), Educational Psychology (3 Cr). Total credit hours: 18.",
+    "category": "education",
+    "tags": ["curriculum", "semester_5", "education", "credit_hours", "bed_hons"]
+  },
+  {
+    "id": "edu_bed_curr_sem6",
+    "content": "B.Ed (Hons) Semester 6 courses: Contemporary Issues & Trends in Education (3 Cr), Content Course-II Discipline I (3 Cr), Content Course-II Discipline II (3 Cr), Comparative Education (3 Cr), Introduction to Guidance & Counseling (3 Cr), Learning Innovation & Interactive Teaching (2 Cr). Total credit hours: 17.",
+    "category": "education",
+    "tags": ["curriculum", "semester_6", "education", "credit_hours", "bed_hons"]
+  },
+  {
+    "id": "edu_bed_curr_sem7",
+    "content": "B.Ed (Hons) Semester 7 courses: Content Course-III Discipline I (3 Cr), Content Course-III Discipline II (3 Cr), Pedagogy-I (3 Cr), Pedagogy-II (3 Cr), Research Methods in Education (3 Cr), Teaching Practice Short Term (3 Cr). Total credit hours: 18.",
+    "category": "education",
+    "tags": ["curriculum", "semester_7", "education", "credit_hours", "bed_hons"]
+  },
+  {
+    "id": "edu_bed_curr_sem8",
+    "content": "B.Ed (Hons) Semester 8 courses: School Management (3 Cr), Test Development & Evaluation (3 Cr), Educational Law (3 Cr), Teaching Practice Long Term (6 Cr), Research Project (3 Cr). Total credit hours: 18. Total program: 139 credit hours. Associate Degree in Education (ADE) available after Year 2.",
+    "category": "education",
+    "tags": ["curriculum", "semester_8", "education", "credit_hours", "bed_hons"]
+  },
+  {
+    "id": "edu_ma_curr",
+    "content": "MA Education (2-Year Program) semester courses: Sem 1&2 cover Philosophical & Sociological Foundation of Education, Educational Psychology, Historical Development in Education, Educational Research, Educational Measurement & Evaluation, Functional English (18 Cr each semester). Sem 3 covers Comparative Education-I, Educational Guidance & Counseling-I, Contemporary Trends in Education-I, Readings in Education-I, Computer Education, Intro to Statistics in Education (18 Cr). Sem 4 covers Comparative Education-II, Educational Guidance & Counseling-II, Contemporary Trends in Education-II, Readings in Education-II, Research Thesis 6 Cr (18 Cr). Total program: 72 credit hours.",
+    "category": "education",
+    "tags": ["curriculum", "ma_education", "education", "credit_hours"]
+  },
+
+  {
+    "id": "bba_curr_sem1",
+    "content": "BBA (Hons) Semester 1 courses: Art & Humanities (2 Cr), Islamic Studies/Religious Studies/Ethics (ISL-301, 2 Cr), Business Mathematics (MTH-306, 3 Cr), Functional English (ENG-303, 3 Cr), Introduction to Business (MS-301, 3 Cr), Financial Accounting I (MS-305, 3 Cr). Total credit hours: 16.",
+    "category": "management_sciences",
+    "tags": ["curriculum", "semester_1", "management_sciences", "credit_hours", "bba"]
+  },
+  {
+    "id": "bba_curr_sem2",
+    "content": "BBA (Hons) Semester 2 courses: Social Sciences (2 Cr), Expository Writing (ENG-303, 3 Cr), Business Statistics (STAT-303, 3 Cr), Ideology & Constitution of Pakistan (PST-313, 2 Cr), Introduction to Management (MS-304, 3 Cr), Financial Accounting II (MS-314, 3 Cr). Total credit hours: 16.",
+    "category": "management_sciences",
+    "tags": ["curriculum", "semester_2", "management_sciences", "credit_hours", "bba"]
+  },
+  {
+    "id": "bba_curr_sem3",
+    "content": "BBA (Hons) Semester 3 courses: Quantitative Reasoning I (MTH-401, 3 Cr), ICT Applications (CSC-308, 3 Cr), Natural Science (3 Cr), Intro to Entrepreneurship (MS-309, 2 Cr), Introduction to HRM (MS-401, 3 Cr), Basics of Marketing (MS-402, 3 Cr). Total credit hours: 17.",
+    "category": "management_sciences",
+    "tags": ["curriculum", "semester_3", "management_sciences", "credit_hours", "bba"]
+  },
+  {
+    "id": "bba_curr_sem4",
+    "content": "BBA (Hons) Semester 4 courses: Civic & Community Engagement (POL-418, 2 Cr), Quantitative Reasoning II (MTH-402, 3 Cr), Managerial Accounting (MS-431, 3 Cr), Marketing Management (MS-412, 3 Cr), Business Finance (MS-413, 3 Cr), SME Management (MS-421, 3 Cr). Total credit hours: 17.",
+    "category": "management_sciences",
+    "tags": ["curriculum", "semester_4", "management_sciences", "credit_hours", "bba"]
+  },
+  {
+    "id": "bba_curr_sem5",
+    "content": "BBA (Hons) Semester 5 courses: Business Law (3 Cr), Fundamentals of Economics (ECO-302, 3 Cr), Financial Management (MS-512, 3 Cr), Business Ethics (MS-501, 3 Cr), Specialization 1 elective (3 Cr), Specialization 2 elective (3 Cr). Total credit hours: 18.",
+    "category": "management_sciences",
+    "tags": ["curriculum", "semester_5", "management_sciences", "credit_hours", "bba"]
+  },
+  {
+    "id": "bba_curr_sem6",
+    "content": "BBA (Hons) Semester 6 courses: Organizational Behavior (MS-511, 3 Cr), CSR (MS-513, 3 Cr), Money & Banking (MS-521, 3 Cr), Business Research Methods (MS-503, 3 Cr), Specialization 3, 4 electives (3+3 Cr). Total credit hours: 18.",
+    "category": "management_sciences",
+    "tags": ["curriculum", "semester_6", "management_sciences", "credit_hours", "bba"]
+  },
+  {
+    "id": "bba_curr_sem7",
+    "content": "BBA (Hons) Semester 7 courses: Internship mandatory (MS-698, 3 Cr), Strategic Management (MS-616, 3 Cr), Consumer Behavior (MS-614, 3 Cr), Specialization 5, 6 electives (3+3 Cr). Total credit hours: 15.",
+    "category": "management_sciences",
+    "tags": ["curriculum", "semester_7", "management_sciences", "credit_hours", "bba"]
+  },
+  {
+    "id": "bba_curr_sem8",
+    "content": "BBA (Hons) Semester 8 courses: Project Management (MS-613, 3 Cr), Specialization 7, 8 electives (3+3 Cr), Capstone Research Project (MS-699, 6 Cr). Total credit hours: 15. Total program: 132 credit hours. Minimum CGPA 2.0 to graduate. Specialization tracks: Finance, HRM, or Marketing.",
+    "category": "management_sciences",
+    "tags": ["curriculum", "semester_8", "management_sciences", "credit_hours", "bba", "electives"]
+  },
+
+  {
+    "id": "hist_curr_sem1",
+    "content": "BS History & Pakistan Studies Semester 1 courses: English-I (ENG-301, 3 Cr), ICT (CSC-301, 3 Cr), Basic Concepts of History (HIS-301, 3 Cr), Survey Course of World Civilizations (HIS-302, 3 Cr), Islamic Studies/Ethics (ISL-320, 2 Cr), Descriptive Statistics (STAT-302, 3 Cr). Total credit hours: 17.",
+    "category": "history",
+    "tags": ["curriculum", "semester_1", "history", "credit_hours", "bs_history"]
+  },
+  {
+    "id": "hist_curr_sem2",
+    "content": "BS History & Pakistan Studies Semester 2 courses: English-II (ENG-302, 3 Cr), Muslims in South Asia 711-1526 (HIS-311, 3 Cr), Islamic History: Prophet & Pious Caliphate (HIS-312, 3 Cr), Principles of Sociology (PSC-404, 3 Cr), Pakistani Society & Culture (PST-321, 3 Cr), Pakistan Studies (PST-323, 2 Cr). Total credit hours: 17.",
+    "category": "history",
+    "tags": ["curriculum", "semester_2", "history", "credit_hours", "bs_history"]
+  },
+  {
+    "id": "hist_curr_sem3",
+    "content": "BS History & Pakistan Studies Semester 3 courses: Fundamentals of Economics (ECO-04, 3 Cr), Basic Concepts in Political Science (PSC-401, 3 Cr), English-III (ENG-410, 3 Cr), History of Pakistan 1947-1971 (HIS-421, 3 Cr), Research Methodology (HIS-422, 3 Cr), History of the Mughals 1526-1707 (HIS-423, 3 Cr). Total credit hours: 18.",
+    "category": "history",
+    "tags": ["curriculum", "semester_3", "history", "credit_hours", "bs_history"]
+  },
+  {
+    "id": "hist_curr_sem4",
+    "content": "BS History & Pakistan Studies Semester 4 courses: Geography of Pakistan (PST-311, 3 Cr), Everyday Science (PSC-304, 3 Cr), Basic Concepts in International Relations (PSC-402, 3 Cr), History of the Ottomans 1299-1606 (HIS-431, 3 Cr), Foreign Policy of Pakistan (HIS-432, 3 Cr), Introduction to Law (LW-315, 3 Cr). Total credit hours: 18.",
+    "category": "history",
+    "tags": ["curriculum", "semester_4", "history", "credit_hours", "bs_history"]
+  },
+  {
+    "id": "hist_curr_sem5",
+    "content": "BS History & Pakistan Studies Semester 5 courses: Khyber Pakhtunkhwa History & Culture (HIS-541, 3 Cr), History of the Umayyads 661-750 (HIS-542, 3 Cr), History of Later Mughals & Advent of Europeans (HIS-543, 3 Cr), Modern Afghanistan 1747-1919 (HIS-544, 3 Cr), Survey of Europe: Renaissance to French Revolution (HIS-545, 3 Cr), Muslim Historiography (HIS-546, 3 Cr). Total credit hours: 18.",
+    "category": "history",
+    "tags": ["curriculum", "semester_5", "history", "credit_hours", "bs_history"]
+  },
+  {
+    "id": "hist_curr_sem6",
+    "content": "BS History & Pakistan Studies Semester 6 courses: History of USA 1776-1914 (HIS-551, 3 Cr), History of the Abbasids 750-1258 (HIS-552, 3 Cr), Freedom Movement 1857-1947 (HIS-553, 3 Cr), Modern Afghanistan 1919 to date (HIS-554, 3 Cr), Survey of Modern Europe 1789-1991 (HIS-555, 3 Cr), Philosophy of History (HIS-556, 3 Cr). Total credit hours: 18.",
+    "category": "history",
+    "tags": ["curriculum", "semester_6", "history", "credit_hours", "bs_history"]
+  },
+  {
+    "id": "hist_curr_sem7",
+    "content": "BS History & Pakistan Studies Semester 7 courses: History of USA 1914 to date (HIS-661, 3 Cr), History of Muslim Rule in Spain (HIS-662, 3 Cr), Modern History of Central Asia 1880-1991 (HIS-663, 3 Cr), History of Revivalist Movements in South Asia (HIS-664, 3 Cr), History of Sufism in Indian Subcontinent (HIS-665, 3 Cr). Total credit hours: 15.",
+    "category": "history",
+    "tags": ["curriculum", "semester_7", "history", "credit_hours", "bs_history"]
+  },
+  {
+    "id": "hist_curr_sem8",
+    "content": "BS History & Pakistan Studies Semester 8 courses: Muslim Political Thought in South Asia elective (HIS-671, 3 Cr), Constitutional Development in Pakistan (HIS-672, 3 Cr), Modern History of Central Asia 1991 to date (HIS-673, 3 Cr), Research Project/Optional Courses (HIS-699, 6 Cr). Total credit hours: 15. Total program: 136 credit hours.",
+    "category": "history",
+    "tags": ["curriculum", "semester_8", "history", "credit_hours", "bs_history"]
+  },
+
+  {
+    "id": "isl_curr_sem1",
+    "content": "BS Islamic Studies Semester 1 courses: Arts & Humanities (AH-301, 2 Cr), Islamic Studies/Religious Studies/Ethics (ISL-301, 2 Cr), Fundamentals of Economics (ECO-302, 3 Cr), Functional English (ENG-303, 3 Cr), Arabic through Qur'anic Text (ISL-313, 3 Cr), Al-Quran Fatiha to Aal-e-Imran (ISL-314, 3 Cr). Total credit hours: 16.",
+    "category": "islamiyat",
+    "tags": ["curriculum", "semester_1", "islamiyat", "credit_hours", "bs_islamic_studies"]
+  },
+  {
+    "id": "isl_curr_sem2",
+    "content": "BS Islamic Studies Semester 2 courses: Introduction to Islamic Finance (MS-413, 2 Cr), Expository Writing (ENG-304, 3 Cr), Classroom Management (EDU-303, 3 Cr), Ideology & Constitution of Pakistan (PST-313, 2 Cr), Arabic Language-I (ISL-322, 3 Cr), Al-Quran Nisa to Anaam (ISL-324, 3 Cr). Total credit hours: 16.",
+    "category": "islamiyat",
+    "tags": ["curriculum", "semester_2", "islamiyat", "credit_hours", "bs_islamic_studies"]
+  },
+  {
+    "id": "isl_curr_sem3",
+    "content": "BS Islamic Studies Semester 3 courses: Quantitative Reasoning-I (MTH-401, 3 Cr), ICT Applications (CSC-308, 3 Cr), Food Chemistry Natural Science (FST-623, 3 Cr), Entrepreneurship (MS-309, 2 Cr), Al-Quran Aaraf to Younus (ISL-434, 3 Cr), Study of Ulum-al-Quran (ISL-433, 3 Cr). Total credit hours: 17.",
+    "category": "islamiyat",
+    "tags": ["curriculum", "semester_3", "islamiyat", "credit_hours", "bs_islamic_studies"]
+  },
+  {
+    "id": "isl_curr_sem4",
+    "content": "BS Islamic Studies Semester 4 courses: Civics & Community Engagement (POL-418, 2 Cr), Quantitative Reasoning-II (MTH-402, 3 Cr), Al-Quran Hood to Kahaf (ISL-445, 3 Cr), Muslim World & Contemporary Social Issues (ISL-442, 3 Cr), Arabic Language-II (ISL-443, 3 Cr), History & Compilation of Hadith (ISL-444, 3 Cr). Total credit hours: 17.",
+    "category": "islamiyat",
+    "tags": ["curriculum", "semester_4", "islamiyat", "credit_hours", "bs_islamic_studies"]
+  },
+  {
+    "id": "isl_curr_sem5",
+    "content": "BS Islamic Studies Semester 5 courses: Basic Concepts in International Relations (PSC-402, 3 Cr), Khyber Pakhtunkhwa History & Culture (HIS-531, 3 Cr), History of Tafsir & its Principles (ISL-552, 3 Cr), Al-Quran Maryam to Naml (ISL-553, 3 Cr), Textual Study of Hadith (ISL-554, 3 Cr). Total credit hours: 15.",
+    "category": "islamiyat",
+    "tags": ["curriculum", "semester_5", "islamiyat", "credit_hours", "bs_islamic_studies"]
+  },
+  {
+    "id": "isl_curr_sem6",
+    "content": "BS Islamic Studies Semester 6 courses: Uloom-al-Hadith (ISL-561, 3 Cr), Textual Study of Muslim Family Laws (ISL-562, 3 Cr), Al-Quran Qasas to Saffaat (ISL-563, 3 Cr), Introduction to World Religions (ISL-565, 3 Cr), Textual Study of Fiqh al Akbar (ISL-566, 3 Cr). Total credit hours: 15.",
+    "category": "islamiyat",
+    "tags": ["curriculum", "semester_6", "islamiyat", "credit_hours", "bs_islamic_studies"]
+  },
+  {
+    "id": "isl_curr_sem7",
+    "content": "BS Islamic Studies Semester 7 courses: Internship mandatory (ISL-697, 3 Cr), 'Ilm al-Kalam elective (ISL-671, 3 Cr), Methods of Research in Islamic Studies (ISL-673, 3 Cr), Al-Quran Saad to Najam (ISL-674, 3 Cr), Capstone Project/Research Project (ISL-699, 3 Cr). Total credit hours: 15.",
+    "category": "islamiyat",
+    "tags": ["curriculum", "semester_7", "islamiyat", "credit_hours", "bs_islamic_studies"]
+  },
+  {
+    "id": "isl_curr_sem8",
+    "content": "BS Islamic Studies Semester 8 courses: Objectives of Shariah elective (ISL-683, 3 Cr), Al-Quran Qammar to Naas (ISL-682, 3 Cr), Islamic Law of Inheritance (ISL-684, 3 Cr), Capstone Research Project/Study of Islamic Fiqh optional (ISL-699/676, 6 Cr). Total credit hours: 15. Total program: 126 credit hours.",
+    "category": "islamiyat",
+    "tags": ["curriculum", "semester_8", "islamiyat", "credit_hours", "bs_islamic_studies"]
+  },
+
+  {
+    "id": "urdu_curr_sem1",
+    "content": "BS Urdu Semester 1 courses: Arts & Humanities (2 Cr), Islamic Studies (2 Cr), Islamic History Interdisciplinary (3 Cr), Functional English (3 Cr), Urdu Language: Formation & Growth (3 Cr), Poetic Genres: Introduction & Understanding-I (3 Cr). Total credit hours: 16.",
+    "category": "urdu",
+    "tags": ["curriculum", "semester_1", "urdu", "credit_hours", "bs_urdu"]
+  },
+  {
+    "id": "urdu_curr_sem2",
+    "content": "BS Urdu Semester 2 courses: Social Sciences (2 Cr), Expository Writing (3 Cr), Selected Topics of Quran Interdisciplinary (3 Cr), Ideology & Constitution of Pakistan (2 Cr), Wit & Humor in Urdu Literature (3 Cr), Urdu Literature & Environment (3 Cr). Total credit hours: 16.",
+    "category": "urdu",
+    "tags": ["curriculum", "semester_2", "urdu", "credit_hours", "bs_urdu"]
+  },
+  {
+    "id": "urdu_curr_sem3",
+    "content": "BS Urdu Semester 3 courses: Quantitative Reasoning-I (3 Cr), ICT Applications (3 Cr), Natural Science (3 Cr), Entrepreneurship (2 Cr), Poetic Genres: Introduction & Understanding-II (3 Cr), Prose Genres: Introduction & Understanding-I (3 Cr). Total credit hours: 17.",
+    "category": "urdu",
+    "tags": ["curriculum", "semester_3", "urdu", "credit_hours", "bs_urdu"]
+  },
+  {
+    "id": "urdu_curr_sem4",
+    "content": "BS Urdu Semester 4 courses: Civic & Community Engagement (2 Cr), Quantitative Reasoning-II (3 Cr), Literary Terminology (3 Cr), Writing & Practical Composition (3 Cr), Prose Genres: Introduction & Understanding-II (3 Cr), Urdu Grammar & Spelling (3 Cr). Total credit hours: 17.",
+    "category": "urdu",
+    "tags": ["curriculum", "semester_4", "urdu", "credit_hours", "bs_urdu"]
+  },
+  {
+    "id": "urdu_curr_sem5",
+    "content": "BS Urdu Semester 5 courses: Arabic/Persian/Pashto: Brief History & Grammar (3 Cr), Bayan, Badee & Uroóz Rhetoric & Prosody (3 Cr), Urdu Fiction & Novel (3 Cr), Study of Urdu Ghazal: Classical & Modern (3 Cr), History of Urdu Literature & Literary Movements (3 Cr). Total credit hours: 15.",
+    "category": "urdu",
+    "tags": ["curriculum", "semester_5", "urdu", "credit_hours", "bs_urdu"]
+  },
+  {
+    "id": "urdu_curr_sem6",
+    "content": "BS Urdu Semester 6 courses: Urdu Short Story & Drama: Classical & Modern Study (3 Cr), Urdu Novel: 20th Century to Present (3 Cr), Urdu Poetry: Classical & Modern Study (3 Cr), Techniques of Urdu Prose (3 Cr), Ghalib's Creative & Critical Perspective (3 Cr). Total credit hours: 15.",
+    "category": "urdu",
+    "tags": ["curriculum", "semester_6", "urdu", "credit_hours", "bs_urdu"]
+  },
+  {
+    "id": "urdu_curr_sem7",
+    "content": "BS Urdu Semester 7 courses: Capstone Project/Research Project (3 Cr), Linguistics (3 Cr), Research Methodology & Editing (3 Cr), Contemporary Poetry KP context (3 Cr), World Classics (3 Cr), Internship mandatory (3 Cr). Total credit hours: 18.",
+    "category": "urdu",
+    "tags": ["curriculum", "semester_7", "urdu", "credit_hours", "bs_urdu"]
+  },
+  {
+    "id": "urdu_curr_sem8",
+    "content": "BS Urdu Semester 8 courses: New Critical Discourses (3 Cr), Special Study of Iqbal (3 Cr), Contemporary Prose KP context (3 Cr), Postcolonial Study of Urdu Literature (3 Cr), Optional Paper/Capstone Research Project (3 Cr). Total credit hours: 18. Total program: 131 credit hours.",
+    "category": "urdu",
+    "tags": ["curriculum", "semester_8", "urdu", "credit_hours", "bs_urdu"]
+  },
+
+  {
+    "id": "eng_curr_sem1",
+    "content": "BS English Semester 1 courses: English-I Listening & Speaking (ENG-311, 3 Cr), Islamic Studies/Ethics (2 Cr), Introduction to Psychology General (3 Cr), Introduction to Sociology General (3 Cr), Introduction to English Literature: Poetry & Drama (ENG-312, 3 Cr), Introduction to Linguistics (ENG-313, 3 Cr). Total credit hours: 17.",
+    "category": "english",
+    "tags": ["curriculum", "semester_1", "english", "credit_hours", "bs_english"]
+  },
+  {
+    "id": "eng_curr_sem2",
+    "content": "BS English Semester 2 courses: English-II Reading (ENG-321, 3 Cr), Pakistan Studies (2 Cr), Introduction to Computers (3 Cr), Human Resource Management General (3 Cr), History of English Literature Old English to Romantics (ENG-322, 3 Cr), Introduction to Grammar (ENG-323, 3 Cr). Total credit hours: 17.",
+    "category": "english",
+    "tags": ["curriculum", "semester_2", "english", "credit_hours", "bs_english"]
+  },
+  {
+    "id": "eng_curr_sem3",
+    "content": "BS English Semester 3 courses: English-III Writing (ENG-411, 3 Cr), Introduction to Political Science General (3 Cr), Introduction to Economics General (3 Cr), Introduction to Human Rights General (3 Cr), Introduction to English Literature Novel/Short Story/Prose (ENG-412, 3 Cr), Phonetics and Phonology (ENG-413, 3 Cr). Total credit hours: 18.",
+    "category": "english",
+    "tags": ["curriculum", "semester_3", "english", "credit_hours", "bs_english"]
+  },
+  {
+    "id": "eng_curr_sem4",
+    "content": "BS English Semester 4 courses: Academic Reading and Writing (ENG-431, 3 Cr), Human Rights & Citizenship General (3 Cr), 18th Century Literature (ENG-432, 3 Cr), General Course Anthropology/Gender Studies (3 Cr), History of English Literature Victorian to Contemporary (ENG-433, 3 Cr), Morphology and Syntax (ENG-434, 3 Cr). Total credit hours: 18.",
+    "category": "english",
+    "tags": ["curriculum", "semester_4", "english", "credit_hours", "bs_english"]
+  },
+  {
+    "id": "eng_curr_sem5",
+    "content": "BS English Semester 5 courses: Ideas and Ideologues (ENG-521, 3 Cr), Literary Criticism (ENG-522/523, 3 Cr), Poetry 14th-18th Century (ENG-524, 3 Cr), Modern Linguistic Thought (3 Cr), Sociolinguistics (3 Cr), Semantics (3 Cr). Total credit hours: 18.",
+    "category": "english",
+    "tags": ["curriculum", "semester_5", "english", "credit_hours", "bs_english"]
+  },
+  {
+    "id": "eng_curr_sem6",
+    "content": "BS English Semester 6 courses: Literary Criticism and Theory (ENG-541, 3 Cr), Classics in Drama (ENG-542, 3 Cr), The Romantics (ENG-543, 3 Cr), Lexical Studies (ENG-544, 3 Cr), Discourse Analysis (ENG-545, 3 Cr), Psycholinguistics (ENG-546, 3 Cr). Total credit hours: 18. Students declare Literature or Linguistics as major after this semester.",
+    "category": "english",
+    "tags": ["curriculum", "semester_6", "english", "credit_hours", "bs_english"]
+  },
+  {
+    "id": "eng_curr_sem7",
+    "content": "BS English Semester 7 (Literature track) courses: Major 20th-Century British Literature (ENG-611, 3 Cr), American Literature (ENG-612, 3 Cr), South Asian Literature (ENG-613, 3 Cr), Shakespeare Studies (ENG-614, 3 Cr), The Novel: Growth & Development (ENG-615, 3 Cr). Total credit hours: 15. Alternative Linguistics track: Language Teaching Methodologies, Pragmatics, Language Acquisition, Research Methods in Linguistics, World Englishes (ENG-621-625).",
+    "category": "english",
+    "tags": ["curriculum", "semester_7", "english", "credit_hours", "bs_english", "literature_track", "linguistics_track"]
+  },
+  {
+    "id": "eng_curr_sem8",
+    "content": "BS English Semester 8 (Literature track) courses: Women Writers in 20th/21st Century (ENG-631, 3 Cr), Science Fiction & Fantasy (ENG-632, 3 Cr), Post-Shakespeare Dramatic Experience (ENG-633, 3 Cr), Pakistani Literature (ENG-634, 3 Cr), Research Project/Optional Course (ENG-699, 3 Cr). Total credit hours: 15. Alternative Linguistics track: Syllabus Designing & Testing, Stylistics, Language in Education, Anthropological Linguistics, Research Project/Optional (ENG-635-638, 699). Total program: 130-136 credit hours.",
+    "category": "english",
+    "tags": ["curriculum", "semester_8", "english", "credit_hours", "bs_english", "literature_track", "linguistics_track"]
+  },
+
+  {
+    "id": "geo_curr_sem1",
+    "content": "BS Geography Semester 1 courses: English-I (ENG-301, 3 Cr), Islamic Studies/Ethics (ISL-301, 2 Cr), Basic Mathematics (MTH-303, 3 Cr), Intro to ICT (CSC-301, 3 Cr), Descriptive Statistics (STAT-302, 3 Cr), Fundamentals of Geography (GEOG-301, 3 Cr). Total credit hours: 17.",
+    "category": "geography",
+    "tags": ["curriculum", "semester_1", "geography", "credit_hours", "bs_geography"]
+  },
+  {
+    "id": "geo_curr_sem2",
+    "content": "BS Geography Semester 2 courses: English-II (ENG-302, 3 Cr), Pakistan Studies (PST-323, 2 Cr), Inferential Statistics (STAT-311, 3 Cr), General Chemistry (CHM-300, 4 Cr), Basic Concepts of History (HIS-301, 3 Cr), Physical Geography (GEOG-311, 3 Cr). Total credit hours: 18.",
+    "category": "geography",
+    "tags": ["curriculum", "semester_2", "geography", "credit_hours", "bs_geography"]
+  },
+  {
+    "id": "geo_curr_sem3",
+    "content": "BS Geography Semester 3 courses: English-III (ENG-410, 3 Cr), Basic Concepts in Political Science (PSC-401, 3 Cr), Principles of Sociology (PSC-404, 3 Cr), Essentials of Biology (ZOL-401, 3 Cr), Human Geography (GEOG-411, 3 Cr), Map Work (GEOG-412, 3 Cr). Total credit hours: 18.",
+    "category": "geography",
+    "tags": ["curriculum", "semester_3", "geography", "credit_hours", "bs_geography"]
+  },
+  {
+    "id": "geo_curr_sem4",
+    "content": "BS Geography Semester 4 courses: Plant Ecology (BOT-522, 3 Cr), Fundamentals of Economics (ECO-404, 3 Cr), Zoogeography & Paleontology (ZOL-631, 3 Cr), Geography of Pakistan (GEOG-413, 3 Cr), History & Development of Geographic Thought (GEOG-414, 3 Cr), Land Surveying (GEOG-415, 3 Cr). Total credit hours: 18.",
+    "category": "geography",
+    "tags": ["curriculum", "semester_4", "geography", "credit_hours", "bs_geography"]
+  },
+  {
+    "id": "geo_curr_sem5",
+    "content": "BS Geography Semester 5 courses: Principles of Cartography (GEOG-511, 3 Cr), Population Geography (GEOG-512, 3 Cr), Geomorphology (GEOG-513, 3 Cr), Introduction to Climatology (GEOG-514, 3 Cr), Oceanography (GEOG-515, 3 Cr), Economic Geography (GEOG-516, 3 Cr). Total credit hours: 18.",
+    "category": "geography",
+    "tags": ["curriculum", "semester_5", "geography", "credit_hours", "bs_geography"]
+  },
+  {
+    "id": "geo_curr_sem6",
+    "content": "BS Geography Semester 6 courses: Quantitative Geography (GEOG-521, 3 Cr), Environmental Geography (GEOG-522, 3 Cr), Geographical Information Science (GEOG-523, 3 Cr), Remote Sensing & Image Processing (GEOG-524, 3 Cr), Research Methodology (GEOG-525, 3 Cr). Total credit hours: 15.",
+    "category": "geography",
+    "tags": ["curriculum", "semester_6", "geography", "credit_hours", "bs_geography"]
+  },
+  {
+    "id": "geo_curr_sem7",
+    "content": "BS Geography Semester 7 courses: Political Geography (GEOG-631, 3 Cr), Geodesy & Navigation Satellite System (GEOG-632, 3 Cr), Elective-I (3 Cr), Elective-II (3 Cr), Research Project/Internship part 1 (GEOG-699/689, 3 Cr). Total credit hours: 15.",
+    "category": "geography",
+    "tags": ["curriculum", "semester_7", "geography", "credit_hours", "bs_geography"]
+  },
+  {
+    "id": "geo_curr_sem8",
+    "content": "BS Geography Semester 8 courses: Region & Regional Concept (GEOG-611, 3 Cr), Settlement Geography (GEOG-621, 3 Cr), Elective-III (3 Cr), Elective-IV (3 Cr), Research Project/Internship part 2 (GEOG-699/689, 3 Cr). Total credit hours: 15. Total program: 134 credit hours. Minimum CGPA 2.0 to graduate.",
+    "category": "geography",
+    "tags": ["curriculum", "semester_8", "geography", "credit_hours", "bs_geography", "electives"]
+  },
+
+  {
+    "id": "hnd_curr_sem1",
+    "content": "BS Human Nutrition & Dietetics Semester 1 courses: Basics of Art (AH-301, 2 Cr), Ideology & Constitution of Pakistan (PST-313, 2 Cr), Introduction to Microbiology (MB-301, 4 Cr), Functional English (ENG-303, 3 Cr), Fundamentals of Human Nutrition (HND-311, 3 Cr), Essentials of Food Science & Technology (FST-312, 3 Cr). Total credit hours: 17.",
+    "category": "food_and_nutrition",
+    "tags": ["curriculum", "semester_1", "food_nutrition", "credit_hours", "bs_hnd"]
+  },
+  {
+    "id": "hnd_curr_sem2",
+    "content": "BS Human Nutrition & Dietetics Semester 2 courses: Essentials of Management (MS-307, 2 Cr), Expository Writing (ENG-304, 3 Cr), Introductory Biochemistry (BCHM-302, 3 Cr), Islamic Studies/Ethics (ISL-301, 2 Cr), Pakistan Studies (PST-323, 2 Cr), Macronutrients in Human Nutrition (HND-313, 3 Cr), Fundamentals of Human Physiology (HND-314, 3 Cr). Total credit hours: 18.",
+    "category": "food_and_nutrition",
+    "tags": ["curriculum", "semester_2", "food_nutrition", "credit_hours", "bs_hnd"]
+  },
+  {
+    "id": "hnd_curr_sem3",
+    "content": "BS Human Nutrition & Dietetics Semester 3 courses: Quantitative Reasoning-I (MTH-401, 3 Cr), Applications of ICT (CSC-308, 3 Cr), Climate Change & Human Health Natural Science (BIT-414, 3 Cr), Intro to Entrepreneurship (MS-309, 2 Cr), Fehm-ul-Quran-I/General Course (ISL-325, 1 Cr), Advanced Human Physiology (HND-412, 3 Cr), Human Anatomy (HND-415, 3 Cr). Total credit hours: 18.",
+    "category": "food_and_nutrition",
+    "tags": ["curriculum", "semester_3", "food_nutrition", "credit_hours", "bs_hnd"]
+  },
+  {
+    "id": "hnd_curr_sem4",
+    "content": "BS Human Nutrition & Dietetics Semester 4 courses: Civic & Community Engagement (PSC-418, 2 Cr), Quantitative Reasoning-II (MTH-402, 3 Cr), Fehm-ul-Quran-II/General Course (ISL-325, 1 Cr), Micronutrients in Human Nutrition (HND-411, 3 Cr), Assessment of Nutritional Status (HND-416, 3 Cr), Nutrition through the Life Cycle (HND-417, 3 Cr), General Pathology (HND-418, 3 Cr). Total credit hours: 18.",
+    "category": "food_and_nutrition",
+    "tags": ["curriculum", "semester_4", "food_nutrition", "credit_hours", "bs_hnd"]
+  },
+  {
+    "id": "hnd_curr_sem5",
+    "content": "BS Human Nutrition & Dietetics Semester 5 courses: Clinical Biochemistry (BCHM-513, 3 Cr), Biostatistics (STAT-401, 3 Cr), Fundamentals of Dietetics (HND-511, 3 Cr), Nutrition and Psychology (HND-512, 3 Cr), Food Safety & Quality Management (FST-414, 3 Cr), Sports Nutrition (HND-521, 3 Cr). Total credit hours: 18.",
+    "category": "food_and_nutrition",
+    "tags": ["curriculum", "semester_5", "food_nutrition", "credit_hours", "bs_hnd"]
+  },
+  {
+    "id": "hnd_curr_sem6",
+    "content": "BS Human Nutrition & Dietetics Semester 6 courses: Food Analysis (FST-419, 3 Cr), Food and Drugs Law (HND-516, 2 Cr), Advanced Dietetics (HND-517, 3 Cr), Functional Foods & Nutraceuticals (HND-518, 3 Cr), Nutrition through Social Protection (HND-519, 2 Cr), Infants & Young Child Feeding (FST-522, 3 Cr). Total credit hours: 16.",
+    "category": "food_and_nutrition",
+    "tags": ["curriculum", "semester_6", "food_nutrition", "credit_hours", "bs_hnd"]
+  },
+  {
+    "id": "hnd_curr_sem7",
+    "content": "BS Human Nutrition & Dietetics Semester 7 courses: Internship mandatory (HND-698, 3 Cr), Dietetics in Managing Diseases (HND-611, 3 Cr), Research Methods in Nutrition (HND-613, 3 Cr), Metabolism of Nutrients (HND-629, 3 Cr), Nutrition in Emergencies Elective-I (HND-625, 3 Cr), Capstone Research Project (HND-699, 3 Cr). Total credit hours: 18.",
+    "category": "food_and_nutrition",
+    "tags": ["curriculum", "semester_7", "food_nutrition", "credit_hours", "bs_hnd"]
+  },
+  {
+    "id": "hnd_curr_sem8",
+    "content": "BS Human Nutrition & Dietetics Semester 8 courses: Food Chemistry Elective-II (FST-623, 3 Cr), Nutritional Practices in Clinical Care (HND-614, 3 Cr), Food Service Management (HND-616, 3 Cr), Food Microbiology (FST-413, 3 Cr), Capstone Research Project (HND-699, 3 Cr). Total credit hours: 15. Total program: 138 credit hours.",
+    "category": "food_and_nutrition",
+    "tags": ["curriculum", "semester_8", "food_nutrition", "credit_hours", "bs_hnd"]
+  },
+
+  {
+    "id": "bi_curr_sem1",
+    "content": "BS Bio-Informatics Semester 1 courses: Art & Humanities (AH-301, 2 Cr), Islamic Studies (ISL-301, 2 Cr), Applications of ICT (CSC-308, 3 Cr), Functional English (ENG-303, 3 Cr), Intro to Bioinformatics & Computational Biology (BI-303, 4 Cr), Cell Biology (BIT-303, 3 Cr). Total credit hours: 17.",
+    "category": "bioinformatics",
+    "tags": ["curriculum", "semester_1", "bioinformatics", "credit_hours", "bs_bioinformatics"]
+  },
+  {
+    "id": "bi_curr_sem2",
+    "content": "BS Bio-Informatics Semester 2 courses: Social Sciences (2 Cr), Expository Writing (ENG-304, 3 Cr), Multivariable Calculus (MTH-404, 3 Cr), Ideology & Constitution of Pakistan (PST-313, 2 Cr), Essentials of Genetics (BIT-311, 4 Cr), Programming Fundamentals (CSC-302, 4 Cr). Total credit hours: 18.",
+    "category": "bioinformatics",
+    "tags": ["curriculum", "semester_2", "bioinformatics", "credit_hours", "bs_bioinformatics"]
+  },
+  {
+    "id": "bi_curr_sem3",
+    "content": "BS Bio-Informatics Semester 3 courses: Quantitative Reasoning-I (MTH-401, 3 Cr), Natural Sciences (3 Cr), Intro to Entrepreneurship (MS-309, 2 Cr), Introductory Biochemistry (BCHM-302, 3 Cr), Bioinformatics I Methods (BI-411, 3 Cr), Molecular Biology (BIT-413, 3 Cr). Total credit hours: 17.",
+    "category": "bioinformatics",
+    "tags": ["curriculum", "semester_3", "bioinformatics", "credit_hours", "bs_bioinformatics"]
+  },
+  {
+    "id": "bi_curr_sem4",
+    "content": "BS Bio-Informatics Semester 4 courses: Civic & Community Engagement (PSC-418, 2 Cr), Quantitative Reasoning-II (MTH-402, 3 Cr), Probability & Statistics (STAT-402, 3 Cr), Linear Algebra (MTH-317, 3 Cr), Metabolism of Biomolecules (BCHM-304, 3 Cr), Bioinformatics II Applied (BI-412, 4 Cr). Total credit hours: 17-18.",
+    "category": "bioinformatics",
+    "tags": ["curriculum", "semester_4", "bioinformatics", "credit_hours", "bs_bioinformatics"]
+  },
+  {
+    "id": "bi_curr_sem5",
+    "content": "BS Bio-Informatics Semester 5 courses: Business Communication (ENG-402, 3 Cr), Genomics (BI-531, 3 Cr), Bioinformatics Computing (BI-524, 4 Cr), Object Oriented Programming (CSC-312, 4 Cr), Database Management Systems (CSC-524, 4 Cr). Total credit hours: 18.",
+    "category": "bioinformatics",
+    "tags": ["curriculum", "semester_5", "bioinformatics", "credit_hours", "bs_bioinformatics"]
+  },
+  {
+    "id": "bi_curr_sem6",
+    "content": "BS Bio-Informatics Semester 6 courses: Proteomics (BI-532, 3 Cr), Ethical & Legal Issues in Bioinformatics (BI-502, 2 Cr), NGS Data Analysis (BI-525, 3 Cr), Clinical Bioinformatics (BI-526, 3 Cr), Digital Logic & Design (CSC-305, 3 Cr), Data Structures (CSC-423, 4 Cr). Total credit hours: 18.",
+    "category": "bioinformatics",
+    "tags": ["curriculum", "semester_6", "bioinformatics", "credit_hours", "bs_bioinformatics"]
+  },
+  {
+    "id": "bi_curr_sem7",
+    "content": "BS Bio-Informatics Semester 7 courses: Internship mandatory (BI-698, 3 Cr), Bioinformatics Software Engineering (BI-622, 3 Cr), Information Security (CSC-521, 3 Cr), Computer Networks (CSC-515, 3 Cr), Operating Systems (CSC-432, 3 Cr), Capstone Research Project part 1 (BI-699, 3 Cr). Total credit hours: 18.",
+    "category": "bioinformatics",
+    "tags": ["curriculum", "semester_7", "bioinformatics", "credit_hours", "bs_bioinformatics"]
+  },
+  {
+    "id": "bi_curr_sem8",
+    "content": "BS Bio-Informatics Semester 8 courses: Artificial Intelligence (CSC-543, 3 Cr), Computer Organization & Assembly Language (CSC-431, 3 Cr), Analysis of Algorithms (CSC-672, 3 Cr), System Biology (BI-641, 3 Cr), Capstone Research Project part 2 (BI-699, 3 Cr). Total credit hours: 15. Total program: 138 credit hours.",
+    "category": "bioinformatics",
+    "tags": ["curriculum", "semester_8", "bioinformatics", "credit_hours", "bs_bioinformatics"]
+  },
+
+  {
+  "id": "sbbwu_dept_count",
+  "content": "SBBWU Peshawar has 35 departments and academic program entries in this dataset. The complete list is: Biochemistry, Bioinformatics, Botany, Human Nutrition & Dietetics, Molecular Biology, Biotechnology, Health and Well Being Sciences, Microbiology, Environmental Sciences and Sustainability, Zoology, Chemistry, Computer Science, Software Engineering, Geography, Mathematics, Physics, Statistics, Communication Studies, Economics, Education, Law, Business Administration, Islamic Banking & Finance, Project Management, Political Science, Psychology, Management Science, English, Home Economics, Pakistan Studies, History, Islamiyat, Urdu, Art and Design, and Development Studies.",
+  "category": "departments_programs",
+  "tags": [
+    "departments",
+    "faculties",
+    "overview",
+    "sbbwu_structure",
+    "all_departments",
+    "department_list",
+    "complete_department_list",
+    "department_names",
+    "academic_departments",
+    "all_names",
+    "university_departments"
+  ]
+},
+  {
+    "id": "sbbwu_gpa_system",
+    "content": "SBBWU GPA calculation: GPA = sum of (Grade Point x Credit Hours) for all courses in a semester, divided by total credit hours attempted. CGPA is the same calculation across all semesters cumulatively. Grade scale is 1-4 with 85%+ = A (4.0), 70-84% = B (3.0-3.9), 60-69% = C (2.0-2.9), 50-59% = D (1.0-1.9), below 50% = F. P/F (Pass/Fail) grades for thesis/fieldwork are excluded from CGPA calculation.",
+    "category": "general",
+    "tags": ["gpa", "cgpa", "grading", "credit_hours", "assessment_policy"]
+  }
+]

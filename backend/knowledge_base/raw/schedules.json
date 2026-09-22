@@ -1,0 +1,98 @@
+[
+  {
+    "id": "sched_001",
+    "content": "SBBWU postgraduate (MS/M.Phil/PhD) admission schedule for Fall 2026-27: the last date for submission of admission forms is Monday, 21st September 2026.",
+    "category": "postgraduate_schedule",
+    "tags": ["postgraduate", "deadline", "submission", "fall_2026-27"]
+  },
+  {
+    "id": "sched_002",
+    "content": "SBBWU postgraduate admission schedule for Fall 2026-27: the List of Eligible Candidates will be displayed on Friday, 25th September 2026.",
+    "category": "postgraduate_schedule",
+    "tags": ["postgraduate", "eligible_candidates", "merit_list", "fall_2026-27"]
+  },
+  {
+    "id": "sched_003",
+    "content": "SBBWU postgraduate admission schedule for Fall 2026-27: the Test Date (Departmental Test/GAT) is Tuesday, 29th September 2026.",
+    "category": "postgraduate_schedule",
+    "tags": ["postgraduate", "test_date", "gat", "exam_date", "fall_2026-27"]
+  },
+  {
+    "id": "sched_004",
+    "content": "SBBWU postgraduate admission schedule for Fall 2026-27: the List of Qualifying Candidates will be displayed on Tuesday, 6th October 2026.",
+    "category": "postgraduate_schedule",
+    "tags": ["postgraduate", "qualifying_candidates", "merit_list", "fall_2026-27"]
+  },
+  {
+    "id": "sched_005",
+    "content": "SBBWU postgraduate admission schedule for Fall 2026-27: Interviews of Qualifying Candidates are scheduled for Monday, 12th October 2026.",
+    "category": "postgraduate_schedule",
+    "tags": ["postgraduate", "interview", "fall_2026-27"]
+  },
+  {
+    "id": "sched_006",
+    "content": "SBBWU postgraduate admission schedule for Fall 2026-27: the List of Selected Candidates will be displayed on Monday, 19th October 2026.",
+    "category": "postgraduate_schedule",
+    "tags": ["postgraduate", "selected_candidates", "merit_list", "fall_2026-27"]
+  },
+  {
+    "id": "sched_007",
+    "content": "SBBWU postgraduate admission schedule for Fall 2026-27: Orientation Week and Submission of Fee run from Monday to Friday, 26th–30th October 2026.",
+    "category": "postgraduate_schedule",
+    "tags": ["postgraduate", "orientation", "fee_submission", "fall_2026-27"]
+  },
+  {
+    "id": "sched_008",
+    "content": "SBBWU postgraduate admission schedule for Fall 2026-27: Commencement of Classes is Monday, 2nd November 2026.",
+    "category": "postgraduate_schedule",
+    "tags": ["postgraduate", "classes_start", "commencement", "fall_2026-27"]
+  },
+  {
+    "id": "sched_009",
+    "content": "SBBWU undergraduate admission schedule for Fall 2026: the Departmental Entry Test for English Language & Literature and the PGDCP Test is on 05th October 2026 at 09:00 am.",
+    "category": "undergraduate_schedule",
+    "tags": ["undergraduate", "entry_test", "english", "pgdcp", "fall_2026"]
+  },
+  {
+    "id": "sched_010",
+    "content": "SBBWU undergraduate admission schedule for Fall 2026: the Departmental Entry Test for Computer Science, Software Engineering, BBA, Islamic Banking & Finance, and Project Management is on 05th October 2026 at 01:00 pm.",
+    "category": "undergraduate_schedule",
+    "tags": ["undergraduate", "entry_test", "computer_science", "bba", "software_engineering", "fall_2026"]
+  },
+  {
+    "id": "sched_011",
+    "content": "SBBWU undergraduate admission schedule for Fall 2026: the Trial for Sports Seats is on 06th October 2026 at 10:00 am.",
+    "category": "undergraduate_schedule",
+    "tags": ["undergraduate", "sports_trial", "sports_quota", "fall_2026"]
+  },
+  {
+    "id": "sched_012",
+    "content": "SBBWU undergraduate admission schedule for Fall 2026: the Display of the 1st Merit List and Waiting List(s) is on 13th October 2026.",
+    "category": "undergraduate_schedule",
+    "tags": ["undergraduate", "merit_list", "waiting_list", "fall_2026"]
+  },
+  {
+    "id": "sched_013",
+    "content": "SBBWU undergraduate admission schedule for Fall 2026: Interviews for the 1st Merit List are on 14th October 2026.",
+    "category": "undergraduate_schedule",
+    "tags": ["undergraduate", "interview", "merit_list", "fall_2026"]
+  },
+  {
+    "id": "sched_014",
+    "content": "SBBWU undergraduate admission schedule for Fall 2026: Interviews for PGDCP are on 16th, 19th, and 20th October 2026.",
+    "category": "undergraduate_schedule",
+    "tags": ["undergraduate", "interview", "pgdcp", "fall_2026"]
+  },
+  {
+    "id": "sched_015",
+    "content": "SBBWU undergraduate admission schedule for Fall 2026: the Display of the 2nd Merit Lists is on 21st October 2026.",
+    "category": "undergraduate_schedule",
+    "tags": ["undergraduate", "merit_list", "second_merit_list", "fall_2026"]
+  },
+  {
+    "id": "sched_016",
+    "content": "SBBWU undergraduate admission schedule for Fall 2026: Interviews for the 2nd Merit Lists are on 22nd and 23rd October 2026.",
+    "category": "undergraduate_schedule",
+    "tags": ["undergraduate", "interview", "second_merit_list", "fall_2026"]
+  }
+]
