@@ -1,14 +1,19 @@
 
 "use client";
 
-import { FormEvent, useEffect, useState } from "react";
+import { FormEvent, Suspense, useEffect, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 
 const API_URL = "http://127.0.0.1:8000";
 
 type Mode = "signin" | "signup";
 
-export default function AuthPage() {
+// ============================================================
+// Inner component that uses useSearchParams
+// (must be inside a <Suspense> boundary)
+// ============================================================
+
+function AuthContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
 
@@ -387,3 +392,15 @@ export default function AuthPage() {
   );
 }
 
+// ============================================================
+// Page export — wraps AuthContent in a Suspense boundary
+// so useSearchParams() is satisfied during static generation
+// ============================================================
+
+export default function AuthPage() {
+  return (
+    <Suspense fallback={null}>
+      <AuthContent />
+    </Suspense>
+  );
+}
