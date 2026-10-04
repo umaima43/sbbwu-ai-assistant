@@ -21,7 +21,7 @@ positive_percentage: number;
 negative_percentage: number;
 };
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "";
 const ITEMS_PER_PAGE = 10;
 
 export default function FeedbackPage() {

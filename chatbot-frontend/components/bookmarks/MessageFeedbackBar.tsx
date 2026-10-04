@@ -12,7 +12,7 @@ interface MessageFeedbackBarProps {
   onFeedback?: (value: "up" | "down" | null) => void;
 }
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "";
 
 const iconColorClasses = (active: boolean) =>
   `transition-colors duration-150 ${

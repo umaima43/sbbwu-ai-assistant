@@ -27,7 +27,7 @@ label: string;
 messages: number;
 };
 
-const API_URL = "http://127.0.0.1:8000";
+const API_URL = "";
 
 function AdminDashboard() {
 const router = useRouter();
