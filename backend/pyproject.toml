@@ -14,7 +14,9 @@ dependencies = [
     "resend",
     "itsdangerous",
     "numpy",
-    "faiss-cpu"  # <--- Add faiss-cpu here
+    "faiss-cpu",
+    "sentence-transformers",
+    "torch"
 ]
 
 [tool.vercel]
