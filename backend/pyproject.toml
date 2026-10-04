@@ -11,7 +11,8 @@ dependencies = [
     "authlib",
     "httpx",
     "groq",
-    "resend"
+    "resend",
+    "itsdangerous"
 ]
 
 [tool.vercel]
