@@ -13,7 +13,8 @@ dependencies = [
     "groq",
     "resend",
     "itsdangerous",
-    "numpy"  # <--- Add numpy here
+    "numpy",
+    "faiss-cpu"  # <--- Add faiss-cpu here
 ]
 
 [tool.vercel]
