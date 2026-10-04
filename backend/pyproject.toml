@@ -12,7 +12,8 @@ dependencies = [
     "httpx",
     "groq",
     "resend",
-    "itsdangerous"
+    "itsdangerous",
+    "numpy"  # <--- Add numpy here
 ]
 
 [tool.vercel]
